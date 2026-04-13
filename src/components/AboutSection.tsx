@@ -46,16 +46,16 @@ export default function AboutSection() {
             </p>
             <div className="flex flex-wrap gap-3">
               <span className="px-4 py-2 bg-white-cream rounded-full text-sm text-mocha-dark border border-concrete-light">
-                Genie Civil
+                Génie Civil
               </span>
               <span className="px-4 py-2 bg-white-cream rounded-full text-sm text-mocha-dark border border-concrete-light">
                 Architecture
               </span>
               <span className="px-4 py-2 bg-white-cream rounded-full text-sm text-mocha-dark border border-concrete-light">
-                Budget &amp; Couts
+                Budget &amp; Coûts
               </span>
               <span className="px-4 py-2 bg-white-cream rounded-full text-sm text-mocha-dark border border-concrete-light">
-                Reglementation
+                Réglementation
               </span>
             </div>
           </div>

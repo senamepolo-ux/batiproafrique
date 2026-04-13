@@ -246,7 +246,7 @@ export default async function ArticlePage({
         <section className="bg-mocha-cream/50 py-16">
           <div className="max-w-7xl mx-auto px-4">
             <h2 className="font-heading text-2xl lg:text-3xl text-mocha-dark text-center mb-10">
-              Articles recommandes
+              Articles recommandés
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
               {related.map((a) => (

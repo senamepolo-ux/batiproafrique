@@ -1,137 +1,137 @@
 ---
-title: "Maison a Etage ou Plain-Pied au Senegal : Que Choisir ?"
+title: "Maison à Étage ou Plain-Pied au Sénégal : Que Choisir ?"
 slug: "maison-etage-vs-plain-pied-senegal"
 date: "2026-04-10"
 category: "Conseils"
-excerpt: "R+1 ou plain-pied ? Le choix impacte votre budget, votre confort et la valeur de votre bien. Comparatif detaille adapte aux realites senegalaises : prix, avantages et inconvenients."
+excerpt: "R+1 ou plain-pied ? Le choix impacte votre budget, votre confort et la valeur de votre bien. Comparatif détaillé adapté aux réalités sénégalaises : prix, avantages et inconvénients."
 image: "/images/articles/villa-moderne-etage.jpg"
 readTime: "9 min"
 tags: ["maison", "etage", "plain-pied", "senegal", "construction", "budget"]
 sectionImages:
   - url: "/images/articles/maison-modeste-tuiles.jpg"
     alt: "Maison plain-pied avec enduit terre et toiture en tuiles"
-    caption: "Le plain-pied : confort de vie et simplicite de construction"
-    after: "La maison plain-pied : confort et simplicite"
+    caption: "Le plain-pied : confort de vie et simplicité de construction"
+    after: "La maison plain-pied : confort et simplicité"
   - url: "/images/articles/villa-moderne-etage.jpg"
-    alt: "Villa moderne a etage avec pierre et bois"
-    caption: "La maison a etage : maximiser la surface sur un petit terrain"
-    after: "La maison a etage (R+1) : optimiser le terrain"
+    alt: "Villa moderne à étage avec pierre et bois"
+    caption: "La maison à étage : maximiser la surface sur un petit terrain"
+    after: "La maison à étage (R+1) : optimiser le terrain"
 ---
 
-## Le dilemme de tout constructeur senegalais
+## Le dilemme de tout constructeur sénégalais
 
-Quand on achete un terrain au Senegal, une question revient toujours : faut-il construire en plain-pied (R+0) ou en etage (R+1, voire R+2) ? La reponse depend de votre terrain, votre budget et votre mode de vie. Ce guide vous aide a faire le bon choix.
+Quand on achète un terrain au Sénégal, une question revient toujours : faut-il construire en plain-pied (R+0) ou en étage (R+1, voire R+2) ? La réponse dépend de votre terrain, votre budget et votre mode de vie. Ce guide vous aide à faire le bon choix.
 
-## La maison plain-pied : confort et simplicite
+## La maison plain-pied : confort et simplicité
 
-La maison de plain-pied s'etend entierement au rez-de-chaussee. C'est le type de construction le plus simple et le plus courant au Senegal.
+La maison de plain-pied s'étend entièrement au rez-de-chaussée. C'est le type de construction le plus simple et le plus courant au Sénégal.
 
 ### Avantages
 
-- **Cout de construction inferieur** : pas de dalle beton intermediaire, pas d'escalier, structure plus legere. Economie de 20 a 30 % par rapport a un R+1 de meme surface
-- **Construction plus rapide** : 3 a 5 mois contre 6 a 10 mois pour un R+1
-- **Accessibilite** : pas d'escalier a monter, ideal pour les personnes agees et les enfants
-- **Facilite d'entretien** : toiture accessible, murs faciles a repeindre, pas de probleme d'etancheite de dalle
+- **Coût de construction inférieur** : pas de dalle béton intermédiaire, pas d'escalier, structure plus légère. Économie de 20 à 30 % par rapport à un R+1 de même surface
+- **Construction plus rapide** : 3 à 5 mois contre 6 à 10 mois pour un R+1
+- **Accessibilité** : pas d'escalier à monter, idéal pour les personnes âgées et les enfants
+- **Facilité d'entretien** : toiture accessible, murs faciles à repeindre, pas de problème d'étanchéité de dalle
 - **Ventilation naturelle** : plus facile d'assurer une bonne circulation d'air sur un seul niveau
-- **Fondations plus legeres** : moins de poids a supporter, donc fondations moins couteuses
+- **Fondations plus légères** : moins de poids à supporter, donc fondations moins coûteuses
 
-### Inconvenients
+### Inconvénients
 
-- **Consomme plus de terrain** : pour 150 m2 habitables, il faut au moins 200-250 m2 de terrain (avec les reculs reglementaires)
-- **Toiture plus grande** : plus de surface de toit = cout plus eleve sur ce poste
-- **Moins de surface habitable** : sur un petit terrain (150 m2), vous ne pourrez construire que 80-100 m2 habitables en respectant le CES
+- **Consomme plus de terrain** : pour 150 m² habitables, il faut au moins 200-250 m² de terrain (avec les reculs réglementaires)
+- **Toiture plus grande** : plus de surface de toit = coût plus élevé sur ce poste
+- **Moins de surface habitable** : sur un petit terrain (150 m²), vous ne pourrez construire que 80-100 m² habitables en respectant le CES
 
-### Cout estime pour 120 m2
+### Coût estimé pour 120 m²
 
 | Poste | Budget |
 |-------|--------|
 | Fondations | 1 200 000 FCFA |
-| Structure (poteaux, chainages) | 1 800 000 FCFA |
+| Structure (poteaux, chaînages) | 1 800 000 FCFA |
 | Murs | 1 500 000 FCFA |
-| Toiture (120 m2 de tole) | 1 800 000 FCFA |
-| Electricite + plomberie | 1 200 000 FCFA |
+| Toiture (120 m² de tôle) | 1 800 000 FCFA |
+| Électricité + plomberie | 1 200 000 FCFA |
 | Finitions (sol, enduit, peinture) | 2 000 000 FCFA |
 | Menuiseries | 800 000 FCFA |
 | **Total** | **10 300 000 FCFA** |
 
-## La maison a etage (R+1) : optimiser le terrain
+## La maison à étage (R+1) : optimiser le terrain
 
-La maison a etage permet de doubler la surface habitable sur le meme terrain. C'est souvent la solution imposee par la taille des terrains en zone urbaine.
+La maison à étage permet de doubler la surface habitable sur le même terrain. C'est souvent la solution imposée par la taille des terrains en zone urbaine.
 
 ### Avantages
 
-- **Double la surface habitable** : sur un terrain de 150 m2, vous pouvez obtenir 160-200 m2 habitables
-- **Separation des espaces** : salon et cuisine en bas, chambres en haut — plus d'intimite
-- **Possibilite de revenus locatifs** : un etage peut etre loue independamment
-- **Vue degagee** : les pieces a l'etage beneficient de plus de lumiere et d'air
-- **Valorisation du terrain** : en zone urbaine ou les terrains sont chers, maximiser la surface construite est un investissement intelligent
+- **Double la surface habitable** : sur un terrain de 150 m², vous pouvez obtenir 160-200 m² habitables
+- **Séparation des espaces** : salon et cuisine en bas, chambres en haut — plus d'intimité
+- **Possibilité de revenus locatifs** : un étage peut être loué indépendamment
+- **Vue dégagée** : les pièces à l'étage bénéficient de plus de lumière et d'air
+- **Valorisation du terrain** : en zone urbaine où les terrains sont chers, maximiser la surface construite est un investissement intelligent
 
-### Inconvenients
+### Inconvénients
 
-- **Cout plus eleve** : la dalle beton, l'escalier et les fondations renforcees ajoutent 20 a 30 % au budget
-- **Delai plus long** : il faut attendre le sechage de la dalle (21 jours minimum) avant de monter l'etage
-- **Structure plus exigeante** : fondations plus profondes, poteaux plus gros, dalle beton armee — tout doit etre calcule par un ingenieur
-- **Escalier** : occupe 5 a 8 m2 de surface au sol, et pas pratique pour les personnes a mobilite reduite
-- **Chaleur a l'etage** : l'air chaud monte, les chambres a l'etage sont plus chaudes que celles du bas. La climatisation est quasi obligatoire
+- **Coût plus élevé** : la dalle béton, l'escalier et les fondations renforcées ajoutent 20 à 30 % au budget
+- **Délai plus long** : il faut attendre le séchage de la dalle (21 jours minimum) avant de monter l'étage
+- **Structure plus exigeante** : fondations plus profondes, poteaux plus gros, dalle béton armée — tout doit être calculé par un ingénieur
+- **Escalier** : occupe 5 à 8 m² de surface au sol, et pas pratique pour les personnes à mobilité réduite
+- **Chaleur à l'étage** : l'air chaud monte, les chambres à l'étage sont plus chaudes que celles du bas. La climatisation est quasi obligatoire
 
-### Cout estime pour 120 m2 (60 m2 par niveau)
+### Coût estimé pour 120 m² (60 m² par niveau)
 
 | Poste | Budget |
 |-------|--------|
-| Fondations (renforcees pour R+1) | 1 800 000 FCFA |
+| Fondations (renforcées pour R+1) | 1 800 000 FCFA |
 | Structure RDC (poteaux, poutres) | 2 000 000 FCFA |
 | Murs RDC | 800 000 FCFA |
-| Dalle beton (60 m2) | 2 500 000 FCFA |
-| Structure etage | 1 200 000 FCFA |
-| Murs etage | 800 000 FCFA |
-| Escalier beton | 400 000 FCFA |
-| Toiture (60 m2 de tole) | 900 000 FCFA |
-| Electricite + plomberie (2 niveaux) | 1 600 000 FCFA |
+| Dalle béton (60 m²) | 2 500 000 FCFA |
+| Structure étage | 1 200 000 FCFA |
+| Murs étage | 800 000 FCFA |
+| Escalier béton | 400 000 FCFA |
+| Toiture (60 m² de tôle) | 900 000 FCFA |
+| Électricité + plomberie (2 niveaux) | 1 600 000 FCFA |
 | Finitions (sol, enduit, peinture) | 2 500 000 FCFA |
 | Menuiseries | 1 000 000 FCFA |
 | **Total** | **15 500 000 FCFA** |
 
-## Comparatif direct pour 120 m2 habitables
+## Comparatif direct pour 120 m² habitables
 
-| Critere | Plain-pied (R+0) | Etage (R+1) |
+| Critère | Plain-pied (R+0) | Étage (R+1) |
 |---------|-------------------|-------------|
 | **Budget total** | ~10 300 000 FCFA | ~15 500 000 FCFA |
-| **Cout au m2** | ~86 000 FCFA/m2 | ~129 000 FCFA/m2 |
-| **Terrain minimum** | 200 m2 | 120 m2 |
-| **Delai construction** | 4-6 mois | 7-10 mois |
-| **Confort thermique** | Bon | Moyen (chaud a l'etage) |
-| **Accessibilite** | Excellente | Limitee (escalier) |
+| **Coût au m²** | ~86 000 FCFA/m² | ~129 000 FCFA/m² |
+| **Terrain minimum** | 200 m² | 120 m² |
+| **Délai construction** | 4-6 mois | 7-10 mois |
+| **Confort thermique** | Bon | Moyen (chaud à l'étage) |
+| **Accessibilité** | Excellente | Limitée (escalier) |
 | **Potentiel locatif** | Faible | Fort |
-| **Valeur revente** | Bonne | Tres bonne en ville |
+| **Valeur revente** | Bonne | Très bonne en ville |
 
 ## Quelle solution choisir ?
 
 ### Choisissez le plain-pied si :
 
-- Votre terrain fait plus de 250 m2
-- Vous avez des personnes agees ou a mobilite reduite dans la famille
-- Votre budget est serre (moins de 12 millions)
-- Vous etes en zone rurale ou periurbaine ou le terrain est moins cher
-- Vous privilegiez le confort a la surface
+- Votre terrain fait plus de 250 m²
+- Vous avez des personnes âgées ou à mobilité réduite dans la famille
+- Votre budget est serré (moins de 12 millions)
+- Vous êtes en zone rurale ou périurbaine où le terrain est moins cher
+- Vous privilégiez le confort à la surface
 
-### Choisissez l'etage si :
+### Choisissez l'étage si :
 
-- Votre terrain fait moins de 200 m2 (courant a Dakar, Thies, Mbour)
-- Vous voulez louer un niveau pour generer des revenus
+- Votre terrain fait moins de 200 m² (courant à Dakar, Thiès, Mbour)
+- Vous voulez louer un niveau pour générer des revenus
 - Vous avez une grande famille et besoin de beaucoup de chambres
-- Vous etes en zone urbaine ou le terrain est tres cher
-- Vous prevoyez d'etendre la famille
+- Vous êtes en zone urbaine où le terrain est très cher
+- Vous prévoyez d'étendre la famille
 
-### La solution maligne : prevoir l'etage sans le construire tout de suite
+### La solution maligne : prévoir l'étage sans le construire tout de suite
 
-Beaucoup de Senegalais construisent un RDC avec une dalle beton (au lieu d'une toiture en tole) pour pouvoir ajouter un etage plus tard. C'est une approche intelligente si :
+Beaucoup de Sénégalais construisent un RDC avec une dalle béton (au lieu d'une toiture en tôle) pour pouvoir ajouter un étage plus tard. C'est une approche intelligente si :
 
 - Vous n'avez pas le budget pour le R+1 maintenant
-- Vous voulez commencer a habiter rapidement
-- Vous etes sur de vouloir un etage a terme
+- Vous voulez commencer à habiter rapidement
+- Vous êtes sûr de vouloir un étage à terme
 
-Le surcout de la dalle par rapport a une toiture en tole est d'environ 1 a 2 millions FCFA, mais ca vous evite de tout casser plus tard.
+Le surcoût de la dalle par rapport à une toiture en tôle est d'environ 1 à 2 millions FCFA, mais ça vous évite de tout casser plus tard.
 
 ## Conclusion
 
-Il n'y a pas de reponse universelle. Le plain-pied est plus economique et plus confortable, l'etage optimise un petit terrain et offre plus de possibilites. L'essentiel est de faire ce choix AVANT de commencer les travaux, car il impacte les fondations, la structure et tout le reste. Consultez un ingenieur ou un architecte pour dimensionner correctement votre structure des le depart, meme si vous ne construisez que le RDC dans un premier temps.
+Il n'y a pas de réponse universelle. Le plain-pied est plus économique et plus confortable, l'étage optimise un petit terrain et offre plus de possibilités. L'essentiel est de faire ce choix AVANT de commencer les travaux, car il impacte les fondations, la structure et tout le reste. Consultez un ingénieur ou un architecte pour dimensionner correctement votre structure dès le départ, même si vous ne construisez que le RDC dans un premier temps.

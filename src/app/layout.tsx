@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     "prix construction maison Sénégal 2026",
     "permis de construire Sénégal",
     "matériaux construction Afrique",
-    "cout construction Dakar",
+    "coût construction Dakar",
     "parpaing brique Sénégal",
     "guide construction maison",
   ],

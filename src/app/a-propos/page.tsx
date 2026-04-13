@@ -46,14 +46,14 @@ export default function AProposPage() {
           <h2 className="font-heading text-2xl text-mocha-dark mb-6 mt-12">Nos engagements</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
             <div className="bg-mocha-cream p-6 rounded-xl">
-              <h3 className="font-heading text-lg text-mocha-dark mb-2">Donnees verifiees</h3>
+              <h3 className="font-heading text-lg text-mocha-dark mb-2">Données vérifiées</h3>
               <p className="text-cement-gray text-sm">
                 Chaque prix, chaque réglementation est vérifié auprès de sources
                 professionnelles et actualisé régulièrement.
               </p>
             </div>
             <div className="bg-mocha-cream p-6 rounded-xl">
-              <h3 className="font-heading text-lg text-mocha-dark mb-2">Acces gratuit</h3>
+              <h3 className="font-heading text-lg text-mocha-dark mb-2">Accès gratuit</h3>
               <p className="text-cement-gray text-sm">
                 Tous nos contenus sont et resteront en accès libre. La connaissance
                 du BTP doit être accessible à tous.
@@ -67,7 +67,7 @@ export default function AProposPage() {
               </p>
             </div>
             <div className="bg-mocha-cream p-6 rounded-xl">
-              <h3 className="font-heading text-lg text-mocha-dark mb-2">Mises a jour</h3>
+              <h3 className="font-heading text-lg text-mocha-dark mb-2">Mises à jour</h3>
               <p className="text-cement-gray text-sm">
                 Les prix et réglementations évoluent vite. Nous mettons à jour nos
                 articles pour refléter la réalité du marché.
