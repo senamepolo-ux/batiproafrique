@@ -4,12 +4,12 @@ slug: "prix-fer-beton-senegal-2026"
 date: "2026-04-11"
 category: "Materiaux"
 excerpt: "Prix actualises du fer a beton au Senegal en 2026 : barres de 6, 8, 10, 12 et 14 mm. Ou acheter, comment verifier la qualite et combien prevoir pour votre chantier."
-image: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=1920&q=80"
+image: "/images/articles/ferraillage-aerien.jpg"
 readTime: "8 min"
 tags: ["fer", "beton", "prix", "senegal", "materiaux", "2026"]
 sectionImages:
-  - url: "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=1920&q=80"
-    alt: "Armatures en fer a beton sur un chantier"
+  - url: "/images/articles/ferraillage-aerien.jpg"
+    alt: "Ferraillage et armatures en beton vus du ciel"
     caption: "Le fer a beton : un poste budgetaire majeur a bien maitriser"
     after: "Tableau des prix du fer a beton en 2026"
 ---

@@ -8,8 +8,8 @@ image: "/images/articles/briques-rouges.jpg"
 readTime: "10 min"
 tags: ["materiaux", "parpaing", "brique", "BTC", "senegal", "construction"]
 sectionImages:
-  - url: "https://images.pexels.com/photos/2219024/pexels-photo-2219024.jpeg?w=1920&q=80"
-    alt: "Ouvriers coulant du beton sur un chantier de construction"
+  - url: "/images/articles/briques-motifs.jpg"
+    alt: "Motifs de briques en terre cuite avec jeux de lumiere et d'ombre"
     caption: "Le parpaing beton : omnipresent sur les chantiers senegalais"
     after: "Le parpaing beton : le materiau dominant"
   - url: "/images/articles/briques-rouges.jpg"
@@ -20,8 +20,8 @@ sectionImages:
     alt: "Interieur en briques de terre avec voutes et architecture africaine"
     caption: "La BTC : alliance de tradition et de modernite architecturale"
     after: "La brique en terre compressee (BTC) : innovation locale"
-  - url: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=1920&q=80"
-    alt: "Structure en beton arme avec murs de remplissage sur un chantier"
+  - url: "/images/articles/maison-laterite.jpg"
+    alt: "Maison en laterite rouge avec linteau beton et vegetation"
     caption: "La solution hybride beton arme + BTC : le meilleur des deux mondes"
     after: "Notre recommandation : la construction hybride"
 ---
