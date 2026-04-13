@@ -40,11 +40,11 @@ export async function generateMetadata({
 
 function ImmersiveImage({ img }: { img: SectionImage }) {
   return (
-    <div className="relative w-full h-[50vh] min-h-[350px] overflow-hidden">
+    <div className="relative w-full h-[60vh] min-h-[400px] overflow-hidden">
       <img
         src={img.url}
         alt={img.alt}
-        className="w-full h-full object-cover"
+        className="w-full h-full object-cover object-center"
         loading="lazy"
       />
       <div className="absolute inset-0 bg-gradient-to-t from-mocha-deep/70 via-mocha-deep/20 to-transparent" />
@@ -159,11 +159,11 @@ export default async function ArticlePage({
       />
 
       {/* Hero Image */}
-      <div className="relative h-[50vh] min-h-[400px]">
+      <div className="relative h-[60vh] min-h-[400px]">
         <img
           src={article.image}
           alt={article.title}
-          className="w-full h-full object-cover"
+          className="w-full h-full object-cover object-center"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-mocha-deep via-mocha-deep/60 to-transparent" />
         <div className="absolute bottom-0 left-0 right-0 p-6 lg:p-12 max-w-4xl mx-auto">
