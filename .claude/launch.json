@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "batiproafrique",
+      "runtimeExecutable": "/c/Users/Etudiant/node-v20.18.1-win-x64/npx",
+      "runtimeArgs": ["next", "dev"],
+      "port": 3000
+    }
+  ]
+}
