@@ -67,6 +67,8 @@ export default function RootLayout({
   return (
     <html lang="fr">
       <head>
+        {/* Google Search Console Verification */}
+        <meta name="google-site-verification" content="xeaZQRbKFGIWvaRmiD8PLHhAwXiY0sUe4p6T1XK9THk" />
         {/* Google Analytics 4 — Remplacer G-XXXXXXXXXX par votre ID */}
         <script
           async
