@@ -4,7 +4,7 @@ slug: "combien-coute-piscine-senegal"
 date: "2026-04-13"
 category: "Budget"
 excerpt: "Prix détaillé pour construire une piscine au Sénégal en 2026 : piscine en béton, coque polyester, hors-sol. Coût de construction, entretien et conseils pour éviter les mauvaises surprises."
-image: "/images/articles/piscine-villa-terre.jpg"
+image: "/images/articles/piscine-aerienne.jpg"
 readTime: "9 min"
 tags: ["piscine", "budget", "senegal", "construction", "prix"]
 sectionImages:
