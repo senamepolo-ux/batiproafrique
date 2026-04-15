@@ -3,7 +3,7 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "À Propos",
   description:
-    "Découvrez l'équipe BatiPro Afrique : ingénieurs en génie civil, architectes et experts du BTP en Afrique francophone.",
+    "BatiPro Afrique : votre guide expert pour comprendre la construction et le BTP au Sénégal et en Afrique francophone.",
 };
 
 export default function AProposPage() {
@@ -27,20 +27,21 @@ export default function AProposPage() {
         <div className="prose max-w-none">
           <h2 className="font-heading text-2xl text-mocha-dark mb-6">Notre mission</h2>
           <p className="text-cement-gray leading-relaxed mb-6">
-            BatiPro Afrique est né d&apos;un constat simple : les informations fiables
-            et actualisées sur la construction en Afrique francophone sont rares et
-            souvent dispersées. Nous avons créé cette plateforme pour rassembler,
-            vérifier et diffuser gratuitement des données essentielles pour quiconque
-            souhaite construire au Sénégal et dans la sous-région.
+            BatiPro Afrique est né d&apos;un constat simple : quand on veut construire
+            au Sénégal, les informations fiables sur les prix, les matériaux et les
+            démarches sont rares et dispersées. Nous avons créé ce guide pour aider
+            tous ceux qui veulent se lancer dans un projet de construction, même sans
+            connaissances techniques.
           </p>
 
-          <h2 className="font-heading text-2xl text-mocha-dark mb-6 mt-12">Notre équipe</h2>
+          <h2 className="font-heading text-2xl text-mocha-dark mb-6 mt-12">Notre approche</h2>
           <p className="text-cement-gray leading-relaxed mb-6">
-            Nous sommes une équipe pluridisciplinaire composée d&apos;ingénieurs en génie
-            civil, d&apos;architectes DPLG, de métreurs-économistes et de juristes
-            spécialisés en droit de l&apos;urbanisme. Forts de plus de 10 ans d&apos;expérience
-            cumulée sur les chantiers ouest-africains, nous mettons notre expertise au
-            service de nos lecteurs.
+            BatiPro Afrique est un guide expert qui rend l&apos;information sur la
+            construction accessible à tous. Nous recherchons, vérifions et
+            simplifions les données pour vous aider à comprendre les coûts, choisir
+            les bons matériaux et éviter les arnaques. Notre but : que chaque
+            Sénégalais puisse construire en toute confiance. Partagez nos articles
+            à ceux qui en ont besoin !
           </p>
 
           <h2 className="font-heading text-2xl text-mocha-dark mb-6 mt-12">Nos engagements</h2>

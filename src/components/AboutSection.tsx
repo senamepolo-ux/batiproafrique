@@ -32,30 +32,32 @@ export default function AboutSection() {
               Qui sommes-nous
             </span>
             <h2 className="font-heading text-3xl lg:text-4xl text-mocha-dark mt-3 mb-6">
-              L&apos;expertise du BTP africain, à portée de clic
+              Comprendre la construction au Sénégal, simplement
             </h2>
             <p className="text-cement-gray leading-relaxed mb-4">
-              Nous sommes une équipe d&apos;ingénieurs en génie civil, d&apos;architectes et de
-              professionnels du BTP passionnés par le développement de la construction
-              en Afrique francophone.
+              BatiPro Afrique est un guide expert dédié à tous ceux qui veulent
+              construire au Sénégal et en Afrique francophone. Que vous soyez
+              débutant ou expérimenté, nous rendons l&apos;information accessible
+              et compréhensible pour tous.
             </p>
             <p className="text-cement-gray leading-relaxed mb-6">
-              Notre mission : fournir des guides pratiques, des données actualisées et
-              des conseils d&apos;experts pour aider particuliers et professionnels à
-              mener à bien leurs projets de construction, principalement au Sénégal.
+              Notre mission : vous aider à comprendre les prix, les matériaux,
+              les démarches administratives et les bonnes pratiques pour réussir
+              votre projet de construction sans mauvaises surprises. Partagez nos
+              articles à ceux qui en ont besoin !
             </p>
             <div className="flex flex-wrap gap-3">
               <span className="px-4 py-2 bg-white-cream rounded-full text-sm text-mocha-dark border border-concrete-light">
-                Génie Civil
+                Guide Pratique
               </span>
               <span className="px-4 py-2 bg-white-cream rounded-full text-sm text-mocha-dark border border-concrete-light">
-                Architecture
+                Prix &amp; Budget
               </span>
               <span className="px-4 py-2 bg-white-cream rounded-full text-sm text-mocha-dark border border-concrete-light">
-                Budget &amp; Coûts
+                Matériaux
               </span>
               <span className="px-4 py-2 bg-white-cream rounded-full text-sm text-mocha-dark border border-concrete-light">
-                Réglementation
+                Démarches &amp; Documents
               </span>
             </div>
           </div>
