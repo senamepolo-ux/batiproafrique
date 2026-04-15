@@ -24,6 +24,7 @@ export interface ArticleMeta {
   readTime: string;
   tags: string[];
   sectionImages?: SectionImage[];
+  priority?: number;
 }
 
 export interface Article extends ArticleMeta {
@@ -41,9 +42,12 @@ export function getAllArticles(): ArticleMeta[] {
       return data as ArticleMeta;
     });
 
-  return articles.sort(
-    (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
-  );
+  return articles.sort((a, b) => {
+    const priorityA = a.priority || 99;
+    const priorityB = b.priority || 99;
+    if (priorityA !== priorityB) return priorityA - priorityB;
+    return new Date(b.date).getTime() - new Date(a.date).getTime();
+  });
 }
 
 export async function getArticleBySlug(slug: string): Promise<Article | null> {

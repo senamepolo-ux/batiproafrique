@@ -2,6 +2,7 @@
 title: "Brique Terre Cuite vs Parpaing Béton : Le Comparatif au Sénégal"
 slug: "parpaing-ou-brique-senegal"
 date: "2026-04-10"
+priority: 7
 category: "Materiaux"
 excerpt: "Comparatif complet entre la brique en terre cuite (BTC) et le parpaing béton au Sénégal : prix, isolation thermique, durabilité et recommandations pour votre construction."
 image: "/images/articles/briques-rouges.jpg"

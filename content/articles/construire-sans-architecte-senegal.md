@@ -2,6 +2,7 @@
 title: "Construire sans Architecte au Sénégal : Les Risques que Personne ne Vous Dit"
 slug: "construire-sans-architecte-senegal"
 date: "2026-04-11"
+priority: 4
 category: "Reglementation"
 excerpt: "Au Sénégal, beaucoup construisent sans architecte pour économiser. Mais les risques sont réels : malfaçons, problèmes juridiques, surcoûts. Découvrez quand un architecte est obligatoire et quand vous pouvez vous en passer."
 image: "/images/articles/plans-architecte.jpg"

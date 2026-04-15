@@ -2,6 +2,7 @@
 title: "Guide Complet du Permis de Construire au Sénégal"
 slug: "guide-permis-construire-senegal"
 date: "2026-04-06"
+priority: 6
 category: "Réglementation"
 excerpt: "Tout savoir sur le permis de construire au Sénégal en 2026 : dossier, procédure TéléDAC, délais, coûts et erreurs à éviter. Guide complet et actualisé."
 image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80"
