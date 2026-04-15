@@ -69,10 +69,10 @@ export default function RootLayout({
       <head>
         {/* Google Search Console Verification */}
         <meta name="google-site-verification" content="xeaZQRbKFGIWvaRmiD8PLHhAwXiY0sUe4p6T1XK9THk" />
-        {/* Google Analytics 4 — Remplacer G-XXXXXXXXXX par votre ID */}
+        {/* Google Analytics 4 — Remplacer G-16JKCEH07G par votre ID */}
         <script
           async
-          src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"
+          src="https://www.googletagmanager.com/gtag/js?id=G-16JKCEH07G"
         />
         <script
           dangerouslySetInnerHTML={{
@@ -80,7 +80,7 @@ export default function RootLayout({
               window.dataLayer = window.dataLayer || [];
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
-              gtag('config', 'G-XXXXXXXXXX');
+              gtag('config', 'G-16JKCEH07G');
             `,
           }}
         />
