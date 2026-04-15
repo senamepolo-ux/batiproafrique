@@ -5,7 +5,7 @@ date: "2026-04-08"
 priority: 1
 category: "Guide Pratique"
 excerpt: "De l'achat du terrain à la remise des clés : les 12 étapes essentielles pour construire votre maison au Sénégal. Bureau d'étude, bureau de contrôle, planning et budget détaillés."
-image: "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800&q=80"
+image: "/images/articles/maison-moucharabieh.jpg"
 readTime: "15 min"
 tags: ["construction", "guide", "étapes", "sénégal", "maison", "pratique"]
 ---
