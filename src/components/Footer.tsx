@@ -17,7 +17,7 @@ export default function Footer() {
               </div>
             </div>
             <p className="text-mocha-light text-sm leading-relaxed">
-              Le guide expert de la construction et du BTP en Afrique francophone. Conseils, guides et données actualisées pour vos projets.
+              Le guide gratuit de la construction et du BTP en Afrique francophone. Conseils, guides et données actualisées pour vos projets.
             </p>
           </div>
 

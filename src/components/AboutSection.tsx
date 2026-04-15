@@ -35,10 +35,10 @@ export default function AboutSection() {
               Comprendre la construction au Sénégal, simplement
             </h2>
             <p className="text-cement-gray leading-relaxed mb-4">
-              BatiPro Afrique est un guide expert dédié à tous ceux qui veulent
-              construire au Sénégal et en Afrique francophone. Que vous soyez
-              débutant ou expérimenté, nous rendons l&apos;information accessible
-              et compréhensible pour tous.
+              BatiPro Afrique est un guide gratuit dédié à tous ceux qui veulent
+              construire au Sénégal et en Afrique francophone. On rassemble les
+              informations utiles pour vous aider à y voir plus clair, même si
+              vous n&apos;y connaissez rien en construction.
             </p>
             <p className="text-cement-gray leading-relaxed mb-6">
               Notre mission : vous aider à comprendre les prix, les matériaux,

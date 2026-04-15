@@ -6,11 +6,11 @@ import "@/styles/globals.css";
 export const metadata: Metadata = {
   metadataBase: new URL("https://batiproafrique.com"),
   title: {
-    default: "BatiPro Afrique — Guide Expert Construction & BTP au Sénégal",
+    default: "BatiPro Afrique — Guide Construction & BTP au Sénégal",
     template: "%s | BatiPro Afrique",
   },
   description:
-    "Guides experts, prix actualisés 2026 et conseils pratiques pour réussir votre projet de construction au Sénégal et en Afrique francophone. Coûts, matériaux, réglementation.",
+    "Prix actualisés 2026, guides pratiques et conseils pour réussir votre projet de construction au Sénégal et en Afrique francophone. Coûts, matériaux, réglementation.",
   keywords: [
     "construction Sénégal",
     "BTP Afrique",
@@ -28,9 +28,9 @@ export const metadata: Metadata = {
     locale: "fr_FR",
     url: "https://batiproafrique.com",
     siteName: "BatiPro Afrique",
-    title: "BatiPro Afrique — Guide Expert Construction & BTP au Sénégal",
+    title: "BatiPro Afrique — Guide Construction & BTP au Sénégal",
     description:
-      "Guides experts, prix actualisés 2026 et conseils pratiques pour la construction au Sénégal.",
+      "Prix actualisés 2026 et conseils pratiques pour la construction au Sénégal.",
     images: [
       {
         url: "/images/og-default.jpg",
@@ -42,9 +42,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "BatiPro Afrique — Guide Expert Construction & BTP",
+    title: "BatiPro Afrique — Guide Construction & BTP",
     description:
-      "Guides experts et prix actualisés pour la construction au Sénégal et en Afrique.",
+      "Prix actualisés et guides pratiques pour la construction au Sénégal et en Afrique.",
   },
   robots: {
     index: true,
@@ -94,7 +94,7 @@ export default function RootLayout({
               name: "BatiPro Afrique",
               url: "https://batiproafrique.com",
               description:
-                "Guide expert de la construction et du BTP en Afrique francophone",
+                "Guide pratique de la construction et du BTP en Afrique francophone",
               potentialAction: {
                 "@type": "SearchAction",
                 target:

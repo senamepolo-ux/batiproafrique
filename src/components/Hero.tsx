@@ -64,7 +64,7 @@ export default function Hero() {
             loaded ? "opacity-100 translate-y-0" : "opacity-0 translate-y-10"
           }`}
         >
-          Guides experts, prix actualisés et conseils pratiques pour réussir
+          Prix actualisés, guides pratiques et conseils pour réussir
           votre projet de construction au Sénégal et en Afrique francophone.
         </p>
 

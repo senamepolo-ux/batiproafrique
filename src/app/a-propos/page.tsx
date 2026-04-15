@@ -3,7 +3,7 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "À Propos",
   description:
-    "BatiPro Afrique : votre guide expert pour comprendre la construction et le BTP au Sénégal et en Afrique francophone.",
+    "BatiPro Afrique : votre guide gratuit pour comprendre la construction et le BTP au Sénégal et en Afrique francophone.",
 };
 
 export default function AProposPage() {
@@ -36,12 +36,11 @@ export default function AProposPage() {
 
           <h2 className="font-heading text-2xl text-mocha-dark mb-6 mt-12">Notre approche</h2>
           <p className="text-cement-gray leading-relaxed mb-6">
-            BatiPro Afrique est un guide expert qui rend l&apos;information sur la
-            construction accessible à tous. Nous recherchons, vérifions et
-            simplifions les données pour vous aider à comprendre les coûts, choisir
-            les bons matériaux et éviter les arnaques. Notre but : que chaque
-            Sénégalais puisse construire en toute confiance. Partagez nos articles
-            à ceux qui en ont besoin !
+            On recherche et on rassemble les informations utiles sur la construction
+            au Sénégal pour les rendre simples et accessibles à tous. Notre but :
+            vous aider à comprendre les coûts, choisir les bons matériaux et éviter
+            les arnaques. Si nos articles vous aident, partagez-les à ceux qui en
+            ont besoin !
           </p>
 
           <h2 className="font-heading text-2xl text-mocha-dark mb-6 mt-12">Nos engagements</h2>

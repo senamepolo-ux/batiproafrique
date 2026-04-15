@@ -13,7 +13,7 @@ export default function NewsletterSection() {
         </h2>
         <p className="text-mocha-light mb-8 max-w-xl mx-auto">
           Rejoignez notre communauté et soyez les premiers informés de nos nouveaux
-          articles, guides de prix et conseils d&apos;experts.
+          articles, guides de prix et conseils pratiques.
         </p>
         <form
           onSubmit={(e) => e.preventDefault()}
