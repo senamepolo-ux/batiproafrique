@@ -23,6 +23,9 @@ export async function generateMetadata({
     title: article.title,
     description: article.excerpt,
     keywords: article.tags,
+    alternates: {
+      canonical: `https://batiproafrique.com/articles/${article.slug}/`,
+    },
     openGraph: {
       title: article.title,
       description: article.excerpt,
