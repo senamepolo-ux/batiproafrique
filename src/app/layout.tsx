@@ -23,6 +23,12 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "BatiPro Afrique" }],
   creator: "BatiPro Afrique",
+  icons: {
+    icon: [
+      { url: "/favicon.svg", type: "image/svg+xml" },
+    ],
+    shortcut: "/favicon.svg",
+  },
   openGraph: {
     type: "website",
     locale: "fr_FR",
