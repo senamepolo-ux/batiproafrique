@@ -25,11 +25,13 @@ sectionImages:
 
 ## Le foncier au Sénégal : un terrain miné
 
-L'achat de terrain est le premier poste de dépense pour tout projet de construction au Sénégal. C'est aussi le plus risqué. Chaque année, des milliers de Sénégalais perdent leurs économies dans des arnaques foncières : terrains vendus à plusieurs personnes, faux documents, terrains non constructibles. Ce guide vous explique exactement quels documents exiger et quelles procédures suivre pour sécuriser votre achat.
+Au Sénégal, le terrain est l'investissement d'une vie. C'est aussi, bien souvent, la source des litiges les plus douloureux ; des familles entières qui se retrouvent à la rue, des économies de vingt ans évaporées sur un document falsifié, des terrains vendus cinq fois au même acheteur fictif. Chaque année, des milliers de Sénégalais perdent leurs économies dans des arnaques foncières.
+
+Ce guide vous explique exactement quels documents exiger, dans quel ordre, et quelles procédures suivre pour que votre achat de terrain soit solide, légal et définitif.
 
 ## Les types de documents fonciers au Sénégal
 
-Au Sénégal, il existe plusieurs types de droits sur la terre. Tous n'ont pas la même valeur juridique. Du plus sûr au plus risqué :
+Au Sénégal, il existe plusieurs types de droits sur la terre. Tous n'ont pas la même valeur juridique ; connaître cette hiérarchie, c'est déjà se protéger. Du plus sûr au plus risqué :
 
 ### 1. Le Titre Foncier (TF) : Le plus sûr
 
@@ -70,9 +72,11 @@ Le titre foncier est le **seul document qui prouve une propriété définitive e
 
 ### 5. Aucun document : Le plus risqué
 
-Beaucoup de terrains au Sénégal sont vendus sur la base d'un simple "papier du chef de village" ou d'un accord verbal. **Ces transactions n'ont aucune valeur juridique** et sont la source de la majorité des litiges fonciers.
+Beaucoup de terrains au Sénégal sont vendus sur la base d'un simple "papier du chef de village" ou d'un accord verbal. **Ces transactions n'ont aucune valeur juridique** ; elles sont la source de la majorité des litiges fonciers. Fuir ce type d'offre, même si le prix est attractif, est la règle absolue.
 
 ## Les arnaques foncières les plus courantes
+
+La connaissance des documents ne suffit pas ; il faut aussi connaître les mécanismes des arnaques pour ne pas y tomber. En voici les plus répandues.
 
 ### Arnaque 1 : le terrain vendu à plusieurs personnes
 
@@ -82,7 +86,7 @@ Le même terrain est vendu à 2, 3 ou parfois 5 personnes différentes. Le vende
 
 ### Arnaque 2 : les faux documents
 
-Des escrocs fabriquent de faux titres fonciers, de fausses délibérations ou de faux actes notariés. Les faux sont parfois très bien faits.
+Des escrocs fabriquent de faux titres fonciers, de fausses délibérations ou de faux actes notariés. Les faux sont parfois très bien faits ; seule une vérification à la source permet de les détecter.
 
 **Comment l'éviter** : faites vérifier TOUT document à la source :
 - Titre foncier : vérification à la Conservation foncière (5 000 FCFA)
@@ -91,19 +95,19 @@ Des escrocs fabriquent de faux titres fonciers, de fausses délibérations ou de
 
 ### Arnaque 3 : le terrain non constructible
 
-On vous vend un terrain situé dans une zone non constructible : zone inondable, emprise routière prévue, zone militaire, forêt classée, etc. Vous ne pourrez jamais obtenir de permis de construire.
+On vous vend un terrain situé dans une zone non constructible : zone inondable, emprise routière prévue, zone militaire, forêt classée... Vous ne pourrez jamais obtenir de permis de construire.
 
 **Comment l'éviter** : demandez un **certificat d'urbanisme** à la mairie avant d'acheter. Ce document vous confirme si le terrain est constructible et quelles sont les règles (hauteur maximale, CES, COS).
 
 ### Arnaque 4 : le terrain litigieux
 
-Le terrain fait l'objet d'un litige en cours (entre héritiers, entre le vendeur et l'État, entre le vendeur et un tiers). Le vendeur vous vend un terrain dont il n'a pas le droit de disposer.
+Le terrain fait l'objet d'un litige en cours, entre héritiers, entre le vendeur et l'État, ou entre le vendeur et un tiers. Le vendeur vous vend un terrain dont il n'a pas le droit de disposer.
 
 **Comment l'éviter** : exigez un **certificat de non-litige** délivré par le tribunal. Faites aussi une enquête de voisinage : allez sur place et demandez aux voisins s'ils connaissent des problèmes avec ce terrain.
 
 ### Arnaque 5 : les intermédiaires fantômes
 
-Un "coxeur" (intermédiaire) vous propose un terrain à bon prix. Il n'est ni propriétaire ni mandaté par le propriétaire. Il encaisse une commission des deux côtés, et parfois disparaît avec tout l'argent.
+Un "coxeur" vous propose un terrain à bon prix. Il n'est ni propriétaire ni mandaté par le propriétaire. Il encaisse une commission des deux côtés, et parfois disparaît avec tout l'argent.
 
 **Comment l'éviter** : traitez toujours directement avec le propriétaire dont le nom figure sur les documents. Si un intermédiaire est impliqué, exigez une procuration notariée.
 
@@ -114,6 +118,8 @@ Le vendeur annonce 300 m² mais le terrain ne fait que 200 m². Ou bien les limi
 **Comment l'éviter** : faites faire un **bornage** par un géomètre assermenté AVANT d'acheter. Coût : 150 000 à 300 000 FCFA. C'est un investissement indispensable.
 
 ## La procédure d'achat sécurisée étape par étape
+
+Connaitre les arnaques, c'est nécessaire ; avoir une procédure à suivre, c'est suffisant. Voici les six étapes d'un achat de terrain sécurisé.
 
 ### Étape 1 : identifier le terrain
 
@@ -128,7 +134,7 @@ Exigez du vendeur :
 - **Pour une délibération** : copie de la délibération + approbation du Sous-Préfet/Préfet
 - **Pour un bail** : copie du bail + dernière quittance de redevance
 
-Puis vérifiez chaque document à la source (Conservation foncière, mairie, Préfecture).
+Puis vérifiez chaque document à la source (Conservation foncière, mairie, Préfecture). Ne signez rien et ne payez rien avant cette vérification.
 
 ### Étape 3 : faire borner le terrain
 
@@ -137,7 +143,7 @@ Engagez un **géomètre expert assermenté** (inscrit à l'Ordre des Géomètres
 - Planter les bornes aux 4 coins
 - Établir un plan de bornage officiel
 
-Coût : 150 000 - 300 000 FCFA selon la localisation.
+Coût : 150 000 à 300 000 FCFA selon la localisation.
 
 ### Étape 4 : demander le certificat d'urbanisme
 
@@ -146,7 +152,7 @@ Coût : 150 000 - 300 000 FCFA selon la localisation.
 - Les règles de construction applicables (hauteur, CES, COS, reculs)
 - L'absence de servitudes ou de projets publics sur le terrain
 
-Coût : 10 000 - 25 000 FCFA. Délai : 1 à 3 mois.
+Coût : 10 000 à 25 000 FCFA. Délai : 1 à 3 mois.
 
 ### Étape 5 : passer chez le notaire
 
@@ -179,7 +185,7 @@ Après la vente, assurez-vous d'obtenir :
 4. **Le certificat d'urbanisme** (valable 1 an)
 5. **Les quittances fiscales** (preuve que les droits ont été payés)
 
-Conservez tous ces documents en lieu sûr (coffre, banque). Faites des copies certifiées conformes.
+Conservez tous ces documents en lieu sûr (coffre, banque). Faites des copies certifiées conformes. Un document perdu n'est pas toujours un document retrouvable.
 
 ## Combien coûte un terrain au Sénégal en 2026 ?
 
@@ -187,19 +193,21 @@ Conservez tous ces documents en lieu sûr (coffre, banque). Faites des copies ce
 
 | Zone | Prix au m² |
 |------|-----------|
-| Dakar Plateau | 200 000 - 500 000 FCFA |
-| Dakar Almadies/Ngor | 150 000 - 350 000 FCFA |
-| Dakar Ouakam/Mermoz | 100 000 - 250 000 FCFA |
-| Pikine/Guédiawaye | 40 000 - 80 000 FCFA |
-| Keur Massar | 20 000 - 50 000 FCFA |
-| Diamniadio | 15 000 - 40 000 FCFA |
-| Thiès ville | 15 000 - 35 000 FCFA |
-| Mbour/Saly | 20 000 - 60 000 FCFA |
-| Saint-Louis | 10 000 - 30 000 FCFA |
-| Zones rurales | 1 000 - 5 000 FCFA |
+| Dakar Plateau | 200 000 à 500 000 FCFA |
+| Dakar Almadies/Ngor | 150 000 à 350 000 FCFA |
+| Dakar Ouakam/Mermoz | 100 000 à 250 000 FCFA |
+| Pikine/Guédiawaye | 40 000 à 80 000 FCFA |
+| Keur Massar | 20 000 à 50 000 FCFA |
+| Diamniadio | 15 000 à 40 000 FCFA |
+| Thiès ville | 15 000 à 35 000 FCFA |
+| Mbour/Saly | 20 000 à 60 000 FCFA |
+| Saint-Louis | 10 000 à 30 000 FCFA |
+| Zones rurales | 1 000 à 5 000 FCFA |
 
 Ces prix varient énormément selon l'emplacement exact, la viabilisation (eau, électricité, route goudronnée) et le type de document foncier.
 
 ## Conclusion
 
-L'achat de terrain au Sénégal est un acte majeur qui nécessite de la prudence et de la méthode. Les règles sont simples : vérifiez chaque document à la source, faites borner par un géomètre, passez par un notaire et ne payez jamais sans garanties. Ces précautions coûtent 300 000 à 500 000 FCFA mais peuvent vous sauver de pertes de plusieurs millions. Au Sénégal, le dicton est vrai : "Le terrain est la mère de toutes les guerres." Protégez-vous.
+L'achat de terrain au Sénégal est un acte majeur qui exige de la méthode, pas de la confiance aveugle. Les règles sont simples dans leur principe : vérifiez chaque document à la source, faites borner par un géomètre, passez par un notaire, ne payez jamais sans garanties. Ces précautions coûtent 300 000 à 500 000 FCFA ; elles peuvent vous sauver de pertes de plusieurs millions.
+
+Au Sénégal, le dicton est vrai : "Le terrain est la mère de toutes les guerres." Mais une guerre bien évitée, c'est une maison bien commencée.

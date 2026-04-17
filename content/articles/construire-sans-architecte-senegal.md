@@ -21,22 +21,22 @@ sectionImages:
 
 ## Pourquoi 80 % des Sénégalais construisent sans architecte
 
-Soyons honnêtes : au Sénégal, la grande majorité des maisons sont construites sans faire appel à un architecte. Les raisons sont simples :
+Soyons directs : au Sénégal, la grande majorité des maisons sont construites sans faire appel à un architecte. Les raisons sont connues, et souvent légitimes dans leur intention ; elles le sont moins dans leurs conséquences.
 
 - **Le coût** : les honoraires d'un architecte représentent 5 à 10 % du coût total de la construction
 - **La culture** : "Mon oncle a construit sans architecte, mon père aussi, pourquoi pas moi ?"
 - **Le tâcheron** : beaucoup de tâcherons se présentent comme capables de tout faire, du plan à la finition
 - **La méconnaissance** : beaucoup ne savent pas ce qu'un architecte apporte concrètement
 
-Mais cette économie apparente peut coûter très cher. Voyons pourquoi.
+Cette économie apparente peut coûter très cher. Non pas en théorie, mais en fissures réelles, en surcoûts réels, en litiges réels. Voyons pourquoi.
 
 ## Ce que fait réellement un architecte
 
-Un architecte ne se contente pas de dessiner un joli plan. Il concrétise votre vision de vie. Son rôle va bien au-delà de ce que la plupart des gens imaginent.
+Un architecte ne se contente pas de dessiner un joli plan. Il concrétise votre vision de vie, et son rôle va bien au-delà de ce que la plupart des gens imaginent.
 
 ### Il conçoit votre cadre de vie, pas juste des murs
 
-L'architecte pense à votre **bien-être quotidien**. Chaque décision de conception a un impact sur votre confort :
+L'architecte pense à votre **bien-être quotidien**. Chaque décision de conception a un impact sur votre confort au quotidien, année après année.
 
 **L'espace de vie :**
 - Il organise les pièces pour que la circulation soit fluide et naturelle
@@ -79,9 +79,7 @@ L'architecte ne se limite pas au parpaing classique. Il connaît les matériaux 
 
 ### Il concrétise votre vision
 
-Vous avez une idée en tête : une terrasse ombragée, un salon ouvert sur le jardin, une maison qui reste fraîche sans climatisation. L'architecte **transforme cette vision en réalité**. Il dessine, il calcule, il adapte à votre budget et à votre terrain. C'est son métier.
-
-Sans architecte, vous aurez une maison rectangulaire avec des pièces alignées, comme toutes les autres. Avec un architecte, vous aurez **votre** maison.
+Vous avez une idée en tête : une terrasse ombragée, un salon ouvert sur le jardin, une maison qui reste fraîche sans climatisation. L'architecte **transforme cette vision en réalité**. Il dessine, il calcule, il adapte à votre budget et à votre terrain. Sans architecte, vous aurez une maison rectangulaire avec des pièces alignées, comme toutes les autres. Avec un architecte, vous aurez **votre** maison.
 
 ### Avant les travaux
 
@@ -111,7 +109,7 @@ La loi sénégalaise (Code de l'urbanisme) impose le recours à un architecte in
 - **Immeuble R+2 et plus**
 - **Construction dans certaines zones classées** (centre historique de Saint-Louis, corniche de Dakar, etc.)
 
-En dessous de 150 m² pour une maison individuelle, l'architecte n'est pas légalement obligatoire. Mais "pas obligatoire" ne veut pas dire "pas nécessaire".
+En dessous de 150 m² pour une maison individuelle, l'architecte n'est pas légalement obligatoire. Mais "pas obligatoire" ne veut pas dire "pas nécessaire". Ce sont deux choses très différentes.
 
 ## Les vrais risques de construire sans architecte
 
@@ -122,7 +120,7 @@ Sans calcul de structure professionnel :
 - Les poteaux et poutres peuvent être trop faibles pour supporter les charges
 - Les chaînages peuvent manquer ou être mal positionnés
 
-Résultat : des fissures apparaissent en 2-5 ans, parfois des effondrements. Chaque année au Sénégal, des bâtiments s'effondrent à cause de défauts de conception.
+Résultat : des fissures apparaissent en 2 à 5 ans, parfois des effondrements. Chaque année au Sénégal, des bâtiments s'effondrent à cause de défauts de conception.
 
 ### Risque juridique : pas de permis, pas de titre
 
@@ -139,42 +137,42 @@ Sans plans détaillés :
 - Les erreurs de construction obligent à casser et refaire
 - Les modifications en cours de chantier explosent le budget
 
-Une construction sans architecte coûte en moyenne **15 à 25 % de plus** que prévu, à cause des erreurs et modifications. Les honoraires de l'architecte (8-10 %) sont donc largement amortis.
+Une construction sans architecte coûte en moyenne **15 à 25 % de plus** que prévu, à cause des erreurs et modifications. Les honoraires de l'architecte (8 à 10 %) sont donc largement amortis.
 
 ### Risque sur le confort de vie
 
 Sans architecte, un tâcheron place les pièces là où c'est le plus simple à construire, pas là où c'est le plus confortable à vivre :
-- Chambres orientées plein ouest → **fournaise l'après-midi**, vous êtes obligé de mettre la climatisation à fond
-- Pas de ventilation naturelle traversante → l'air ne circule pas, la maison étouffe
-- Fenêtres mal placées → pièces sombres en plein jour
-- Matériaux inadaptés → tôle zinc sans isolation = chaleur insupportable sous la toiture
+- Chambres orientées plein ouest : fournaise l'après-midi, vous êtes obligé de mettre la climatisation à fond
+- Pas de ventilation naturelle traversante : l'air ne circule pas, la maison étouffe
+- Fenêtres mal placées : pièces sombres en plein jour
+- Matériaux inadaptés : tôle zinc sans isolation = chaleur insupportable sous la toiture
 - Couloirs inutilement longs qui gaspillent de la surface payante
 - Aucune réflexion sur les matériaux locaux (terre cuite, BTC, bambou) qui pourraient réduire vos coûts et améliorer votre confort
 
-Résultat : vous vivez dans une maison chaude, sombre et mal organisée pendant des années, avec des factures d'électricité (climatisation) qui explosent.
+Résultat : vous vivez dans une maison chaude, sombre et mal organisée pendant des années, avec des factures d'électricité qui explosent.
 
 ## Les alternatives à l'architecte
 
-Si votre budget ne permet pas un architecte pour un suivi complet, voici des alternatives :
+Si votre budget ne permet pas un architecte pour un suivi complet, voici des alternatives qui offrent un bon compromis entre coût et protection.
 
 ### Le dessinateur-projeteur
 
-- **Coût** : 150 000 - 400 000 FCFA pour les plans
+- **Coût** : 150 000 à 400 000 FCFA pour les plans
 - **Ce qu'il fait** : dessine les plans d'exécution
 - **Limite** : pas de suivi de chantier, pas de calcul de structure
 
 ### L'ingénieur en génie civil
 
-- **Coût** : 200 000 - 500 000 FCFA pour le calcul de structure + visites de contrôle
+- **Coût** : 200 000 à 500 000 FCFA pour le calcul de structure + visites de contrôle
 - **Ce qu'il fait** : dimensionne les fondations, poteaux, poutres et dalles
 - **Limite** : ne fait pas la conception architecturale
 
 ### La mission partielle d'architecte
 
 Beaucoup d'architectes acceptent des missions partielles :
-- **Plans seuls** : 300 000 - 600 000 FCFA pour une maison de 100-150 m²
-- **Plans + permis de construire** : 400 000 - 800 000 FCFA
-- **Plans + suivi ponctuel** (3-4 visites clés) : 500 000 - 1 000 000 FCFA
+- **Plans seuls** : 300 000 à 600 000 FCFA pour une maison de 100 à 150 m²
+- **Plans + permis de construire** : 400 000 à 800 000 FCFA
+- **Plans + suivi ponctuel** (3 à 4 visites clés) : 500 000 à 1 000 000 FCFA
 
 C'est le meilleur compromis pour un budget serré.
 
@@ -182,12 +180,14 @@ C'est le meilleur compromis pour un budget serré.
 
 Pour une maison de moins de 150 m² au budget serré :
 
-1. **Au minimum** : faites faire les plans par un dessinateur ET le calcul de structure par un ingénieur civil. Budget : 300 000 - 600 000 FCFA
-2. **Idéalement** : mission partielle d'architecte (plans + 3 visites de contrôle). Budget : 500 000 - 800 000 FCFA
-3. **Si vous pouvez** : mission complète d'architecte. Budget : 8-10 % du coût total
+1. **Au minimum** : faites faire les plans par un dessinateur ET le calcul de structure par un ingénieur civil. Budget : 300 000 à 600 000 FCFA
+2. **Idéalement** : mission partielle d'architecte (plans + 3 visites de contrôle). Budget : 500 000 à 800 000 FCFA
+3. **Si vous pouvez** : mission complète d'architecte. Budget : 8 à 10 % du coût total
 
 Ne construisez **jamais** sans au minimum un plan côté et un calcul de structure. C'est la différence entre une maison qui dure 50 ans et une maison qui fissure en 5 ans.
 
 ## Conclusion
 
-Construire sans architecte au Sénégal est légal pour les petites surfaces, mais rarement une bonne idée. Les économies réalisées sur les honoraires sont souvent perdues en erreurs de construction et en modifications coûteuses. Au minimum, investissez dans des plans professionnels et un calcul de structure. Votre maison : et votre portefeuille : vous remercieront.
+Construire sans architecte au Sénégal est légal pour les petites surfaces, mais rarement une bonne idée. Ce que vous économisez en honoraires, vous le repayez souvent en erreurs de construction, en modifications coûteuses et en inconforts quotidiens pendant des années. L'architecte n'est pas un intermédiaire superflu ; il est le professionnel qui transforme votre terrain en un cadre de vie pensé, confortable et durable.
+
+Au minimum, investissez dans des plans professionnels et un calcul de structure. Votre maison, et votre portefeuille, vous en seront reconnaissants.
