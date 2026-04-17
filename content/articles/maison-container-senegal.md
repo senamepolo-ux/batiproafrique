@@ -2,6 +2,7 @@
 title: "Maison Container au Sénégal : Bonne ou Mauvaise Idée ?"
 slug: "maison-container-senegal"
 date: "2026-04-13"
+priority: 11
 category: "Innovation"
 excerpt: "La maison container fait rêver au Sénégal : rapide, moderne, économique. Mais est-ce vraiment adapté au climat tropical ? Analyse complète des avantages, limites et prix réels."
 image: "/images/articles/maison-container.jpg"

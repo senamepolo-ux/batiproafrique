@@ -2,7 +2,7 @@
 title: "Achat de Terrain au Sénégal : Les Documents Obligatoires et Comment Éviter les Arnaques"
 slug: "documents-achat-terrain-senegal"
 date: "2026-04-13"
-priority: 3
+priority: 7
 category: "Reglementation"
 excerpt: "Titre foncier, bail, délibération : quels documents exiger avant d'acheter un terrain au Sénégal ? Guide complet des procédures et des pièges à éviter pour sécuriser votre investissement."
 image: "/images/articles/terrain-brousse.jpg"

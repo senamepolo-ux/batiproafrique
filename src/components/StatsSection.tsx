@@ -9,7 +9,7 @@ interface StatItem {
 }
 
 const stats: StatItem[] = [
-  { value: 13, suffix: "", label: "Articles publiés" },
+  { value: 11, suffix: "", label: "Articles publiés" },
   { value: 9, suffix: "", label: "Thèmes couverts" },
   { value: 2026, suffix: "", label: "Données actualisées" },
   { value: 100, suffix: "%", label: "Contenu gratuit" },

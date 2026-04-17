@@ -2,6 +2,7 @@
 title: "Toiture au Sénégal : Zinc, Tuile ou Béton ? Le Comparatif Complet"
 slug: "toiture-zinc-tuile-beton-senegal"
 date: "2026-04-12"
+priority: 10
 category: "Materiaux"
 excerpt: "Tôle zinc, tuiles en béton, dalle béton : quelle toiture choisir au Sénégal ? Comparatif détaillé des prix, performances thermiques et durabilité pour faire le bon choix."
 image: "/images/articles/toiture-tole.jpg"

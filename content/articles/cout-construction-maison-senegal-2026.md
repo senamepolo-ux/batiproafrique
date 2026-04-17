@@ -2,7 +2,7 @@
 title: "Combien Coûte la Construction d'une Maison au Sénégal en 2026 ?"
 slug: "cout-construction-maison-senegal-2026"
 date: "2026-04-12"
-priority: 5
+priority: 6
 category: "Coûts & Budget"
 excerpt: "Guide complet des prix de construction au Sénégal en 2026 : prix au m², budgets types, coût des matériaux et conseils pour optimiser votre investissement."
 image: "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=800&q=80"
