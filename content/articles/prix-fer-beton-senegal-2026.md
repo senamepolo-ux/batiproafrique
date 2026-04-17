@@ -124,4 +124,4 @@ Si vous achetez plus de 50 barres, négociez un prix de gros. La remise peut att
 
 ## Conclusion
 
-Le fer à béton est un poste budgétaire majeur qu'il faut maîtriser pour réussir sa construction au Sénégal. Achetez vous-même, vérifiez la qualité, suivez les plans de structure et ne faites jamais l'économie sur la qualité du fer — c'est lui qui tient votre maison debout. Avec les prix de 2026, prévoyez un budget de 1.5 à 2 millions FCFA pour une maison de 100 m² en plain-pied.
+Le fer à béton est un poste budgétaire majeur qu'il faut maîtriser pour réussir sa construction au Sénégal. Achetez vous-même, vérifiez la qualité, suivez les plans de structure et ne faites jamais l'économie sur la qualité du fer : c'est lui qui tient votre maison debout. Avec les prix de 2026, prévoyez un budget de 1.5 à 2 millions FCFA pour une maison de 100 m² en plain-pied.

@@ -49,7 +49,7 @@ Après l'architecte, il faut un **bureau d'étude technique** (BET). C'est une �
 
 **Pourquoi c'est indispensable :**
 - L'architecte dessine la forme de votre maison, mais c'est l'ingénieur du BET qui calcule si elle va tenir debout
-- Sans plans de ferraillage précis, le maçon fait "au feeling" — et c'est là que les bâtiments s'effondrent
+- Sans plans de ferraillage précis, le maçon fait "au feeling" : et c'est là que les bâtiments s'effondrent
 - Un plan de structure mal fait peut mettre en danger votre famille
 
 **Coût :** 200 000 à 800 000 FCFA selon la taille du projet. C'est un investissement qui peut vous sauver la vie.
@@ -105,7 +105,7 @@ Le permis de construire est **obligatoire** pour toute construction au Sénégal
 6. Certificat d'urbanisme
 7. Quittance de paiement des frais
 
-> Nous avons un article complet dédié au permis de construire — consultez-le pour tous les détails.
+> Nous avons un article complet dédié au permis de construire : consultez-le pour tous les détails.
 
 ## Étape 7 : Choisir votre constructeur
 
@@ -120,8 +120,8 @@ C'est une étape cruciale. Un mauvais choix de constructeur peut ruiner votre pr
 
 **Types d'intervenants :**
 - **Entreprise générale** : un seul interlocuteur pour tout le chantier
-- **Corps d'état séparés** : vous gérez chaque artisan (maçon, plombier, électricien) — moins cher mais plus de gestion
-- **Tâcheron** : main-d'œuvre seule, vous fournissez les matériaux — le moins cher mais le plus risqué
+- **Corps d'état séparés** : vous gérez chaque artisan (maçon, plombier, électricien) : moins cher mais plus de gestion
+- **Tâcheron** : main-d'œuvre seule, vous fournissez les matériaux : le moins cher mais le plus risqué
 
 ## Étape 8 : Les fondations
 
@@ -152,7 +152,7 @@ Une fois les fondations terminées et la dalle du plancher bas coulée, place à
 La toiture est un poste stratégique : c'est elle qui protège l'ensemble de la construction.
 
 **Options courantes au Sénégal :**
-- **Dalle en béton armé** : pour prévoir un étage futur, ou en terrasse — le plus cher
+- **Dalle en béton armé** : pour prévoir un étage futur, ou en terrasse : le plus cher
 - **Charpente bois + tôle bac aluminium** : bon rapport qualité-prix, bonne durabilité
 - **Charpente métallique + tôle** : résistant, adapté aux grandes portées
 
@@ -165,7 +165,7 @@ C'est la phase la plus longue et souvent celle où le budget dérape.
 **Le second œuvre comprend :**
 - Plomberie (alimentation et évacuation eau)
 - Électricité (aux normes NF C 15-100 adaptée)
-- Menuiserie (portes, fenêtres — aluminium très courant au Sénégal)
+- Menuiserie (portes, fenêtres : aluminium très courant au Sénégal)
 - Revêtements (carrelage sol et murs, faïence salle de bain et cuisine)
 - Peinture intérieure et extérieure
 - Faux plafonds

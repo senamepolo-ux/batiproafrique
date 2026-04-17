@@ -49,7 +49,7 @@ L'architecte pense à votre **bien-être quotidien**. Chaque décision de concep
 - Il évite les pièces sombres où il faut allumer la lumière en pleine journée
 - Il utilise des puits de lumière ou des claustras pour éclairer les espaces centraux
 
-**L'orientation solaire — essentielle au Sénégal :**
+**L'orientation solaire : essentielle au Sénégal :**
 - Il étudie la **direction du soleil** par rapport à votre terrain
 - Les chambres sont orientées **à l'est** (fraîches le soir, soleil doux le matin)
 - Les pièces de vie évitent l'**ouest** (soleil brûlant l'après-midi)
@@ -79,7 +79,7 @@ L'architecte ne se limite pas au parpaing classique. Il connaît les matériaux 
 
 ### Il concrétise votre vision
 
-Vous avez une idée en tête — une terrasse ombragée, un salon ouvert sur le jardin, une maison qui reste fraîche sans climatisation. L'architecte **transforme cette vision en réalité**. Il dessine, il calcule, il adapte à votre budget et à votre terrain. C'est son métier.
+Vous avez une idée en tête : une terrasse ombragée, un salon ouvert sur le jardin, une maison qui reste fraîche sans climatisation. L'architecte **transforme cette vision en réalité**. Il dessine, il calcule, il adapte à votre budget et à votre terrain. C'est son métier.
 
 Sans architecte, vous aurez une maison rectangulaire avec des pièces alignées, comme toutes les autres. Avec un architecte, vous aurez **votre** maison.
 
@@ -190,4 +190,4 @@ Ne construisez **jamais** sans au minimum un plan côté et un calcul de structu
 
 ## Conclusion
 
-Construire sans architecte au Sénégal est légal pour les petites surfaces, mais rarement une bonne idée. Les économies réalisées sur les honoraires sont souvent perdues en erreurs de construction et en modifications coûteuses. Au minimum, investissez dans des plans professionnels et un calcul de structure. Votre maison — et votre portefeuille — vous remercieront.
+Construire sans architecte au Sénégal est légal pour les petites surfaces, mais rarement une bonne idée. Les économies réalisées sur les honoraires sont souvent perdues en erreurs de construction et en modifications coûteuses. Au minimum, investissez dans des plans professionnels et un calcul de structure. Votre maison : et votre portefeuille : vous remercieront.

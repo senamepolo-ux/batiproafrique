@@ -98,10 +98,10 @@ La saison des pluies (juin à octobre) ralentit les travaux et peut endommager l
 ## 5 conseils pour optimiser votre budget
 
 1. **Faites établir au moins 3 devis** par des entreprises différentes pour chaque poste
-2. **Achetez les matériaux en gros** quand c'est possible — les remises peuvent atteindre 10 à 15 %
+2. **Achetez les matériaux en gros** quand c'est possible : les remises peuvent atteindre 10 à 15 %
 3. **Optez pour des matériaux locaux** comme la BTC qui est moins chère et offre une meilleure isolation thermique
 4. **Planifiez les travaux en saison sèche** pour éviter les surcoûts liés aux intempéries
-5. **Suivez le chantier régulièrement** ou mandatez un maître d'œuvre — les économies réalisées par un suivi rigoureux compensent largement ses honoraires
+5. **Suivez le chantier régulièrement** ou mandatez un maître d'œuvre : les économies réalisées par un suivi rigoureux compensent largement ses honoraires
 
 ## Conclusion
 

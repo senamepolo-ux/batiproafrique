@@ -27,9 +27,9 @@ Construire une maison avec 5 millions FCFA au Sénégal, c'est le rêve de beauc
 
 Avec ce budget, vous pouvez réaliser :
 
-- **Un studio de 30-40 m²** : 1 chambre, salon, cuisine, salle d'eau — entièrement fini
-- **Un 2 pièces de 50-60 m²** : 2 chambres, salon, cuisine, salle d'eau — finitions basiques
-- **Le gros œuvre d'une maison de 80 m²** : structure complète mais sans finitions — à compléter plus tard
+- **Un studio de 30-40 m²** : 1 chambre, salon, cuisine, salle d'eau : entièrement fini
+- **Un 2 pièces de 50-60 m²** : 2 chambres, salon, cuisine, salle d'eau : finitions basiques
+- **Le gros œuvre d'une maison de 80 m²** : structure complète mais sans finitions : à compléter plus tard
 
 Le choix dépend de votre situation : avez-vous besoin d'habiter tout de suite, ou pouvez-vous construire progressivement ?
 
@@ -127,8 +127,8 @@ Oui, à condition d'accepter des finitions basiques au départ. Votre maison ser
 - L'eau et l'électricité
 - Des portes et fenêtres sécurisées
 
-Des milliers de familles sénégalaises vivent dans des maisons construites progressivement. Il n'y a aucune honte à cela — c'est même la méthode la plus sage quand on a un budget limité.
+Des milliers de familles sénégalaises vivent dans des maisons construites progressivement. Il n'y a aucune honte à cela : c'est même la méthode la plus sage quand on a un budget limité.
 
 ## Conclusion
 
-Construire avec 5 millions FCFA au Sénégal est possible si vous êtes réaliste sur la surface, stratégique sur les matériaux (BTC plutôt que parpaing) et discipliné sur le budget. La clé est de prioriser la structure et la toiture, habiter le plus vite possible, puis améliorer progressivement. Ne laissez personne vous dire qu'il faut 15 millions pour avoir un toit — avec de bons choix, 5 millions suffisent pour démarrer.
+Construire avec 5 millions FCFA au Sénégal est possible si vous êtes réaliste sur la surface, stratégique sur les matériaux (BTC plutôt que parpaing) et discipliné sur le budget. La clé est de prioriser la structure et la toiture, habiter le plus vite possible, puis améliorer progressivement. Ne laissez personne vous dire qu'il faut 15 millions pour avoir un toit : avec de bons choix, 5 millions suffisent pour démarrer.

@@ -44,7 +44,7 @@ Le parpaing (bloc de ciment ou agglo) domine le marché sénégalais depuis des 
 
 ### Les limites du parpaing béton
 
-- **Isolation thermique médiocre** : le béton conduit la chaleur — votre maison devient un four dès que le soleil tape. En saison chaude à Dakar (avril-juin), la température intérieure peut dépasser 35 degrés sans climatisation
+- **Isolation thermique médiocre** : le béton conduit la chaleur : votre maison devient un four dès que le soleil tape. En saison chaude à Dakar (avril-juin), la température intérieure peut dépasser 35 degrés sans climatisation
 - **Forte consommation de ciment** : le ciment représente une part importante du coût et de l'empreinte carbone
 - **Risque de fissuration** : sur un sol argileux mal étudié, les parpaings fissurent facilement aux jonctions murs-poteaux
 - **Facture énergétique élevée** : la mauvaise isolation oblige à climatiser intensivement, ce qui représente un coût annuel considérable
@@ -58,7 +58,7 @@ La brique en terre cuite est un matériau ancestral remis au goût du jour. Fabr
 - **Isolation thermique excellente** : la structure alvéolaire de la brique cuite piège l'air et ralentit la transmission de chaleur. À l'intérieur, on constate 4 à 6 degrés de moins qu'avec un mur en parpaing
 - **Régulation naturelle de l'humidité** : la terre cuite absorbe et restitue l'humidité ambiante, créant un climat intérieur sain
 - **Esthétique noble** : la brique apparente donne un cachet architectural indéniable, sans besoin d'enduit
-- **Durabilité exceptionnelle** : les constructions en brique cuite traversent les siècles — les bâtiments coloniaux de Saint-Louis en témoignent
+- **Durabilité exceptionnelle** : les constructions en brique cuite traversent les siècles : les bâtiments coloniaux de Saint-Louis en témoignent
 - **Matériau écologique** : terre naturelle, cuisson locale, pas de produits chimiques
 
 ### Les contraintes
@@ -70,7 +70,7 @@ La brique en terre cuite est un matériau ancestral remis au goût du jour. Fabr
 
 ## La brique en terre compressée (BTC) : innovation locale
 
-La BTC représente une évolution moderne de la construction en terre. Elle est fabriquée à partir de latérite — cette terre rouge omniprésente au Sénégal — mélangée à 8 à 10 % de ciment, puis compressée dans une presse mécanique ou hydraulique. Pas de cuisson nécessaire.
+La BTC représente une évolution moderne de la construction en terre. Elle est fabriquée à partir de latérite : cette terre rouge omniprésente au Sénégal : mélangée à 8 à 10 % de ciment, puis compressée dans une presse mécanique ou hydraulique. Pas de cuisson nécessaire.
 
 ### Pourquoi la BTC change la donne
 
@@ -84,7 +84,7 @@ La BTC représente une évolution moderne de la construction en terre. Elle est 
 
 - **Sensibilité à l'eau** : la BTC doit être protégée des pluies directes et des remontées capillaires. Un bon soubassement en parpaing (3 rangées minimum) et un débord de toiture suffisant résolvent ce problème
 - **Contrôle qualité** : le dosage en ciment et la pression de compression doivent être rigoureusement contrôlés. Une BTC mal dosée s'effritera
-- **Perception** : certains perçoivent encore la construction en terre comme un signe de pauvreté — une idée fausse que les projets architecturaux modernes en BTC sont en train de faire disparaître
+- **Perception** : certains perçoivent encore la construction en terre comme un signe de pauvreté : une idée fausse que les projets architecturaux modernes en BTC sont en train de faire disparaître
 
 ## Comparatif détaillé
 
@@ -132,4 +132,4 @@ Pour une maison de 150 m² :
 
 ## Conclusion
 
-Le parpaing béton reste un matériau fiable et accessible, mais la brique en terre cuite et surtout la BTC offrent des avantages considérables en termes de confort thermique et d'économie à long terme. Pour le constructeur sénégalais avisé, la solution hybride structure béton + murs BTC représente aujourd'hui le meilleur compromis entre solidité, performance thermique et maîtrise du budget. Discutez-en avec votre architecte — de plus en plus de professionnels la recommandent.
+Le parpaing béton reste un matériau fiable et accessible, mais la brique en terre cuite et surtout la BTC offrent des avantages considérables en termes de confort thermique et d'économie à long terme. Pour le constructeur sénégalais avisé, la solution hybride structure béton + murs BTC représente aujourd'hui le meilleur compromis entre solidité, performance thermique et maîtrise du budget. Discutez-en avec votre architecte : de plus en plus de professionnels la recommandent.

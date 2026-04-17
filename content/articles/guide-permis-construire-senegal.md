@@ -107,7 +107,7 @@ Les frais varient selon les communes, mais voici une estimation :
 | Certificat d'urbanisme | 10 000 à 50 000 FCFA |
 | **Total estimé** | **1 à 3,5 millions FCFA** |
 
-Ce montant peut sembler élevé, mais il représente généralement **2 à 5 %** du coût total de construction — un investissement de sécurité indispensable.
+Ce montant peut sembler élevé, mais il représente généralement **2 à 5 %** du coût total de construction : un investissement de sécurité indispensable.
 
 ## Les 5 erreurs fréquentes à éviter
 
@@ -132,7 +132,7 @@ Si vous construisez depuis l'étranger, voici nos recommandations :
 
 1. **Mandatez un architecte de confiance** qui sera votre relais sur place
 2. **Donnez une procuration notariée** à une personne de confiance pour les démarches administratives
-3. **Utilisez TéléDAC** si votre terrain est à Dakar — vous pouvez tout faire en ligne
+3. **Utilisez TéléDAC** si votre terrain est à Dakar : vous pouvez tout faire en ligne
 4. **Exigez des copies de tous les documents** : récépissé de dépôt, arrêté d'autorisation, etc.
 5. **Ne versez aucun acompte** à un constructeur tant que le permis n'est pas obtenu
 6. **Planifiez un séjour** au Sénégal pour la phase critique du dépôt de permis si possible

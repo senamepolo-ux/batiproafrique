@@ -21,7 +21,7 @@ sectionImages:
 
 ## Les arnaques sur les chantiers : un fléau silencieux
 
-Au Sénégal, construire une maison est souvent le projet d'une vie. Des années d'économies, des sacrifices, de la sueur. Et pourtant, des milliers de propriétaires se font arnaquer chaque année sur leurs chantiers. Pas toujours par de grands escrocs — souvent par des pratiques malhonnêtes devenues banales. Ce guide expose les arnaques les plus courantes et vous donne les armes pour vous protéger.
+Au Sénégal, construire une maison est souvent le projet d'une vie. Des années d'économies, des sacrifices, de la sueur. Et pourtant, des milliers de propriétaires se font arnaquer chaque année sur leurs chantiers. Pas toujours par de grands escrocs : souvent par des pratiques malhonnêtes devenues banales. Ce guide expose les arnaques les plus courantes et vous donne les armes pour vous protéger.
 
 ## Arnaque 1 : le vol de matériaux
 
@@ -156,7 +156,7 @@ Certains "intermédiaires" proposent d'obtenir votre permis de construire rapide
 
 - **Faites vos démarches vous-même** à la mairie ou à la Direction de l'urbanisme
 - **Vérifiez tout document** directement auprès de l'autorité qui l'a soi-disant délivré
-- **Ne payez jamais un intermédiaire** pour un document officiel — allez directement à la source
+- **Ne payez jamais un intermédiaire** pour un document officiel : allez directement à la source
 
 ## Le plus grand problème au Sénégal : confier la conception au maçon
 
@@ -178,7 +178,7 @@ Beaucoup de propriétaires vont directement voir un maçon ou un tâcheron et lu
 Le bon ordre pour construire un bâtiment solide et sûr :
 
 1. **Un architecte** conçoit la forme, l'aménagement et l'esthétique de votre maison
-2. **Un bureau d'étude technique** (composé d'ingénieurs en génie civil) réalise les plans d'exécution béton armé et les plans de ferraillage — c'est lui qui calcule si votre bâtiment va tenir
+2. **Un bureau d'étude technique** (composé d'ingénieurs en génie civil) réalise les plans d'exécution béton armé et les plans de ferraillage : c'est lui qui calcule si votre bâtiment va tenir
 3. **Un bureau de contrôle** valide les plans et vient vérifier sur le chantier que les travaux sont conformes
 4. **Des techniciens supérieurs** (conducteurs de travaux) surveillent l'exécution quotidienne des travaux
 5. Le maçon **exécute** les travaux selon les plans fournis par les ingénieurs
@@ -192,7 +192,7 @@ Le bon ordre pour construire un bâtiment solide et sûr :
 
 **Total : environ 1 à 2 millions FCFA** pour un projet moyen. C'est cher ? Non. C'est le prix de la sécurité de votre famille. Un bâtiment qui s'effondre ou qui présente des fissures graves vous coûtera 10 fois plus.
 
-> **La réalité** : au Sénégal, les effondrements de bâtiments, les fissures structurelles et les malfaçons graves sont presque toujours liés au même problème — l'absence d'ingénieur et de contrôle technique. Ne faites pas cette économie.
+> **La réalité** : au Sénégal, les effondrements de bâtiments, les fissures structurelles et les malfaçons graves sont presque toujours liés au même problème : l'absence d'ingénieur et de contrôle technique. Ne faites pas cette économie.
 
 ## Comment se protéger : les 8 règles d'or
 
@@ -207,4 +207,4 @@ Le bon ordre pour construire un bâtiment solide et sûr :
 
 ## Conclusion
 
-Construire au Sénégal ne devrait pas être un parcours du combattant. En appliquant ces règles de bon sens — contrat écrit, paiement par étapes, achat direct des matériaux et contrôle régulier — vous éliminez 90 % des risques d'arnaque. N'hésitez pas à investir dans l'accompagnement d'un professionnel indépendant : les 200 000 à 500 000 FCFA que vous dépenserez en contrôles peuvent vous faire économiser des millions en malfaçons et arnaques.
+Construire au Sénégal ne devrait pas être un parcours du combattant. En appliquant ces règles de bon sens : contrat écrit, paiement par étapes, achat direct des matériaux et contrôle régulier : vous éliminez 90 % des risques d'arnaque. N'hésitez pas à investir dans l'accompagnement d'un professionnel indépendant : les 200 000 à 500 000 FCFA que vous dépenserez en contrôles peuvent vous faire économiser des millions en malfaçons et arnaques.

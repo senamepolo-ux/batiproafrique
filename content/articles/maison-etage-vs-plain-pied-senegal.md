@@ -61,7 +61,7 @@ La maison à étage permet de doubler la surface habitable sur le même terrain.
 ### Avantages
 
 - **Double la surface habitable** : sur un terrain de 150 m², vous pouvez obtenir 160-200 m² habitables
-- **Séparation des espaces** : salon et cuisine en bas, chambres en haut — plus d'intimité
+- **Séparation des espaces** : salon et cuisine en bas, chambres en haut : plus d'intimité
 - **Possibilité de revenus locatifs** : un étage peut être loué indépendamment
 - **Vue dégagée** : les pièces à l'étage bénéficient de plus de lumière et d'air
 - **Valorisation du terrain** : en zone urbaine où les terrains sont chers, maximiser la surface construite est un investissement intelligent
@@ -70,7 +70,7 @@ La maison à étage permet de doubler la surface habitable sur le même terrain.
 
 - **Coût plus élevé** : la dalle béton, l'escalier et les fondations renforcées ajoutent 20 à 30 % au budget
 - **Délai plus long** : il faut attendre le séchage de la dalle (21 jours minimum) avant de monter l'étage
-- **Structure plus exigeante** : fondations plus profondes, poteaux plus gros, dalle béton armée — tout doit être calculé par un ingénieur
+- **Structure plus exigeante** : fondations plus profondes, poteaux plus gros, dalle béton armée : tout doit être calculé par un ingénieur
 - **Escalier** : occupe 5 à 8 m² de surface au sol, et pas pratique pour les personnes à mobilité réduite
 - **Chaleur à l'étage** : l'air chaud monte, les chambres à l'étage sont plus chaudes que celles du bas. La climatisation est quasi obligatoire
 

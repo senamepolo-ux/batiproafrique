@@ -31,7 +31,7 @@ L'achat de terrain est le premier poste de dépense pour tout projet de construc
 
 Au Sénégal, il existe plusieurs types de droits sur la terre. Tous n'ont pas la même valeur juridique. Du plus sûr au plus risqué :
 
-### 1. Le Titre Foncier (TF) — Le plus sûr
+### 1. Le Titre Foncier (TF) : Le plus sûr
 
 Le titre foncier est le **seul document qui prouve une propriété définitive et inattaquable** au Sénégal. C'est le Graal du foncier.
 
@@ -43,7 +43,7 @@ Le titre foncier est le **seul document qui prouve une propriété définitive e
 
 **Conseil** : si le vendeur possède un titre foncier, c'est la situation idéale. Mais il faut TOUJOURS vérifier à la Conservation foncière que le TF existe bien et qu'il est au nom du vendeur.
 
-### 2. Le Bail Emphytéotique — Droit d'usage long terme
+### 2. Le Bail Emphytéotique : Droit d'usage long terme
 
 - **Délivré par** : l'État via la Direction des Domaines
 - **Durée** : 18 à 99 ans, renouvelable
@@ -51,7 +51,7 @@ Le titre foncier est le **seul document qui prouve une propriété définitive e
 - **Avantage** : peut être transformé en titre foncier après mise en valeur du terrain
 - **Limite** : le bail peut être résilié si vous ne mettez pas le terrain en valeur dans le délai imparti
 
-### 3. La Délibération — Droit communautaire
+### 3. La Délibération : Droit communautaire
 
 - **Délivrée par** : le Conseil municipal (mairie)
 - **Ce qu'elle garantit** : une attribution de terrain dans le domaine national, validée par la collectivité locale
@@ -61,14 +61,14 @@ Le titre foncier est le **seul document qui prouve une propriété définitive e
 
 **Important** : une délibération doit être approuvée par le Sous-Préfet ou le Préfet pour être valide. Sans cette approbation, elle n'a aucune valeur.
 
-### 4. Le Permis d'Occuper — Droit précaire
+### 4. Le Permis d'Occuper : Droit précaire
 
 - **Délivré par** : l'administration (Préfecture, Gouvernance)
 - **Ce qu'il garantit** : un droit d'occupation temporaire et révocable
 - **Valeur juridique** : très faible. L'État peut récupérer le terrain à tout moment
 - **À éviter** : n'achetez pas un terrain qui n'a qu'un permis d'occuper
 
-### 5. Aucun document — Le plus risqué
+### 5. Aucun document : Le plus risqué
 
 Beaucoup de terrains au Sénégal sont vendus sur la base d'un simple "papier du chef de village" ou d'un accord verbal. **Ces transactions n'ont aucune valeur juridique** et sont la source de la majorité des litiges fonciers.
 
@@ -174,7 +174,7 @@ La vente doit OBLIGATOIREMENT passer par un notaire pour :
 Après la vente, assurez-vous d'obtenir :
 
 1. **L'acte de vente notarié** (votre preuve d'achat)
-2. **Le titre foncier à votre nom** (si mutation de TF) — délai : 3 à 12 mois
+2. **Le titre foncier à votre nom** (si mutation de TF) : délai : 3 à 12 mois
 3. **Le plan de bornage** à votre nom
 4. **Le certificat d'urbanisme** (valable 1 an)
 5. **Les quittances fiscales** (preuve que les droits ont été payés)

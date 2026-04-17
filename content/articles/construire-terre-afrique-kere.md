@@ -33,7 +33,7 @@ Partout en Afrique, le même tableau se répète : des maisons en parpaing béto
 
 Pourtant, l'Afrique a ses propres matériaux. Des matériaux qui existent depuis des millénaires. Des matériaux qui gardent les maisons fraîches naturellement. Des matériaux qui coûtent moins cher, qui polluent moins et qui sont plus beaux.
 
-Un architecte burkinabé l'a prouvé au monde entier. Il s'appelle **Francis Kéré**. Et son travail change la façon dont l'Afrique — et le monde — pense la construction.
+Un architecte burkinabé l'a prouvé au monde entier. Il s'appelle **Francis Kéré**. Et son travail change la façon dont l'Afrique : et le monde : pense la construction.
 
 ## Francis Kéré : l'homme qui a montré la voie
 
@@ -41,19 +41,19 @@ Diébédo Francis Kéré est né en 1965 à Gando, un petit village du Burkina F
 
 ### L'École de Gando : tout a commencé là
 
-En 2001, Francis Kéré construit la première école de Gando avec des **briques de latérite** — la pierre rouge qui se trouve partout au Burkina Faso et au Sénégal. Il invente une toiture métallique surélevée qui laisse circuler l'air entre le toit et le plafond. Résultat : la salle de classe reste **fraîche sans climatisation**, même par 40 degrés.
+En 2001, Francis Kéré construit la première école de Gando avec des **briques de latérite** : la pierre rouge qui se trouve partout au Burkina Faso et au Sénégal. Il invente une toiture métallique surélevée qui laisse circuler l'air entre le toit et le plafond. Résultat : la salle de classe reste **fraîche sans climatisation**, même par 40 degrés.
 
 L'école de Gando remporte le prix Aga Khan d'architecture en 2004. Le monde entier découvre qu'avec des matériaux locaux africains et du génie, on peut construire mieux que avec du béton et de la tôle.
 
 ### Le Prix Pritzker 2022 : la plus haute récompense mondiale
 
-En 2022, Francis Kéré reçoit le **Prix Pritzker** — l'équivalent du Prix Nobel en architecture. Il est le **premier Africain** à recevoir ce prix. Le jury salue sa capacité à "créer des bâtiments qui répondent aux besoins de communautés dont les ressources sont limitées, sans jamais sacrifier la beauté ni la qualité."
+En 2022, Francis Kéré reçoit le **Prix Pritzker** : l'équivalent du Prix Nobel en architecture. Il est le **premier Africain** à recevoir ce prix. Le jury salue sa capacité à "créer des bâtiments qui répondent aux besoins de communautés dont les ressources sont limitées, sans jamais sacrifier la beauté ni la qualité."
 
 Le message est clair : **construire africain, c'est construire bien.**
 
 ## Francis Kéré : l'homme qui a montré la voie
 
-Ses deux portraits — dans son atelier entouré de maquettes, ou tenant une structure en bois devant son regard calme — montrent un homme qui pense avec ses mains. Un homme qui construit des ponts entre l'Afrique et le monde, entre la tradition et la modernité, entre la communauté et l'architecture mondiale.
+Ses deux portraits : dans son atelier entouré de maquettes, ou tenant une structure en bois devant son regard calme : montrent un homme qui pense avec ses mains. Un homme qui construit des ponts entre l'Afrique et le monde, entre la tradition et la modernité, entre la communauté et l'architecture mondiale.
 
 ## Le Goethe Institut Dakar : Kéré construit au Sénégal
 
@@ -61,9 +61,9 @@ En 2026, Francis Kéré livre son œuvre la plus emblématique en Afrique de l'O
 
 ### Ce qui rend ce bâtiment exceptionnel
 
-- Les murs sont en **briques de latérite perforées** — la même pierre rouge qu'on trouve partout au Sénégal
+- Les murs sont en **briques de latérite perforées** : la même pierre rouge qu'on trouve partout au Sénégal
 - La façade perforée laisse passer l'air et la lumière naturellement, **sans climatisation**
-- Un **baobab centenaire** se dresse au centre du bâtiment — Kéré a conçu l'architecture autour de l'arbre, il ne l'a pas abattu
+- Un **baobab centenaire** se dresse au centre du bâtiment : Kéré a conçu l'architecture autour de l'arbre, il ne l'a pas abattu
 - La toiture intègre des **panneaux solaires** pour l'énergie
 - Le bâtiment comprend une bibliothèque dédiée aux **savoirs africains**, un auditorium, des salles de formation
 
@@ -80,7 +80,7 @@ La brique en terre cuite est fabriquée avec de l'argile façonnée et cuite au 
 **Ses avantages au Sénégal :**
 - **Inertie thermique** : la terre cuite absorbe la chaleur le jour et la restitue la nuit. La maison reste fraîche pendant la journée et se réchauffe doucement la nuit
 - **Durabilité** : une brique en terre cuite de bonne qualité dure 50 à 100 ans
-- **Esthétique** : la couleur chaude de la terre cuite — rouge, ocre, terracotta — est naturellement belle et s'intègre parfaitement dans le paysage africain
+- **Esthétique** : la couleur chaude de la terre cuite : rouge, ocre, terracotta : est naturellement belle et s'intègre parfaitement dans le paysage africain
 - **Résistance** : bien fabriquée, elle résiste aux intempéries et aux insectes
 
 **Coût au Sénégal** : 150 à 350 FCFA par brique selon la qualité et la région.
@@ -89,7 +89,7 @@ La brique en terre cuite est fabriquée avec de l'argile façonnée et cuite au 
 
 ### 2. La brique en terre crue (adobe)
 
-La terre crue, c'est simplement la terre mélangée avec de la paille ou de la fibre naturelle, façonnée en briques et séchée au soleil — sans cuisson. C'est le matériau de construction le plus utilisé dans l'histoire de l'humanité. Les maisons de Djenné au Mali, inscrites au patrimoine mondial de l'UNESCO, sont entièrement construites en terre crue.
+La terre crue, c'est simplement la terre mélangée avec de la paille ou de la fibre naturelle, façonnée en briques et séchée au soleil : sans cuisson. C'est le matériau de construction le plus utilisé dans l'histoire de l'humanité. Les maisons de Djenné au Mali, inscrites au patrimoine mondial de l'UNESCO, sont entièrement construites en terre crue.
 
 **Ses avantages :**
 - **Coût quasi nul** : la terre est partout, souvent sur le terrain même où on construit
@@ -106,7 +106,7 @@ La terre crue, c'est simplement la terre mélangée avec de la paille ou de la f
 La BTC est la version moderne de la brique en terre crue. On mélange de la terre avec 5 à 8 % de ciment (stabilisant), puis on compresse le mélange avec une **presse mécanique** pour obtenir des briques très denses et très résistantes.
 
 **Ses avantages :**
-- **Résistance** : une BTC bien fabriquée résiste à 2 à 5 MPa — comparable à un parpaing béton
+- **Résistance** : une BTC bien fabriquée résiste à 2 à 5 MPa : comparable à un parpaing béton
 - **Imperméabilité** : le ciment stabilisant la protège de l'humidité
 - **Esthétique** : la surface est lisse et régulière, elle peut être laissée apparente sans enduit
 - **Économique** : coûte 30 à 50 % moins cher que le parpaing béton
@@ -169,7 +169,7 @@ La fabrication de BTC ou de briques en terre cuite ne nécessite pas d'usine ni 
 
 Aujourd'hui, une maison de Dakar ressemble à une maison de Casablanca qui ressemble à une maison de Paris. L'architecture africaine a perdu son identité.
 
-Avec les matériaux en terre, les couleurs chaudes de la latérite, les façades perforées qui laissent passer l'air, les toitures qui créent de l'ombre — **une architecture africaine moderne, belle et assumée peut émerger.**
+Avec les matériaux en terre, les couleurs chaudes de la latérite, les façades perforées qui laissent passer l'air, les toitures qui créent de l'ombre : **une architecture africaine moderne, belle et assumée peut émerger.**
 
 Francis Kéré l'a montré. D'autres architectes africains suivent cette voie. Au Sénégal, des projets en BTC et en latérite commencent à voir le jour.
 
@@ -200,7 +200,7 @@ Demandez à votre architecte s'il a de l'expérience avec les matériaux en terr
 
 ## Conclusion
 
-Francis Kéré n'a pas inventé la brique en terre. Il a rappelé au monde que l'Afrique savait déjà construire, et qu'elle peut le faire mieux que n'importe qui — avec ses propres matériaux, pour ses propres conditions climatiques, pour ses propres communautés.
+Francis Kéré n'a pas inventé la brique en terre. Il a rappelé au monde que l'Afrique savait déjà construire, et qu'elle peut le faire mieux que n'importe qui : avec ses propres matériaux, pour ses propres conditions climatiques, pour ses propres communautés.
 
 Le Goethe Institut Dakar est là, en briques de latérite perforées, avec un baobab au cœur. Il est beau. Il est frais. Il est africain.
 

@@ -23,7 +23,7 @@ sectionImages:
 
 Au Sénégal, chaque année, des bâtiments fissurent, s'affaissent ou s'effondrent. Des familles perdent leur maison. Des vies sont mises en danger. Dans la grande majorité des cas, la cause est la même : **l'absence d'un ingénieur génie civil** dans le processus de construction.
 
-Cet article vous explique le rôle de chaque acteur technique de la construction — de l'étude du sol jusqu'à la réception du bâtiment — pour que vous puissiez construire en toute sécurité.
+Cet article vous explique le rôle de chaque acteur technique de la construction : de l'étude du sol jusqu'à la réception du bâtiment : pour que vous puissiez construire en toute sécurité.
 
 ## L'étude géotechnique : tout commence par le sol
 
@@ -91,9 +91,9 @@ Chaque mètre carré de dalle, chaque poutre, chaque poteau doit supporter un po
 
 En fonction des charges calculées, l'ingénieur détermine :
 - **Les sections des poteaux** : un poteau de 25×25 cm ou de 30×30 cm ? Ça dépend de ce qu'il porte
-- **Les sections des poutres** : hauteur, largeur, ferraillage — chaque poutre est calculée individuellement
+- **Les sections des poutres** : hauteur, largeur, ferraillage : chaque poutre est calculée individuellement
 - **L'épaisseur des dalles** : 15 cm, 18 cm, 20 cm ? Ça dépend de la portée et des charges
-- **Le type et la dimension des fondations** : semelles filantes, semelles isolées, radier, pieux — en fonction de l'étude de sol
+- **Le type et la dimension des fondations** : semelles filantes, semelles isolées, radier, pieux : en fonction de l'étude de sol
 - **Le ferraillage précis** : diamètre des barres (8 mm, 10 mm, 12 mm, 14 mm...), espacement des étriers, longueur de recouvrement
 
 **3. Assurer la stabilité dans le temps**
@@ -259,7 +259,7 @@ L'indice carbone mesure la quantité de CO₂ émise pour fabriquer les matéria
 - **Le bois** : stocke le carbone au lieu d'en émettre, disponible en Casamance et au Sénégal oriental
 - **Le bambou** : pousse rapidement, très résistant, disponible en Casamance
 - **La pierre latérite** : matériau local extrait directement du sol, aucune transformation industrielle
-- **Le typha** : plante envahissante du fleuve Sénégal, transformée en matériau isolant — un projet innovant sénégalais
+- **Le typha** : plante envahissante du fleuve Sénégal, transformée en matériau isolant : un projet innovant sénégalais
 
 ### Le rôle de l'ingénieur dans la construction durable
 
