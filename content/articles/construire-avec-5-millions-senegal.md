@@ -13,10 +13,12 @@ sectionImages:
     alt: "Maison en latérite rouge avec cactus et végétation"
     caption: "Avec 5 millions, chaque choix compte : privilégiez la structure aux finitions"
     after: "La stratégie : construire par phases"
+    credit: "© Vaibhav Kapdi — Lanja House, Articulated Design Initiative, Inde"
   - url: "/images/articles/interieur-terre-paille.jpg"
     alt: "Intérieur en terre crue avec toiture en paille et porte sculptée"
     caption: "La construction progressive : la méthode la plus réaliste pour les petits budgets"
     after: "Plan de construction avec 5 millions"
+    credit: "© Berber Lodge, Maroc — Romain Michel Meniere"
 ---
 
 ## 5 millions FCFA : un budget serré, mais pas impossible

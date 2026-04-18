@@ -13,6 +13,7 @@ sectionImages:
     alt: "Toiture en tuiles terre cuite courbée vue du dessus"
     caption: "La tuile : esthétique et performante, mais plus coûteuse"
     after: "La tuile en béton : le choix esthétique"
+    credit: "© Edmund Sumner — Casa 720, Fernanda Canales Architecte, Mexique"
   - url: "/images/articles/toiture-tole.jpg"
     alt: "Structure métallique avec toiture en tôle ondulée"
     caption: "La dalle béton : indispensable pour les constructions à étage"

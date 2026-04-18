@@ -51,12 +51,19 @@ function ImmersiveImage({ img }: { img: SectionImage }) {
         loading="lazy"
       />
       <div className="absolute inset-0 bg-gradient-to-t from-mocha-deep/70 via-mocha-deep/20 to-transparent" />
-      {img.caption && (
+      {(img.caption || img.credit) && (
         <div className="absolute bottom-0 left-0 right-0 p-6 lg:p-10">
           <div className="max-w-4xl mx-auto">
-            <p className="text-white-cream font-heading text-lg lg:text-2xl leading-snug">
-              {img.caption}
-            </p>
+            {img.caption && (
+              <p className="text-white-cream font-heading text-lg lg:text-2xl leading-snug">
+                {img.caption}
+              </p>
+            )}
+            {img.credit && (
+              <p className="text-white-cream/60 text-xs mt-2 font-sans">
+                {img.credit}
+              </p>
+            )}
           </div>
         </div>
       )}

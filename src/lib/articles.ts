@@ -12,6 +12,7 @@ export interface SectionImage {
   alt: string;
   caption: string;
   after: string;
+  credit?: string;
 }
 
 export interface ArticleMeta {
