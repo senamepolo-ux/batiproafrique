@@ -13,10 +13,12 @@ sectionImages:
     alt: "Module container moderne noir avec baie vitrée sur terrain"
     caption: "La maison container : entre rêve architectural et réalités du terrain"
     after: "Le container : de quoi parle-t-on ?"
+    credit: "© Leonardo Finotti — MAPA Architects"
   - url: "/images/articles/maison-container.jpg"
     alt: "Maison container bleue sur terrain naturel"
     caption: "L'isolation thermique : le défi numéro un du container au Sénégal"
     after: "Les limites sérieuses au Sénégal"
+    credit: "© Fernando Alda — Felipe Assadi Arquitectos"
 ---
 
 ## Le phénomène container au Sénégal

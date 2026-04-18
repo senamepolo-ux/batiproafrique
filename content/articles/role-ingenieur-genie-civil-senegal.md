@@ -17,6 +17,7 @@ sectionImages:
     alt: "Plans techniques de construction"
     caption: "Du plan au chantier : chaque acteur a un rôle précis pour garantir la solidité de votre construction"
     after: "Le bureau de contrôle technique : votre assurance qualité"
+    credit: "© Denilson Machado — Studio Guilherme Torres"
 ---
 
 ## Pourquoi cet article peut vous sauver des millions

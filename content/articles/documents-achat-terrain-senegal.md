@@ -13,14 +13,17 @@ sectionImages:
     alt: "Chemin de terre à travers la brousse africaine"
     caption: "Un terrain sans documents valides est un terrain perdu"
     after: "Les types de documents fonciers au Sénégal"
+    credit: "Paysage de Garrigue"
   - url: "/images/articles/plans-architecte.jpg"
     alt: "Plans et documents d'urbanisme avec façade de maison"
     caption: "Vérifier chaque document avant de payer : la règle numéro un"
     after: "Les arnaques foncières les plus courantes"
+    credit: "© Denilson Machado — Studio Guilherme Torres"
   - url: "/images/articles/maison-laterite.jpg"
     alt: "Maison en latérite rouge avec végétation"
     caption: "La procédure sécurisée : étape par étape pour un achat sans risque"
     after: "La procédure d'achat sécurisée étape par étape"
+    credit: "© Leo Espinosa — Jorge Bolio Arquitectura"
 ---
 
 ## Le foncier au Sénégal : un terrain miné

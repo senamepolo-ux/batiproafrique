@@ -13,10 +13,12 @@ sectionImages:
     alt: "Plans architecturaux et façade de maison moderne"
     caption: "L'architecte ne dessine pas que des plans : il protège votre investissement"
     after: "Ce que fait réellement un architecte"
+    credit: "© Denilson Machado — Studio Guilherme Torres"
   - url: "/images/articles/briques-motifs.jpg"
     alt: "Motifs de briques en terre cuite avec jeux de lumière"
     caption: "Sans plans professionnels, les erreurs de chantier se multiplient"
     after: "Les vrais risques de construire sans architecte"
+    credit: "© Nguyen Tien Thanh — H&P Architects"
 ---
 
 ## Pourquoi 80 % des Sénégalais construisent sans architecte

@@ -13,6 +13,7 @@ sectionImages:
     alt: "Ouvrier derrière un échafaudage sur un chantier"
     caption: "Contrôler son chantier : la meilleure protection contre les arnaques"
     after: "Arnaque 1 : le vol de matériaux"
+    credit: "© Jean-Pierre Attal"
   - url: "/images/articles/ferraillage-aerien.jpg"
     alt: "Ferraillage et armatures en béton vus du ciel"
     caption: "Un contrat écrit et un suivi rigoureux : vos meilleurs alliés"

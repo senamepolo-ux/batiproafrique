@@ -13,7 +13,7 @@ sectionImages:
     alt: "Maison en latérite rouge avec cactus et végétation"
     caption: "Avec 5 millions, chaque choix compte : privilégiez la structure aux finitions"
     after: "La stratégie : construire par phases"
-    credit: "© Vaibhav Kapdi — Lanja House, Articulated Design Initiative, Inde"
+    credit: "© Leo Espinosa — Jorge Bolio Arquitectura"
   - url: "/images/articles/interieur-terre-paille.jpg"
     alt: "Intérieur en terre crue avec toiture en paille et porte sculptée"
     caption: "La construction progressive : la méthode la plus réaliste pour les petits budgets"
