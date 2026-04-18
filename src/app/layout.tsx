@@ -53,7 +53,7 @@ export const metadata: Metadata = {
       "Prix actualisés et guides pratiques pour la construction au Sénégal et en Afrique.",
   },
   alternates: {
-    canonical: "https://batiproafrique.com",
+    canonical: "https://batiproafrique.com/",
   },
   robots: {
     index: true,
