@@ -22,6 +22,7 @@ export interface ArticleMeta {
   category: string;
   excerpt: string;
   image: string;
+  imageCredit?: string;
   readTime: string;
   tags: string[];
   sectionImages?: SectionImage[];

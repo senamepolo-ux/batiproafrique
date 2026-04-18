@@ -195,6 +195,11 @@ export default async function ArticlePage({
             <span>{article.readTime} de lecture</span>
           </div>
         </div>
+        {article.imageCredit && (
+          <div className="absolute bottom-2 right-4">
+            <p className="text-white/50 text-xs font-sans">{article.imageCredit}</p>
+          </div>
+        )}
       </div>
 
       {/* Breadcrumb */}

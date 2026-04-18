@@ -6,6 +6,7 @@ priority: 2
 category: "Conseils"
 excerpt: "Vol de matériaux, faux devis, malfaçons cachées : découvrez les arnaques les plus fréquentes sur les chantiers sénégalais et comment vous en protéger efficacement."
 image: "/images/articles/ouvrier-echafaudage.jpg"
+imageCredit: "© Jean-Pierre Attal"
 readTime: "18 min"
 tags: ["arnaques", "chantier", "senegal", "conseils", "securite", "construction"]
 sectionImages:

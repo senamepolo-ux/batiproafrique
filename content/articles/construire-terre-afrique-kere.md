@@ -6,6 +6,7 @@ priority: 5
 category: "Matériaux"
 excerpt: "Brique en terre cuite, terre crue, BTC : ces matériaux africains sont plus solides, plus frais et moins polluants que le béton. Francis Kéré l'a prouvé au monde entier. Voici pourquoi l'avenir de la construction africaine est dans la terre."
 image: "/images/articles/kere-goethe-institut-dakar.jpg"
+imageCredit: "© Sylvain Cherkaoui / Kéré Architecture"
 readTime: "18 min"
 tags: ["terre cuite", "BTC", "materiaux locaux", "Francis Kere", "construction durable", "Afrique", "Senegal", "indice carbone"]
 sectionImages:

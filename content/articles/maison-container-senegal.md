@@ -6,6 +6,7 @@ priority: 11
 category: "Innovation"
 excerpt: "La maison container fait rêver au Sénégal : rapide, moderne, économique. Mais est-ce vraiment adapté au climat tropical ? Analyse complète des avantages, limites et prix réels."
 image: "/images/articles/maison-container.jpg"
+imageCredit: "© Fernando Alda — Felipe Assadi Arquitectos"
 readTime: "11 min"
 tags: ["container", "maison", "senegal", "innovation", "construction"]
 sectionImages:
