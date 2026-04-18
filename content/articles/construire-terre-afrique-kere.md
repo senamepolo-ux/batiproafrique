@@ -10,8 +10,8 @@ readTime: "18 min"
 tags: ["terre cuite", "BTC", "materiaux locaux", "Francis Kere", "construction durable", "Afrique", "Senegal", "indice carbone"]
 sectionImages:
   - url: "/images/articles/kere-centre-leo-burkina.jfif"
-    alt: "Centre de formation de Léo au Burkina Faso par Francis Kéré - architecture en terre rouge et toiture bois"
-    caption: "Le Centre de Léo au Burkina Faso : terre, bois et génie africain réunis dans un seul bâtiment"
+    alt: "Lycée Schorge Secondary School au Burkina Faso par Diébédo Francis Kéré - architecture en latérite et toiture bois"
+    caption: "Lycée Schorge Secondary School au Burkina Faso, conçu par Diébédo Francis Kéré"
     after: "Francis Kéré : l'homme qui a montré la voie"
   - url: "/images/articles/kere-gando-school-exterieur.jfif"
     alt: "École de Gando au Burkina Faso par Francis Kéré - briques de latérite et toiture ventilée"
