@@ -6,18 +6,42 @@
 
 ## 1. La Vision
 
-BatiPro Afrique n'est pas un blog. C'est la première brique d'un écosystème qui va digitaliser la construction en Afrique francophone. L'objectif final, assumé sans détour, est de devenir millionnaire puis milliardaire en résolvant des vrais problèmes pour la communauté.
+### La mission d'abord, le reste ensuite
+
+BatiPro Afrique n'est pas un blog. C'est un projet d'émancipation par la connaissance. Avant toute logique économique, le but est de faire en sorte que **plus personne ne se fasse leurrer** quand il construit au Sénégal ou ailleurs en Afrique francophone. Trop de familles ont perdu leurs économies sur des chantiers mal menés, des terrains mal achetés, des matériaux mal choisis. Ça s'arrête avec BatiPro.
+
+Trois convictions guident ce projet :
+
+1. **La connaissance doit circuler.** Un père de famille qui veut construire doit pouvoir comprendre les étapes, les prix, les pièges, les démarches administratives, sans avoir à payer un consultant. Cette connaissance existe ; elle est aujourd'hui enfermée dans la tête de quelques professionnels. BatiPro la met à disposition de tous.
+
+2. **L'Afrique doit produire son propre savoir.** Les chercheurs, docteurs, architectes, ingénieurs africains ont des choses à dire. Ils publient peu, ou publient dans des revues inaccessibles au grand public. BatiPro devient une plateforme où ces acteurs peuvent partager leurs articles, leurs recherches, leurs retours d'expérience, et construire ensemble un corpus de connaissances enraciné dans les réalités africaines.
+
+3. **Aider la communauté et gagner sa vie vont dans le même sens.** Le modèle économique sert la mission, pas l'inverse. Plus on aide, plus on gagne la confiance, plus le projet grandit. L'objectif de devenir millionnaire puis milliardaire est la conséquence du succès de la mission, pas sa finalité.
+
+### La dimension recherche
+
+BatiPro n'est pas qu'un blog qui vulgarise. C'est aussi un écosystème qui valorise la production scientifique et technique africaine. À terme :
+
+- Les professionnels (architectes, ingénieurs, docteurs, chercheurs) peuvent publier leurs articles sur BatiPro
+- Les étudiants en génie civil, architecture, urbanisme peuvent partager leurs mémoires et projets
+- Les retours d'expérience de chantiers réels alimentent une base de données ouverte
+- BatiPro devient la référence bibliographique pour qui s'intéresse à la construction en Afrique francophone
+
+C'est ainsi qu'on construit un contrepoids au monopole occidental sur la production de savoir en architecture et en génie civil.
 
 ### Les 4 phases
 
-**Phase 1 — Maintenant → 6 mois : Le blog, construire l'audience**
+**Phase 1 — Maintenant → 6 mois : Le blog, construire l'audience et la confiance**
 - Revenus cible : 0 à 50 000 FCFA/mois (AdSense)
 - Objectif : devenir LA référence construction au Sénégal sur Google
+- Mission : démocratiser la connaissance, éviter les arnaques
 - État : en cours
 
-**Phase 2 — 6 mois → 2 ans : La plateforme, connecter les acteurs**
+**Phase 2 — 6 mois → 2 ans : La plateforme, connecter les acteurs et valoriser la recherche**
 - Annuaire de professionnels certifiés (architectes, BET, bureaux de contrôle, entreprises)
 - Les pros payent pour être référencés
+- **Volet recherche** : espace où les chercheurs, docteurs, architectes et ingénieurs peuvent publier leurs articles scientifiques, retours d'expérience, mémoires
+- **Partage de savoirs** : contributions d'étudiants et de praticiens, modération éditoriale pour garantir la qualité
 - Revenus cible : 500 000 à 5 millions FCFA/mois
 
 **Phase 3 — 2 → 5 ans : L'application, digitaliser la construction**
@@ -38,6 +62,7 @@ BatiPro Afrique n'est pas un blog. C'est la première brique d'un écosystème q
 - Personne ne fait ça sérieusement en Afrique francophone
 - La diaspora envoie des milliards chaque année pour construire au pays, sans pouvoir surveiller
 - L'impact communautaire et le revenu vont dans le même sens, pas en opposition
+- Le partage du savoir crée une communauté d'experts africains, ce qui renforce la légitimité de la plateforme et attire toujours plus de contributeurs
 
 ---
 
