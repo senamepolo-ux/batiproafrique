@@ -188,7 +188,98 @@ sectionImages:
 
 ---
 
-## 6. Sources de vérité techniques
+## 6. Identité Visuelle
+
+Cette section est la référence pour **Claude Design** et pour toute génération visuelle (maquettes, composants, landing pages, prototypes). Elle garantit que chaque nouveau design reste fidèle à l'ADN de BatiPro Afrique.
+
+### L'esprit BatiPro en une phrase
+
+Une identité **chaude, enracinée, africaine et sérieuse**. Pas un blog techy. Pas une startup clinique. Pas un site corporate froid. BatiPro sent la terre, la latérite chauffée par le soleil, le bois, le chantier bien tenu ; mais BatiPro est aussi rigoureux, lisible, digne de confiance.
+
+### Palette de couleurs (Tailwind — `tailwind.config.ts`)
+
+Toutes les couleurs sont déjà configurées dans Tailwind. **Ne jamais en inventer de nouvelles**, toujours réutiliser celles-ci :
+
+| Nom Tailwind | Hex | Usage |
+|--------------|-----|-------|
+| `mocha` (DEFAULT) | `#A47764` | Accents, boutons secondaires, hover |
+| `mocha-light` | `#C4A494` | Surfaces douces, séparateurs |
+| `mocha-cream` | `#F5EDE8` | Fonds de sections, cartes |
+| `mocha-dark` | `#6B4D3E` | Texte secondaire, éléments d'accentuation |
+| `mocha-deep` | `#3D2B22` | Texte principal, titres sombres |
+| `terracotta` | `#C4663A` | Couleur d'action principale, CTA, liens importants |
+| `sand-gold` | `#D4A96A` | Accents chauds, highlights |
+| `cement-gray` | `#8A8A8A` | Texte neutre, métadonnées, dates |
+| `concrete-light` | `#E8E0D8` | Fonds alternatifs, surfaces neutres |
+| `earth-green` | `#4A6741` | Accents nature, environnement, durabilité |
+| `white-cream` | `#FFFDF9` | Fond principal du site (pas de blanc pur) |
+
+**Règle d'or** : jamais de `#FFFFFF` pur ni de `#000000` pur. Le blanc, c'est `white-cream`. Le "noir", c'est `mocha-deep`.
+
+### Typographies
+
+Trois polices, chacune avec un rôle précis :
+
+| Famille Tailwind | Police | Usage |
+|-----------------|--------|-------|
+| `font-logo` | Cormorant Garamond (serif) | Logo BatiPro Afrique uniquement |
+| `font-heading` | DM Serif Display (serif) | Titres H1, H2, H3, légendes poétiques des images immersives |
+| `font-body` | Source Sans 3 (sans-serif) | Corps de texte, paragraphes, UI, boutons |
+
+Contraste serif/sans-serif voulu : les titres respirent, le corps de texte reste neutre et lisible.
+
+### Principes visuels
+
+1. **Chaleur avant tout.** Les couleurs dominantes sont chaudes (mocha, terracotta, sand-gold). Jamais de bleu froid générique, jamais de palette "SaaS startup".
+2. **Espace et respiration.** Grandes marges, paragraphes aérés, photos immersives plein écran. Le site doit respirer comme une cour intérieure sénégalaise.
+3. **Photos immersives en largeur pleine.** Les images héros et les `sectionImages` occupent la largeur complète, avec légende poétique en overlay et crédit discret.
+4. **Typo serif pour les titres, sans-serif pour le corps.** Le contraste crée de l'élégance sans rigidité.
+5. **Lignes simples, pas de gradients criards.** Aplats de couleur, ombres très douces, arrondis modérés (`rounded-lg`, pas de `rounded-full` partout).
+
+### Ce qu'on veut
+
+- Photographies réelles de constructions africaines, chantiers, matériaux locaux (latérite, BTC, bois, tuile béton)
+- Projets d'architectes africains ou tropicaux (Kéré, MAPA, Jorge Bolio, Rozana Montiel, Puranun Arquitectos, etc.)
+- Crédits photo systématiques
+- Icônes minimalistes, filaires (lucide-react, heroicons-outline)
+- Mise en page éditoriale, proche du magazine imprimé
+
+### Ce qu'on évite absolument
+
+- Stock photos occidentales génériques (familles blanches devant maisons de banlieue américaine)
+- Illustrations vectorielles cartoon type "undraw" ou "humaaans"
+- Palettes froides (bleu/violet/cyan SaaS)
+- Dégradés fluos, néons, effets "glassmorphism"
+- Emojis dans les titres ou le corps de texte
+- Polices script fantaisie ou Comic Sans
+- Images générées par IA qui montrent des doigts à six phalanges ou des proportions impossibles
+
+### Contraintes culturelles
+
+- **Images africaines, contextes africains.** Même pour illustrer un concept abstrait, on trouve une image qui parle au public sénégalais et ouest-africain.
+- **Vocabulaire visuel local.** Latérite, BTC, moucharabieh, toit en tuile béton ou tôle bac-alu, cour intérieure, arbre à palabres, plutôt que clichés européens.
+- **Dignité.** Pas d'images misérabilistes de l'Afrique. On montre des chantiers bien tenus, des familles dignes, des architectes au travail, pas des clichés de précarité.
+
+### Composants existants à réutiliser
+
+Avant de créer un nouveau composant, vérifier ce qui existe déjà :
+
+- `src/components/Header.tsx` — Navigation principale
+- `src/components/Footer.tsx` — Pied de page
+- `src/components/ArticleCard.tsx` — Carte d'article (page d'accueil, listes)
+- `src/app/articles/[slug]/page.tsx` — Template d'article avec `ImmersiveImage`
+
+Tout nouveau composant doit s'intégrer à cette famille visuelle, pas créer une rupture stylistique.
+
+### Brief type pour Claude Design
+
+Quand on lance une génération visuelle, partir de ce brief :
+
+> « Design dans l'univers BatiPro Afrique : palette mocha/terracotta/sand-gold sur fond white-cream (`#FFFDF9`), titres en DM Serif Display, corps en Source Sans 3, photos réelles de constructions africaines (latérite, BTC, tuile béton), ambiance éditoriale chaude et enracinée. Pas de bleu SaaS, pas de dégradés criards, pas de stock occidental. Respirations larges, paragraphes aérés, images immersives en largeur pleine. »
+
+---
+
+## 7. Sources de vérité techniques
 
 - `content/articles/*.md` — Les articles
 - `src/lib/articles.ts` — Types et fonctions de lecture
@@ -199,7 +290,7 @@ sectionImages:
 
 ---
 
-## 7. Ce que je (Claude) dois toujours faire
+## 8. Ce que je (Claude) dois toujours faire
 
 1. **Lire ce fichier en premier** avant toute action sur le projet
 2. **Respecter la formule éditoriale** pour tout nouvel article
