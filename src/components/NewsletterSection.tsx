@@ -37,6 +37,20 @@ export default function NewsletterSection() {
               className="newsletter-input flex-1 px-5 py-3.5 rounded-full bg-mocha-dark/50 border border-mocha/30 text-white-cream placeholder-mocha-light text-sm"
               required
             />
+            {/*
+              Piège anti-robot exigé par Brevo : les robots remplissent tous les
+              champs, un humain ne verra jamais celui-ci. Il doit donc partir vide.
+            */}
+            <input
+              type="text"
+              name="email_address_check"
+              tabIndex={-1}
+              autoComplete="off"
+              aria-hidden="true"
+              className="hidden"
+              defaultValue=""
+            />
+            <input type="hidden" name="locale" value="fr" />
             <button
               type="submit"
               className="bg-terracotta hover:bg-terracotta/90 text-white px-8 py-3.5 rounded-full font-semibold text-sm tracking-wide transition-all hover:shadow-lg hover:shadow-terracotta/25 transform hover:-translate-y-0.5 whitespace-nowrap"

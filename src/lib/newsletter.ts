@@ -5,19 +5,20 @@
  * d'API route côté serveur. Le formulaire poste directement vers Brevo,
  * qui redirige ensuite vers /newsletter-confirmee/.
  *
- * POUR ACTIVER LA NEWSLETTER :
- * 1. Créer un compte sur brevo.com (plan gratuit)
- * 2. Aller dans Contacts > Formulaires > Créer un formulaire
- * 3. Récupérer l'URL d'action du formulaire (de la forme
- *    https://sibforms.com/serve/XXXXXXXXXXXX)
- * 4. Coller cette URL ci-dessous à la place de la chaîne vide
- * 5. Dans Brevo, configurer la redirection après inscription vers
- *    https://batiproafrique.com/newsletter-confirmee/
- * 6. Activer le double opt-in dans Brevo (conformité RGPD)
+ * Formulaire Brevo utilisé : "Newsletter BatiPro Afrique"
+ * Liste de destination : "Newsletter BatiPro"
+ * Double opt-in : activé (conformité RGPD)
+ * Redirection après envoi : /newsletter-confirmee/
+ *
+ * Le formulaire attend trois champs, tous obligatoires côté Brevo :
+ * - EMAIL               : l'adresse saisie par le visiteur
+ * - email_address_check : piège anti-robot, doit rester vide
+ * - locale              : langue des messages Brevo ("fr")
  *
  * Tant que l'URL est vide, le formulaire s'affiche désactivé plutôt que
  * de faire croire aux visiteurs qu'ils sont inscrits.
  */
-export const BREVO_FORM_ACTION = "";
+export const BREVO_FORM_ACTION =
+  "https://405998e4.sibforms.com/serve/MUIFALrwCEZNnzqPwKTDEPuXon_PPgZ4kaMM15Ybc_3ycp2XbdOgbVCv1UxrAXbjuJ4WdqCIQV6FiA4oRsIyF5MJ8dm8KOFzyCAwWdQ1bmy3IAXTz8qB-l4BUn7RgexLpUgbmwdFNfQkrqvbGbLhVNOzK7qOgXju8msAPKODLr0EtcqSBC5c4aWaEyDOP8uga7YukaE8zLbgZr0PEw==";
 
 export const isNewsletterConfigured = BREVO_FORM_ACTION.length > 0;
