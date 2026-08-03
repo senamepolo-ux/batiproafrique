@@ -3,8 +3,8 @@
   "configurations": [
     {
       "name": "batiproafrique",
-      "runtimeExecutable": "/c/Users/Etudiant/node-v20.18.1-win-x64/npx",
-      "runtimeArgs": ["next", "dev"],
+      "runtimeExecutable": "C:\\Users\\Etudiant\\node-v20.18.1-win-x64\\node.exe",
+      "runtimeArgs": ["./node_modules/next/dist/bin/next", "dev", "--port", "3000"],
       "port": 3000
     }
   ]

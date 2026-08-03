@@ -62,9 +62,12 @@ export default function Header() {
             >
               Contact
             </Link>
-            <button className="bg-terracotta hover:bg-terracotta/80 text-white px-5 py-2 rounded-full text-sm font-semibold tracking-wide transition-all hover:shadow-lg hover:shadow-terracotta/25 transform hover:-translate-y-0.5">
+            <Link
+              href="/#newsletter"
+              className="bg-terracotta hover:bg-terracotta/80 text-white px-5 py-2 rounded-full text-sm font-semibold tracking-wide transition-all hover:shadow-lg hover:shadow-terracotta/25 transform hover:-translate-y-0.5"
+            >
               Newsletter
-            </button>
+            </Link>
           </div>
 
           {/* Mobile Menu Button */}
@@ -98,9 +101,13 @@ export default function Header() {
             <Link href="/contact/" onClick={() => setMenuOpen(false)} className="block text-mocha-cream hover:text-sand-gold py-2 text-sm uppercase tracking-wide">
               Contact
             </Link>
-            <button className="w-full bg-terracotta text-white py-2.5 rounded-full text-sm font-semibold mt-2">
+            <Link
+              href="/#newsletter"
+              onClick={() => setMenuOpen(false)}
+              className="block w-full bg-terracotta text-white py-2.5 rounded-full text-sm font-semibold mt-2 text-center"
+            >
               Newsletter
-            </button>
+            </Link>
           </div>
         )}
       </nav>

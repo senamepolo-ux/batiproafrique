@@ -1,8 +1,11 @@
-"use client";
+import { BREVO_FORM_ACTION, isNewsletterConfigured } from "@/lib/newsletter";
 
 export default function NewsletterSection() {
   return (
-    <section className="py-20 bg-mocha-deep relative overflow-hidden">
+    <section
+      id="newsletter"
+      className="py-20 bg-mocha-deep relative overflow-hidden scroll-mt-20"
+    >
       <div className="grain-overlay absolute inset-0" />
       <div className="relative z-10 max-w-3xl mx-auto px-4 text-center">
         <span className="text-sand-gold text-sm uppercase tracking-widest font-semibold">
@@ -15,23 +18,50 @@ export default function NewsletterSection() {
           Rejoignez notre communauté et soyez les premiers informés de nos nouveaux
           articles, guides de prix et conseils pratiques.
         </p>
-        <form
-          onSubmit={(e) => e.preventDefault()}
-          className="flex flex-col sm:flex-row gap-3 max-w-lg mx-auto"
-        >
-          <input
-            type="email"
-            placeholder="Votre adresse email"
-            className="newsletter-input flex-1 px-5 py-3.5 rounded-full bg-mocha-dark/50 border border-mocha/30 text-white-cream placeholder-mocha-light text-sm"
-            required
-          />
-          <button
-            type="submit"
-            className="bg-terracotta hover:bg-terracotta/90 text-white px-8 py-3.5 rounded-full font-semibold text-sm tracking-wide transition-all hover:shadow-lg hover:shadow-terracotta/25 transform hover:-translate-y-0.5 whitespace-nowrap"
+
+        {isNewsletterConfigured ? (
+          <form
+            action={BREVO_FORM_ACTION}
+            method="POST"
+            className="flex flex-col sm:flex-row gap-3 max-w-lg mx-auto"
           >
-            S&apos;inscrire
-          </button>
-        </form>
+            <label htmlFor="newsletter-email" className="sr-only">
+              Votre adresse email
+            </label>
+            <input
+              id="newsletter-email"
+              type="email"
+              name="EMAIL"
+              autoComplete="email"
+              placeholder="Votre adresse email"
+              className="newsletter-input flex-1 px-5 py-3.5 rounded-full bg-mocha-dark/50 border border-mocha/30 text-white-cream placeholder-mocha-light text-sm"
+              required
+            />
+            <button
+              type="submit"
+              className="bg-terracotta hover:bg-terracotta/90 text-white px-8 py-3.5 rounded-full font-semibold text-sm tracking-wide transition-all hover:shadow-lg hover:shadow-terracotta/25 transform hover:-translate-y-0.5 whitespace-nowrap"
+            >
+              S&apos;inscrire
+            </button>
+          </form>
+        ) : (
+          <div className="flex flex-col sm:flex-row gap-3 max-w-lg mx-auto">
+            <input
+              type="email"
+              placeholder="Votre adresse email"
+              className="newsletter-input flex-1 px-5 py-3.5 rounded-full bg-mocha-dark/30 border border-mocha/20 text-mocha-light placeholder-mocha/60 text-sm cursor-not-allowed"
+              disabled
+            />
+            <button
+              type="button"
+              disabled
+              className="bg-mocha-dark/60 text-mocha-light px-8 py-3.5 rounded-full font-semibold text-sm tracking-wide whitespace-nowrap cursor-not-allowed"
+            >
+              Bientôt disponible
+            </button>
+          </div>
+        )}
+
         <p className="text-mocha/50 text-xs mt-4">
           Pas de spam. Désabonnement en un clic.
         </p>
