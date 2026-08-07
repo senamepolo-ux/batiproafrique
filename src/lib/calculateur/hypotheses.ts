@@ -30,13 +30,13 @@ export const EPAISSEUR_DALLAGE = 0.12;
  */
 export const BETON = {
   /** Semelles isolées et filantes, par m² d'emprise au sol */
-  fondationsParM2Emprise: 0.055,
+  fondationsParM2Emprise: 0.07,
   /** Longrines et chaînage bas, par m² d'emprise au sol */
   longrinesParM2Emprise: 0.035,
   /** Poteaux, par m² de surface bâtie */
-  poteauxParM2Batie: 0.025,
+  poteauxParM2Batie: 0.03,
   /** Poutres et chaînages hauts, par m² de surface bâtie */
-  poutresParM2Batie: 0.03,
+  poutresParM2Batie: 0.035,
 } as const;
 
 /**
@@ -45,15 +45,26 @@ export const BETON = {
  * Ce sont les valeurs les plus sensibles du moteur. Elles servent aussi de
  * repère pour détecter un devis surfacturé : un ratio très supérieur à ces
  * fourchettes signale soit une erreur, soit une facturation abusive.
+ *
+ * Recalés sur les ratios publiés pour les ouvrages courants : semelles
+ * superficielles autour de 45 kg/m³, poteaux 125, longrines 130. Le ratio
+ * global d'un bâtiment d'habitation se situe entre 75 et 85 kg/m³, ce qui
+ * sert de contrôle de cohérence en sortie de moteur.
  */
 export const ACIER_KG_PAR_M3 = {
-  fondations: 75,
-  longrines: 100,
-  poteaux: 120,
+  fondations: 50,
+  longrines: 130,
+  poteaux: 125,
   poutres: 140,
   dalle: 95,
   dallage: 40,
 } as const;
+
+/**
+ * Fourchette de contrôle du ratio d'acier global, en kg/m³.
+ * Un résultat hors de ces bornes signale une hypothèse à revoir.
+ */
+export const CONTROLE_RATIO_ACIER_GLOBAL = { min: 70, max: 100 } as const;
 
 /** Chutes de découpe sur les aciers, en proportion. */
 export const TAUX_CHUTE_ACIER = 0.07;
