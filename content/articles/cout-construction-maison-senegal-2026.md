@@ -127,20 +127,42 @@ Les prix varient sensiblement selon la marque et le volume commandé. À titre i
 
 Retenez deux choses : **acheter par tonne complète coûte nettement moins cher qu'au sac**, et une tonne représente 20 sacs de 50 kg. Beaucoup d'erreurs de budget viennent de cette conversion.
 
-### Les autres matériaux
+### Les agglos
 
-Ces prix ne sont pas homologués. Ce sont des ordres de grandeur constatés sur le marché, à confirmer auprès de vos fournisseurs :
+Attention à une particularité locale : au Sénégal, les agglos font **50 cm de long**, et non 40 cm comme dans les tableaux européens. Cela change tout votre métré. Comptez environ **10 blocs par m² de mur** en nominal, 9 une fois les joints déduits.
 
-| Matériau | Prix constaté |
-|----------|--------------|
-| Sable de mer (m³) | 25 000 à 35 000 FCFA |
-| Sable de dune (camion) | 80 000 à 120 000 FCFA à Dakar |
-| Gravier (m³) | 30 000 à 45 000 FCFA |
-| Parpaing de 15 (unité) | 250 FCFA |
-| Parpaing de 20 (unité) | 350 FCFA |
-| Brique terre compressée (unité) | 200 FCFA |
+| Type | Prix à l'unité |
+|------|---------------|
+| Creux 08×20×50 | 334 FCFA HT |
+| Creux 10×20×50 | 377 FCFA HT |
+| Creux 20×20×50 | 565 FCFA |
+| Plein 15×20×50 | 789 FCFA HT |
 
-> **Surveillez le sable.** C'est le matériau qui a connu la plus forte hausse récente, bien au-delà de l'inflation générale du secteur. Les restrictions d'extraction et l'éloignement des sites d'approvisionnement pèsent directement sur ce poste.
+Selon le fournisseur et le type, le marché s'étale de 389 à 1 200 FCFA l'unité. N'oubliez pas d'ajouter le mortier de pose, systématiquement oublié dans les estimations.
+
+### Sable et gravier : attention aux unités
+
+C'est ici que se produisent la plupart des erreurs de budget, y compris dans les guides en ligne. **Ces matériaux se vendent au camion, pas au mètre cube.** Confondre les deux fausse un budget d'un facteur dix.
+
+| Matériau | Prix au camion | Équivalent au m³ |
+|----------|---------------|------------------|
+| Sable de dune | 44 000 à 50 000 FCFA (20 m³) | environ 2 200 à 2 500 FCFA |
+| Sable de carrière (Bandia) | 35 000 FCFA (20 m³) | environ 1 750 FCFA |
+| Gravier | 130 000 FCFA à Dakar, 110 000 à Thiès | dépend du volume du camion |
+
+**Sur le gravier, soyons honnêtes : nous ne connaissons pas le volume standard du camion chez tous les fournisseurs.** Selon qu'il s'agisse de 10 ou 20 m³, le prix au mètre cube varie du simple au double. Demandez toujours le volume exact avant de comparer deux devis.
+
+> **Surveillez le sable.** Le sable de dune se raréfie et son extraction est de plus en plus encadrée pour protéger le littoral. Les prix ont grimpé de 3,8 % sur le seul mois d'avril 2026, et la filière bascule progressivement vers les carrières intérieures. Anticipez cette hausse si votre chantier s'étale.
+
+### La brique de terre comprimée
+
+**200 à 250 FCFA l'unité.** Les professionnels de la filière annoncent jusqu'à 30 % d'économie sur le gros œuvre par rapport au parpaing, avec un confort thermique nettement supérieur.
+
+### La main d'œuvre
+
+Les taux horaires de la construction sont rarement publiés au Sénégal. Le générateur de prix de CYPE Ingenieros, localisé pour le Sénégal, retient à titre de référence **925 FCFA de l'heure pour un compagnon poseur** et **575 FCFA pour un ouvrier poseur**, auxquels s'ajoutent 2 % de moyens auxiliaires et 3 % de coûts indirects.
+
+Ces valeurs sont des références de calcul, pas un relevé de marché, et l'éditeur n'indique pas de date de mise à jour. Prenez-les comme un ordre de grandeur à confronter aux tarifs pratiqués dans votre zone.
 
 ### Ce que mesure l'indice officiel
 
@@ -208,6 +230,14 @@ Et gardez une habitude simple : avant chaque décision d'achat importante, véri
 - [Ciment : la tonne passe de 65 000 à 75 000 FCFA, Pulse Sénégal](https://www.pulse.sn/article/ciment-la-tonne-passe-de-65000-a-75000-fcfa-2024073014001195145)
 - [Prix du ciment au Sénégal, analyse et évolution des tarifs, HUBCephas](https://hubcephas.com/prix-ciment-senegal/)
 
+**Prix des agglos, du sable, du gravier et de la BTC**
+- [Prix des matériaux de construction au Sénégal, InvestissementImmoAfrique](https://investissementimmoafrique.com/blog/prix-des-materiaux-de-construction-au-senegal/)
+- [Briques et agglos, Diallo BTP Logistique](https://www.diallobtp.com/achats-ventes/briques-agglos)
+- [Sables de construction, Diallo BTP Logistique](https://www.diallobtp.com/achats-ventes/sables-construction-dakar)
+
+**Taux horaires de main d'œuvre**
+- [Générateur de prix de la construction, Sénégal, CYPE Ingenieros](https://senegal.prix-construction.info/)
+
 **Mesures gouvernementales sur les prix**
 - [Baisse des prix au Sénégal, liste des mesures prises par le Gouvernement, Primature](https://primature.sn/publications/actualites/baisse-des-prix-au-senegal-liste-des-mesures-prises-par-le-gouvernement)
 
@@ -222,3 +252,9 @@ Une version précédente de cet article présentait les prix homologués du fer 
 Après recoupement de trois sources indépendantes, dont une vérification par le calcul à partir des prix à la barre et des masses linéiques normalisées, le prix réellement constaté à Dakar en janvier 2026 se situe entre **580 000 et 700 000 FCFA la tonne**.
 
 Un lecteur qui aurait budgété six tonnes d'acier sur l'ancienne version aurait sous-estimé ce poste de 400 000 à 1 million de francs. Nous présentons désormais systématiquement les deux prix, l'officiel et celui du marché.
+
+Trois autres corrections ont été apportées le même jour :
+
+- **Le sable et le gravier** étaient présentés à des prix au mètre cube alors qu'il s'agissait de prix au camion. L'écart atteignait un facteur dix.
+- **Les agglos** étaient sous-évalués d'environ 50 %, et leur format n'était pas précisé. Au Sénégal ils mesurent 50 cm de long, ce qui change le nombre de blocs au mètre carré.
+- **La main d'œuvre** était absente de l'article alors qu'elle représente une part importante du coût.
