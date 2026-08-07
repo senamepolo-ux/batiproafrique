@@ -21,7 +21,7 @@ Ce guide vous donne des chiffres précis. Il vous dit aussi, pour chacun, d'où 
 
 Nous distinguons trois niveaux de fiabilité, et nous vous disons à chaque fois auquel vous avez affaire.
 
-**Les prix officiels des matériaux stratégiques.** Le ciment et le fer à béton font l'objet d'une homologation par l'État sénégalais. Ces prix sont publics et vérifiables. Ce sont les plus solides de cet article.
+**Les prix officiels des matériaux stratégiques.** Le ciment et le fer à béton font l'objet d'une homologation par l'État sénégalais. Ces prix sont publics et vérifiables. Attention toutefois : nous avons constaté qu'ils **ne sont pas appliqués sur le marché**, et nous vous donnons systématiquement les deux, le tarif officiel et le prix réellement pratiqué.
 
 **L'évolution mesurée par l'ANSD.** L'Agence Nationale de la Statistique et de la Démographie publie chaque mois un Indice des Prix des Matériaux de Construction, relevé sur cinq zones du pays : Dakar, Kaolack, Diourbel, Saint-Louis et Kolda. Cet indice ne donne pas de prix absolus, mais il mesure les tendances de façon rigoureuse.
 
@@ -83,27 +83,49 @@ C'est souvent là que le budget explose. La différence entre un carrelage local
 
 ## Prix des matériaux de construction
 
-### Ciment et fer : les prix officiels de 2026
+### Ciment et fer : ce que dit l'État, et ce que vous paierez
 
-En décembre 2025, le gouvernement sénégalais a annoncé une révision à la baisse des prix homologués du ciment et du fer à béton. Ce sont les tarifs en vigueur aujourd'hui :
+Il faut distinguer deux choses que presque tous les guides confondent : **le prix homologué**, fixé par l'État, et **le prix réellement pratiqué** chez les fournisseurs. Au Sénégal, l'écart entre les deux est important, et c'est vous qui le payez.
 
-| Matériau | Prix homologué | Évolution |
-|----------|---------------|-----------|
-| Ciment (tonne) | **67 500 FCFA** | baisse de 5 500 FCFA |
-| Fer à béton importé (tonne) | **520 000 FCFA** | baisse de 50 000 FCFA |
-| Fer à béton local (tonne) | **390 000 FCFA** | baisse de 60 000 FCFA |
+En décembre 2025, le gouvernement a annoncé une révision à la baisse des prix homologués :
 
-Le fer importé se vend 52 000 FCFA les 100 kg, le fer local 39 000 FCFA.
+| Matériau | Prix homologué | Prix constaté sur le marché |
+|----------|---------------|----------------------------|
+| Ciment (tonne) | 67 500 FCFA | **69 750 à 80 000 FCFA** |
+| Fer à béton importé (tonne) | 520 000 FCFA | **580 000 à 700 000 FCFA** |
+| Fer à béton local (tonne) | 390 000 FCFA | **inférieur de 10 à 15 % à l'importé** |
 
-**Si vous avez consulté des articles publiés avant 2026, méfiez-vous.** Beaucoup annoncent encore le fer entre 550 000 et 600 000 FCFA la tonne. Sur une villa de 150 m² consommant environ 6 tonnes d'acier, l'écart représente plus d'un million de francs dans votre budget prévisionnel.
+**Budgétez avec le prix du marché. Négociez avec le prix homologué.**
 
-### Le piège du prix homologué
+C'est la règle à retenir. Le tarif officiel est un plafond théorique et un argument de discussion, pas une garantie. Si vous construisez votre budget sur les 520 000 FCFA annoncés par l'État pour le fer, vous manquerez de plusieurs centaines de milliers de francs en cours de chantier.
 
-Voici une chose que peu de guides vous diront : **le prix homologué n'est pas toujours le prix payé**.
+### Le fer à béton, prix par diamètre
 
-Le prix officiel du ciment était fixé à 65 000 FCFA la tonne alors qu'il s'échangeait couramment entre 72 000 et 75 000 FCFA sur le marché. Selon les périodes et les régions, la tonne a pu descendre à 64 200 FCFA ou monter jusqu'à 80 000 FCFA, avec des surcoûts de transport de 3 000 à 7 000 FCFA la tonne.
+Les fournisseurs vendent à la barre de 12 mètres, pas à la tonne. Voici les prix relevés à Dakar en janvier 2026 :
 
-Autrement dit, le prix homologué est un plafond théorique, pas une garantie. Demandez toujours le prix réel pratiqué chez plusieurs fournisseurs de votre zone, et faites-le écrire sur le devis.
+| Diamètre | Prix de la barre (12 m) | Usage courant |
+|----------|------------------------|---------------|
+| HA6 | 1 600 à 1 900 FCFA | étriers, cadres |
+| HA8 | 2 800 à 3 200 FCFA | chaînages, poteaux |
+| HA10 | 4 500 à 5 200 FCFA | dalles, fondations |
+| HA12 | 6 500 à 7 400 FCFA | poteaux, semelles |
+
+Pour vérifier qu'on ne vous surfacture pas, convertissez vous-même. Une barre de HA12 de 12 mètres pèse 10,66 kg. À 6 500 FCFA la barre, vous payez donc environ 610 000 FCFA la tonne. Faites ce calcul devant le vendeur, il change souvent le ton de la discussion.
+
+**Local ou importé ?** Le fer local est produit à partir de recyclage. S'il respecte les normes sénégalaises, il convient parfaitement au résidentiel. Le fer importé, souvent turc, présente une régularité de diamètre supérieure mais coûte 10 à 15 % de plus. Hors Dakar, comptez une majoration de transport d'environ 3 000 FCFA la tonne.
+
+### Le ciment : la classe compte autant que le prix
+
+Tous les ciments ne se valent pas, et payer moins cher un ciment inadapté revient cher.
+
+| Classe | Usage |
+|--------|-------|
+| CEM II 32.5 R | maçonnerie, mortier de pose, enduits, béton de propreté |
+| CEM II 42.5 | béton armé structurel : poteaux, poutres, dalles |
+
+Les prix varient sensiblement selon la marque et le volume commandé. À titre indicatif, on trouve du Sococim CEM II 32.5 autour de 60 900 FCFA la tonne à partir de 5 tonnes hors livraison, du Sococim 42.5 autour de 60 000 FCFA TTC, et du Dangote CEM II 42.5R autour de 78 000 FCFA.
+
+Retenez deux choses : **acheter par tonne complète coûte nettement moins cher qu'au sac**, et une tonne représente 20 sacs de 50 kg. Beaucoup d'erreurs de budget viennent de cette conversion.
 
 ### Les autres matériaux
 
@@ -153,7 +175,7 @@ La saison des pluies (juin à octobre) ralentit les travaux et peut endommager l
 ## 5 conseils pour optimiser votre budget
 
 1. **Faites établir au moins 3 devis** par des entreprises différentes pour chaque poste
-2. **Vérifiez les prix homologués** du ciment et du fer avant de valider un devis ; c'est votre seul point de comparaison officiel
+2. **Budgétez au prix du marché, négociez au prix homologué** ; connaître le tarif officiel du ciment et du fer vous donne un argument que peu d'acheteurs utilisent
 3. **Achetez les matériaux en gros** quand c'est possible ; les remises peuvent atteindre 10 à 15 %
 4. **Optez pour des matériaux locaux** comme la BTC, moins chère et offrant une meilleure isolation thermique
 5. **Suivez le chantier régulièrement** ou mandatez un maître d'oeuvre ; les économies réalisées par un suivi rigoureux compensent largement ses honoraires
@@ -179,6 +201,9 @@ Et gardez une habitude simple : avant chaque décision d'achat importante, véri
 - [Indice des Prix des Matériaux de Construction (IMC), ANSD](https://www.ansd.sn/Indicateur/indice-des-prix-des-materiaux-de-construction-imc)
 - [Indice des prix des matériaux de construction, février 2026, Vie-Publique.sn](https://www.vie-publique.sn/documents/10729/indice-des-prix-des-materiaux-de-construction-imc-fevrier-2026-ansd)
 
+**Prix du fer à béton réellement pratiqués, par diamètre**
+- [Prix du fer à béton au Sénégal, guide d'achat, Immobilier221, janvier 2026](https://immobilier221.com/prix-du-fer-a-beton-au-senegal-guide-achat-au-meilleur-prix/)
+
 **Écart entre prix homologué et prix de marché du ciment**
 - [Ciment : la tonne passe de 65 000 à 75 000 FCFA, Pulse Sénégal](https://www.pulse.sn/article/ciment-la-tonne-passe-de-65000-a-75000-fcfa-2024073014001195145)
 - [Prix du ciment au Sénégal, analyse et évolution des tarifs, HUBCephas](https://hubcephas.com/prix-ciment-senegal/)
@@ -187,3 +212,13 @@ Et gardez une habitude simple : avant chaque décision d'achat importante, véri
 - [Baisse des prix au Sénégal, liste des mesures prises par le Gouvernement, Primature](https://primature.sn/publications/actualites/baisse-des-prix-au-senegal-liste-des-mesures-prises-par-le-gouvernement)
 
 *Les coûts au mètre carré et les prix des matériaux non homologués sont des estimations de marché, recoupées entre plusieurs professionnels du secteur. Ils ne proviennent d'aucune source officielle, aucune n'existant à ce jour au Sénégal.*
+
+---
+
+### Correction du 3 août 2026
+
+Une version précédente de cet article présentait les prix homologués du fer à béton (520 000 FCFA la tonne pour l'importé, 390 000 pour le local) comme étant les tarifs réellement pratiqués. C'était inexact.
+
+Après recoupement de trois sources indépendantes, dont une vérification par le calcul à partir des prix à la barre et des masses linéiques normalisées, le prix réellement constaté à Dakar en janvier 2026 se situe entre **580 000 et 700 000 FCFA la tonne**.
+
+Un lecteur qui aurait budgété six tonnes d'acier sur l'ancienne version aurait sous-estimé ce poste de 400 000 à 1 million de francs. Nous présentons désormais systématiquement les deux prix, l'officiel et celui du marché.
