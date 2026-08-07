@@ -144,13 +144,18 @@ Selon le fournisseur et le type, le marché s'étale de 389 à 1 200 FCFA l'unit
 
 C'est ici que se produisent la plupart des erreurs de budget, y compris dans les guides en ligne. **Ces matériaux se vendent au camion, pas au mètre cube.** Confondre les deux fausse un budget d'un facteur dix.
 
-| Matériau | Prix au camion | Équivalent au m³ |
-|----------|---------------|------------------|
-| Sable de dune | 44 000 à 50 000 FCFA (20 m³) | environ 2 200 à 2 500 FCFA |
-| Sable de carrière (Bandia) | 35 000 FCFA (20 m³) | environ 1 750 FCFA |
-| Gravier | 130 000 FCFA à Dakar, 110 000 à Thiès | dépend du volume du camion |
+Au Sénégal, la benne standard fait **20 m³**. Voici donc les prix ramenés au mètre cube :
 
-**Sur le gravier, soyons honnêtes : nous ne connaissons pas le volume standard du camion chez tous les fournisseurs.** Selon qu'il s'agisse de 10 ou 20 m³, le prix au mètre cube varie du simple au double. Demandez toujours le volume exact avant de comparer deux devis.
+| Matériau | Prix au camion (20 m³) | Prix au m³ |
+|----------|----------------------|-----------|
+| Sable de dune | 44 000 à 50 000 FCFA | 2 200 à 2 500 FCFA |
+| Sable de carrière (Bandia) | 35 000 FCFA | 1 750 FCFA |
+| Gravier, Dakar | 130 000 FCFA | 6 500 FCFA |
+| Gravier, Thiès | 110 000 FCFA | 5 500 FCFA |
+
+Vérifiez tout de même le volume annoncé avant de comparer deux fournisseurs. Une benne plus petite au même prix, et votre mètre cube coûte le double sans que rien ne le signale sur le devis.
+
+**Un exemple concret.** Un mètre cube de béton dosé à 350 kg consomme environ 0,80 m³ de gravier et 0,40 m³ de sable. Pour un chantier de 30 m³ de béton, il vous faut donc 24 m³ de gravier, soit un camion et quart, et 12 m³ de sable. À Dakar, cela représente environ 156 000 FCFA de gravier et 30 000 FCFA de sable de carrière.
 
 > **Surveillez le sable.** Le sable de dune se raréfie et son extraction est de plus en plus encadrée pour protéger le littoral. Les prix ont grimpé de 3,8 % sur le seul mois d'avril 2026, et la filière bascule progressivement vers les carrières intérieures. Anticipez cette hausse si votre chantier s'étale.
 
