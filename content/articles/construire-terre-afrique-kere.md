@@ -110,13 +110,15 @@ La brique en terre cuite est fabriquée avec de l'argile façonnée et cuite au 
 
 **Ses avantages au Sénégal :**
 - **Inertie thermique** : la terre cuite absorbe la chaleur le jour et la restitue la nuit. La maison reste fraîche pendant la journée et se réchauffe doucement la nuit
-- **Durabilité** : une brique en terre cuite de bonne qualité dure 50 à 100 ans
+- **Durabilité** : c'est un matériau qui traverse les générations, comme en témoignent les constructions anciennes encore debout dans le monde entier
 - **Esthétique** : la couleur chaude de la terre cuite, rouge, ocre, terracotta, est naturellement belle et s'intègre parfaitement dans le paysage africain
 - **Résistance** : bien fabriquée, elle résiste aux intempéries et aux insectes
 
-**Coût au Sénégal** : 150 à 350 FCFA par brique selon la qualité et la région.
+**Coût au Sénégal** : à confirmer auprès des producteurs. Les prix relevés pour les briques de terre varient fortement selon le type et la région, de l'ordre de 150 à 350 FCFA l'unité.
 
-**Économie réalisée sur la climatisation** : une maison en brique de terre cuite bien conçue peut réduire la consommation d'énergie de climatisation de **40 à 60 %** par rapport à une maison en parpaing béton.
+**Sur le confort thermique**, plutôt que des pourcentages d'économie invérifiables, voici les chiffres qui comptent. La conductivité thermique d'une brique de terre tourne autour de **0,6 W/m.K**, contre **1,1 à 1,7 W/m.K** pour le béton et le parpaing. Autrement dit, la terre laisse passer la chaleur deux à trois fois moins vite.
+
+S'y ajoute le **déphasage thermique**, de 8 à 12 heures : la chaleur accumulée en journée ne traverse le mur qu'une fois la nuit tombée, quand l'air extérieur a fraîchi. C'est précisément ce qui rend ces matériaux pertinents au Sahel, où l'écart entre le jour et la nuit est important.
 
 ### 2. La brique en terre crue (adobe)
 
@@ -140,7 +142,7 @@ La BTC est la version moderne de la brique en terre crue. On mélange de la terr
 - **Résistance** : une BTC bien fabriquée résiste à 2 à 5 MPa, comparable à un parpaing béton
 - **Imperméabilité** : le ciment stabilisant la protège de l'humidité
 - **Esthétique** : la surface est lisse et régulière, elle peut être laissée apparente sans enduit
-- **Économique** : coûte 30 à 50 % moins cher que le parpaing béton
+- **Économique** : la filière annonce jusqu'à 30 % d'économie sur le gros œuvre par rapport au parpaing
 - **Local** : la terre vient du site, seul le ciment est acheté (et en faible quantité)
 - **Emploi local** : une presse à BTC peut être actionnée par 3 à 4 personnes formées localement
 
@@ -154,7 +156,7 @@ La BTC est la version moderne de la brique en terre crue. On mélange de la terr
 
 **Coût d'une presse à BTC** : 1,5 à 3 millions FCFA pour une presse manuelle ou motorisée. Elle peut produire 300 à 500 briques par jour.
 
-**Coût de la BTC** : 80 à 150 FCFA par brique, contre 200 à 350 FCFA pour le parpaing béton.
+**Coût de la BTC** : les prix relevés au Sénégal s'échelonnent de 80 à 250 FCFA l'unité selon le producteur, le format et le volume commandé, contre 200 à 350 FCFA pour le parpaing béton. Demandez toujours un prix ferme pour votre quantité : l'écart entre les fourchettes basses et hautes est trop large pour budgéter à l'aveugle.
 
 ## L'indice carbone : pourquoi la terre bat le béton
 
@@ -179,13 +181,13 @@ Construire une maison de 100 m² en BTC émet **10 à 15 fois moins de CO₂** q
 
 ### Des maisons plus fraîches
 
-Un mur en BTC ou en terre cuite de 30 cm d'épaisseur maintient la température intérieure **5 à 8 degrés** en dessous de la température extérieure. En saison chaude à Dakar (38 à 42 degrés), c'est la différence entre une maison habitable et une fournaise.
+Un mur épais en terre ne bloque pas la chaleur, il la retarde. Avec un déphasage de 8 à 12 heures, le pic de chaleur de l'après-midi n'atteint l'intérieur qu'en pleine nuit, quand l'air extérieur a fraîchi et qu'on peut ventiler. En saison chaude à Dakar, c'est ce décalage qui fait la différence entre une maison habitable et une fournaise.
 
-### Des économies considérables
+### Des économies réelles
 
-- Matériaux : **30 à 50 % moins chers** que le béton
-- Électricité : **40 à 60 % de réduction** de la facture de climatisation
-- Pour une famille sénégalaise, cela représente des centaines de milliers de FCFA économisés chaque année
+- **Sur les matériaux** : la filière annonce jusqu'à 30 % d'économie sur le gros œuvre par rapport au parpaing
+- **Sur l'électricité** : une conductivité thermique deux à trois fois plus faible que le béton réduit mécaniquement le recours à la climatisation. L'ampleur de l'économie dépend trop de la conception, de l'orientation et des habitudes du foyer pour être annoncée en pourcentage
+- **Sur la durée** : ces économies se répètent chaque année, pendant toute la vie du bâtiment
 
 ### Des emplois locaux
 
@@ -266,4 +268,12 @@ Partagez cet article à tous ceux qui veulent construire en Afrique. La connaiss
 **Worofila**
 - [Worofila, architecture bioclimatique et écologique en brique de terre](https://worofila.com/)
 - [Design Vanguard 2024, Worofila, Architectural Record](https://www.architecturalrecord.com/articles/16961-design-vanguard-2024-worofila)
+
+**Performances thermiques de la terre**
+- [Maison bioclimatique et inertie thermique de la BTC](https://briquedeterre.over-blog.com/pages/Maison_bioclimatique_et_inertie_thermique-2762310.html)
+- [Comparatif des matériaux de construction, Conseils Thermiques](https://conseils-thermiques.org/contenu/comparatif_materiaux_construction.php)
+- [Briques de terre comprimée, typha, bambou, ces matériaux au cœur de l'efficacité énergétique en Afrique, Mongabay](https://fr.mongabay.com/2025/12/briques-de-terre-comprimee-typha-bambou-ces-materiaux-ecologiques-au-coeur-de-lefficacite-energetique-en-afrique/)
+
+**Prix des briques au Sénégal**
+- [Prix des matériaux de construction au Sénégal, InvestissementImmoAfrique](https://investissementimmoafrique.com/blog/prix-des-materiaux-de-construction-au-senegal/)
 
