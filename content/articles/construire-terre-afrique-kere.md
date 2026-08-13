@@ -110,7 +110,7 @@ La brique en terre cuite est fabriquée avec de l'argile façonnée et cuite au 
 
 **Ses avantages au Sénégal :**
 - **Inertie thermique** : la terre cuite absorbe la chaleur le jour et la restitue la nuit. La maison reste fraîche pendant la journée et se réchauffe doucement la nuit
-- **Durabilité** : c'est un matériau qui traverse les générations, comme en témoignent les constructions anciennes encore debout dans le monde entier
+- **Durabilité** : les fiches environnementales retiennent une durée de vie d'**au moins 100 ans**, et une maison bien entretenue atteint couramment 100 à 150 ans. Certaines études sur du bâti ancien relèvent des maçonneries encore fonctionnelles après plusieurs siècles
 - **Esthétique** : la couleur chaude de la terre cuite, rouge, ocre, terracotta, est naturellement belle et s'intègre parfaitement dans le paysage africain
 - **Résistance** : bien fabriquée, elle résiste aux intempéries et aux insectes
 
@@ -173,7 +173,9 @@ L'indice carbone mesure la quantité de CO₂ émise pour fabriquer un matériau
 
 **Ce que ça veut dire concrètement :**
 
-Construire une maison de 100 m² en BTC émet **10 à 15 fois moins de CO₂** qu'une maison en parpaing béton. L'Afrique peut construire des millions de logements sans répéter les erreurs de pollution de l'industrialisation occidentale.
+Ces écarts s'expliquent simplement. La terre crue ne demande **aucune cuisson**, donc aucun combustible : construire en terre crue mobilise une énergie de fabrication de l'ordre de **3 % de celle qu'exige une construction en béton**. Le ciment, lui, se cuit à 1 450 degrés.
+
+L'Afrique peut donc construire des millions de logements sans répéter les erreurs de pollution de l'industrialisation occidentale.
 
 > **L'Afrique a une chance unique** : construire pour des centaines de millions de personnes qui ont besoin de logements, tout en utilisant des matériaux locaux à faible empreinte carbone. C'est un avantage, pas un manque.
 
@@ -269,8 +271,14 @@ Partagez cet article à tous ceux qui veulent construire en Afrique. La connaiss
 - [Worofila, architecture bioclimatique et écologique en brique de terre](https://worofila.com/)
 - [Design Vanguard 2024, Worofila, Architectural Record](https://www.architecturalrecord.com/articles/16961-design-vanguard-2024-worofila)
 
+**Durabilité de la terre cuite**
+- [Longue durée de vie de la brique, Fédération belge de la brique](https://www.brique.be/durabilite-et-circularite/longue-dur%C3%A9e-de-vie/2120/longue-dur%C3%A9e-de-vie/)
+- [Durée de vie des matériaux de parement, Guide Bâtiment Durable Bruxelles](https://guidebatimentdurable.brussels/choix-durable-materiaux-parement/duree-vie)
+
 **Performances thermiques de la terre**
 - [Maison bioclimatique et inertie thermique de la BTC](https://briquedeterre.over-blog.com/pages/Maison_bioclimatique_et_inertie_thermique-2762310.html)
+- [Les briques en terre crue pour la régulation thermique, MecoConcept](https://www.mecoconcept.com/fr/les-briques-en-terre-crue-regulation-thermique/)
+- [Étude numérique du comportement thermique de brique de terre stabilisée, ResearchGate](https://www.researchgate.net/publication/330887272_ETUDE_NUMERIQUE_DU_COMPORTEMENT_THERMIQUE_DE_BRIQUE_DE_TERRE_STABILISEE)
 - [Comparatif des matériaux de construction, Conseils Thermiques](https://conseils-thermiques.org/contenu/comparatif_materiaux_construction.php)
 - [Briques de terre comprimée, typha, bambou, ces matériaux au cœur de l'efficacité énergétique en Afrique, Mongabay](https://fr.mongabay.com/2025/12/briques-de-terre-comprimee-typha-bambou-ces-materiaux-ecologiques-au-coeur-de-lefficacite-energetique-en-afrique/)
 
