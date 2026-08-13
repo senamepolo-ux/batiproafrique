@@ -69,11 +69,10 @@ En 2026, Francis Kéré livre son oeuvre la plus emblématique en Afrique de l'O
 
 ### Ce qui rend ce bâtiment exceptionnel
 
-- Les murs sont en **briques de latérite perforées**, la même pierre rouge qu'on trouve partout au Sénégal
-- La façade perforée laisse passer l'air et la lumière naturellement, **sans climatisation**
-- Un **baobab centenaire** se dresse au centre du bâtiment ; Kéré a conçu l'architecture autour de l'arbre, il ne l'a pas abattu
-- La toiture intègre des **panneaux solaires** pour l'énergie
-- Le bâtiment comprend une bibliothèque dédiée aux **savoirs africains**, un auditorium, des salles de formation
+- Les murs sont en **briques de terre comprimée**, faites à partir de la latérite locale
+- **Certaines façades sont perforées** et laissent passer l'air et la lumière naturellement
+- Un **baobab** se dresse au centre du bâtiment ; Kéré a conçu l'architecture autour de l'arbre, il ne l'a pas abattu
+- Le bâtiment comprend une bibliothèque, un auditorium et des salles de formation
 
 Ce bâtiment est une déclaration : **l'Afrique peut créer de la beauté avec ses propres ressources.** Et il est à Dakar. Les Sénégalais peuvent aller le voir, le toucher, comprendre ce qu'on peut faire avec la latérite de leur propre sol.
 
@@ -81,29 +80,21 @@ Le bâtiment a été inauguré le **18 avril 2026**. Pour le Goethe-Institut, ac
 
 ## Les Sénégalais qui ont bâti le Goethe Institut
 
-Voici ce que la plupart des articles oublient de dire, y compris la première version de celui-ci.
+Francis Kéré a dessiné. Mais un plan, même génial, ne devient pas un bâtiment tout seul. **Des acteurs sénégalais ont fabriqué la matière et accompagné la construction.** Les nommer, c'est le sujet même de cet article : l'Afrique ne manque pas de savoir-faire, elle manque de reconnaissance.
 
-Francis Kéré a dessiné. Mais un plan, même génial, ne devient pas un bâtiment tout seul. **Ce sont des Sénégalais qui ont fabriqué la matière et dirigé le chantier.** Les nommer n'est pas une politesse, c'est le sujet même de cet article : l'Afrique ne manque pas de savoir-faire, elle manque de reconnaissance.
+### Elementerre, la matière
 
-### Elementerre : celui qui a fait les briques
+Les briques de terre comprimée du bâtiment viennent de chez **Elementerre**, entreprise sénégalaise fondée en 2010 par **Doudou Dème**, dont la production est installée à **Gandigal**, près de Mbour.
 
-Toutes les briques de terre comprimée du bâtiment sortent de chez **Elementerre**, entreprise sénégalaise fondée en 2010 par **Doudou Dème**.
+C'est cette brique qui donne au bâtiment son inertie thermique. Pas un dispositif importé : de la terre sénégalaise, pressée au Sénégal.
 
-Sa production est installée à **Gandigal**, à sept kilomètres de Mbour. La recette est d'une simplicité désarmante : de la latérite locale, du sable, de l'eau, et **8 % de ciment seulement** pour stabiliser. Aucune cuisson, donc aucun bois brûlé, aucun four. La brique est simplement comprimée mécaniquement.
+### Worofila, l'architecte local
 
-C'est cette brique qui donne au bâtiment son inertie thermique, cette climatisation naturelle qui repousse la chaleur avant qu'elle n'entre. Pas un dispositif technique importé : de la terre sénégalaise, pressée au Sénégal.
+L'agence dakaroise **Worofila**, fondée en 2019 par **Nzinga B. Mboup** et **Nicolas Rondet**, est créditée comme architecte du projet aux côtés de Kéré Architecture.
 
-Elementerre produit aujourd'hui autour de mille briques par jour et vise les quatre mille. Ses BTC ont déjà servi à d'autres projets du pays, dont l'extension de l'hôtel Djoloff à Fann-Hock.
+Worofila ne travaille pas que la terre. L'agence utilise aussi le **typha**, ce roseau qui prolifère dans le delta du fleuve Sénégal et que l'on considérait surtout comme une nuisance. Sa fibre en fait un isolant : panneaux tressés en protection solaire, nattes acoustiques, ou mélangé à l'argile. Une plante envahissante devenue matériau de construction.
 
-### Worofila : ceux qui ont dirigé le chantier
-
-L'agence dakaroise **Worofila**, fondée en 2019 par **Nzinga B. Mboup** et **Nicolas Rondet**, a été l'architecte local du projet.
-
-Leur rôle a été celui de la traduction : transformer des plans complexes, comme cette double peau en briques perforées, en gestes réalisables par des artisans sénégalais, sur un chantier sénégalais. Ils ont travaillé aux côtés du bureau d'ingénierie allemand Rebuild.ing.
-
-Worofila ne fait pas que de la terre. L'agence travaille aussi le **typha**, ce roseau envahissant qui prolifère dans le delta du fleuve Sénégal et que tout le monde considérait comme une nuisance. Sa fibre alvéolaire en fait un excellent isolant. Panneaux tressés en protection solaire, nattes acoustiques au plafond, ou mélangé à l'argile pour faire des briques : une plante nuisible devenue matériau de construction.
-
-On leur doit également des gares du TER, le jardin et la galerie de l'Institut français, la Vertical House à Ngor. En 2024, la revue *Architectural Record* les a distingués parmi ses **Design Vanguard**, une reconnaissance internationale rare pour une agence africaine de six ans.
+On leur doit également des gares du TER et la Vertical House à Ngor. En 2024, la revue *Architectural Record* les a distingués parmi ses **Design Vanguard**.
 
 ### Pourquoi ces noms comptent
 
@@ -251,7 +242,7 @@ Francis Kéré n'a pas inventé la brique en terre. Il a rappelé au monde que l
 
 Le Goethe Institut Dakar est là, en briques de latérite perforées, avec un baobab au coeur. Il est beau. Il est frais. Il est africain.
 
-Et il a été bâti par des Sénégalais. La terre vient de Gandigal, les briques d'Elementerre, la direction du chantier de Worofila, les gestes d'artisans d'ici. Cette chaîne existe, elle fonctionne, et elle est à votre disposition.
+Et des Sénégalais l'ont bâti. Les briques viennent d'Elementerre, à Gandigal. Worofila, agence dakaroise, en est l'architecte local. Les gestes sont ceux d'artisans d'ici. Cette chaîne existe, elle fonctionne, et elle est à votre disposition.
 
 **L'avenir de la construction en Afrique n'est pas dans le béton importé. Il est dans la terre sous nos pieds, et dans les mains qui savent déjà la travailler.**
 
@@ -276,6 +267,3 @@ Partagez cet article à tous ceux qui veulent construire en Afrique. La connaiss
 - [Worofila, architecture bioclimatique et écologique en brique de terre](https://worofila.com/)
 - [Design Vanguard 2024, Worofila, Architectural Record](https://www.architecturalrecord.com/articles/16961-design-vanguard-2024-worofila)
 
----
-
-*Article enrichi le 12 août 2026. La version initiale ne créditait que Francis Kéré pour le Goethe Institut Dakar. Elle passait sous silence Elementerre, qui a fabriqué l'intégralité des briques, et Worofila, qui a dirigé le chantier. C'était une omission d'autant plus regrettable que cet article défend précisément la reconnaissance du savoir-faire africain.*
