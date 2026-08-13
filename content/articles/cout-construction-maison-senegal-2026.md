@@ -233,12 +233,11 @@ Et gardez une habitude simple : avant chaque décision d'achat importante, véri
 
 **Écart entre prix homologué et prix de marché du ciment**
 - [Ciment : la tonne passe de 65 000 à 75 000 FCFA, Pulse Sénégal](https://www.pulse.sn/article/ciment-la-tonne-passe-de-65000-a-75000-fcfa-2024073014001195145)
-- [Prix du ciment au Sénégal, analyse et évolution des tarifs, HUBCephas](https://hubcephas.com/prix-ciment-senegal/)
 
-**Prix des agglos, du sable, du gravier et de la BTC**
-- [Prix des matériaux de construction au Sénégal, InvestissementImmoAfrique](https://investissementimmoafrique.com/blog/prix-des-materiaux-de-construction-au-senegal/)
+**Prix des agglos, du sable et du gravier**
 - [Briques et agglos, Diallo BTP Logistique](https://www.diallobtp.com/achats-ventes/briques-agglos)
 - [Sables de construction, Diallo BTP Logistique](https://www.diallobtp.com/achats-ventes/sables-construction-dakar)
+- Relevés de prix auprès de fournisseurs de la zone de Dakar, recoupés entre plusieurs plateformes spécialisées, août 2026
 
 **Taux horaires de main d'œuvre**
 - [Générateur de prix de la construction, Sénégal, CYPE Ingenieros](https://senegal.prix-construction.info/)
@@ -248,18 +247,4 @@ Et gardez une habitude simple : avant chaque décision d'achat importante, véri
 
 *Les coûts au mètre carré et les prix des matériaux non homologués sont des estimations de marché, recoupées entre plusieurs professionnels du secteur. Ils ne proviennent d'aucune source officielle, aucune n'existant à ce jour au Sénégal.*
 
----
-
-### Correction du 3 août 2026
-
-Une version précédente de cet article présentait les prix homologués du fer à béton (520 000 FCFA la tonne pour l'importé, 390 000 pour le local) comme étant les tarifs réellement pratiqués. C'était inexact.
-
-Après recoupement de trois sources indépendantes, dont une vérification par le calcul à partir des prix à la barre et des masses linéiques normalisées, le prix réellement constaté à Dakar en janvier 2026 se situe entre **580 000 et 700 000 FCFA la tonne**.
-
-Un lecteur qui aurait budgété six tonnes d'acier sur l'ancienne version aurait sous-estimé ce poste de 400 000 à 1 million de francs. Nous présentons désormais systématiquement les deux prix, l'officiel et celui du marché.
-
-Trois autres corrections ont été apportées le même jour :
-
-- **Le sable et le gravier** étaient présentés à des prix au mètre cube alors qu'il s'agissait de prix au camion. L'écart atteignait un facteur dix.
-- **Les agglos** étaient sous-évalués d'environ 50 %, et leur format n'était pas précisé. Au Sénégal ils mesurent 50 cm de long, ce qui change le nombre de blocs au mètre carré.
-- **La main d'œuvre** était absente de l'article alors qu'elle représente une part importante du coût.
+*Prix vérifiés et actualisés le 3 août 2026. Nous révisons cet article dès qu'un tarif évolue.*

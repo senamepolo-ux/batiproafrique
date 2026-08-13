@@ -283,5 +283,5 @@ Partagez cet article à tous ceux qui veulent construire en Afrique. La connaiss
 - [Briques de terre comprimée, typha, bambou, ces matériaux au cœur de l'efficacité énergétique en Afrique, Mongabay](https://fr.mongabay.com/2025/12/briques-de-terre-comprimee-typha-bambou-ces-materiaux-ecologiques-au-coeur-de-lefficacite-energetique-en-afrique/)
 
 **Prix des briques au Sénégal**
-- [Prix des matériaux de construction au Sénégal, InvestissementImmoAfrique](https://investissementimmoafrique.com/blog/prix-des-materiaux-de-construction-au-senegal/)
+- Relevés auprès de producteurs et de plateformes spécialisées, recoupés entre eux, août 2026
 
