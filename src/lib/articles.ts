@@ -15,6 +15,31 @@ export interface SectionImage {
   credit?: string;
 }
 
+/**
+ * Fournisseur cité comme source vérifiée dans un article.
+ *
+ * Ce n'est pas un encart publicitaire : le bloc affiche l'entreprise auprès
+ * de laquelle les tarifs de l'article ont été relevés, avec la date du
+ * relevé. Le lecteur sait d'où vient le chiffre et où s'adresser.
+ *
+ * Le champ `after` fonctionne comme celui des images : le bloc s'insère
+ * juste avant le titre de section indiqué.
+ */
+export interface Fournisseur {
+  nom: string;
+  activite: string;
+  implantation: string;
+  logo: string;
+  /** Fond sombre derrière le logo, pour les logos en blanc sur transparent */
+  logoFondSombre?: boolean;
+  site?: string;
+  email?: string;
+  telephone?: string;
+  /** Période du relevé de tarifs, affichée au lecteur */
+  dateVerification: string;
+  after: string;
+}
+
 export interface ArticleMeta {
   title: string;
   slug: string;
@@ -26,6 +51,7 @@ export interface ArticleMeta {
   readTime: string;
   tags: string[];
   sectionImages?: SectionImage[];
+  fournisseurs?: Fournisseur[];
   priority?: number;
 }
 

@@ -3,6 +3,7 @@ import { getArticleBySlug, getAllSlugs, getAllArticles } from "@/lib/articles";
 import { notFound } from "next/navigation";
 import AdSlot from "@/components/AdSlot";
 import ArticleCard from "@/components/ArticleCard";
+import FournisseurCard from "@/components/FournisseurCard";
 import Link from "next/link";
 import type { SectionImage } from "@/lib/articles";
 
@@ -85,6 +86,7 @@ export default async function ArticlePage({
     .slice(0, 2);
 
   const sectionImages = article.sectionImages || [];
+  const fournisseurs = article.fournisseurs || [];
 
   // Split content at h2 boundaries
   const sections = article.contentHtml.split(/(?=<h2)/);
@@ -93,6 +95,7 @@ export default async function ArticlePage({
   type RenderItem =
     | { type: "html"; html: string }
     | { type: "image"; index: number }
+    | { type: "fournisseur"; index: number }
     | { type: "ad" };
 
   const renderItems: RenderItem[] = [];
@@ -100,13 +103,17 @@ export default async function ArticlePage({
   let adInserted = false;
 
   for (const section of sections) {
-    // Check if an immersive image matches this section's h2
+    // Check if an immersive image or a supplier block matches this section's h2
     const h2Match = section.match(/<h2[^>]*>(.*?)<\/h2>/);
     if (h2Match) {
       const h2Text = h2Match[1].replace(/<[^>]*>/g, "").trim();
       const imgIndex = sectionImages.findIndex((img) => img.after === h2Text);
       if (imgIndex !== -1) {
         renderItems.push({ type: "image", index: imgIndex });
+      }
+      const fIndex = fournisseurs.findIndex((f) => f.after === h2Text);
+      if (fIndex !== -1) {
+        renderItems.push({ type: "fournisseur", index: fIndex });
       }
     }
 
@@ -218,6 +225,13 @@ export default async function ArticlePage({
         if (item.type === "image") {
           return (
             <ImmersiveImage key={`img-${i}`} img={sectionImages[item.index]} />
+          );
+        }
+        if (item.type === "fournisseur") {
+          return (
+            <div key={`f-${i}`} className="max-w-4xl mx-auto px-4">
+              <FournisseurCard f={fournisseurs[item.index]} />
+            </div>
           );
         }
         if (item.type === "ad") {
