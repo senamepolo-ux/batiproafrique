@@ -9,17 +9,6 @@ image: "/images/articles/maison-container.jpg"
 imageCredit: "© Fernando Alda — Felipe Assadi Arquitectos"
 readTime: "11 min"
 tags: ["container", "maison", "senegal", "innovation", "construction"]
-fournisseurs:
-  - nom: "New Life Containers"
-    activite: "Vente de conteneurs neufs et d'occasion, transformation et transport"
-    implantation: "Dakar (Sénégal) et Toulon (France)"
-    logo: "/images/fournisseurs/new-life-containers.png"
-    logoFondSombre: true
-    site: "new-life-containers.com"
-    email: "contact.senegal@new-life-containers.com"
-    telephone: "+221 78 798 11 87"
-    dateVerification: "août 2026"
-    after: "Les avantages réels du container"
 sectionImages:
   - url: "/images/articles/container-moderne.jpg"
     alt: "Module container moderne noir avec baie vitrée sur terrain"
@@ -50,31 +39,15 @@ L'idée est de recycler ces containers en les transformant en espaces habitables
 
 ### Prix d'achat du container au Sénégal
 
-Voici des tarifs fermes, relevés en août 2026 auprès de **New Life Containers**, fournisseur implanté à Dakar et à Toulon. Ce sont des prix de conteneurs d'occasion, toutes taxes comprises.
+| Type | État | Prix à Dakar |
+|------|------|-------------|
+| Container 20 pieds | Occasion | 800 000 à 1 200 000 FCFA |
+| Container 20 pieds | Dernier voyage | 500 000 à 800 000 FCFA |
+| Container 40 pieds | Occasion | 1 200 000 à 1 800 000 FCFA |
+| Container 40 pieds | Dernier voyage | 800 000 à 1 200 000 FCFA |
+| Container 40 pieds High Cube (2,89m) | Occasion | 1 500 000 à 2 200 000 FCFA |
 
-| Type | Prix TTC à Dakar |
-|------|-----------------|
-| Container 20 pieds (20'ST) | **900 000 FCFA** |
-| Container 40 pieds (40'ST ou 40'HC) | **1 700 000 FCFA** |
-| Container 40 pieds frigorifique (reefer) | **4 500 000 FCFA** |
-
-Le fournisseur précise que ces tarifs sont valables **deux mois pour les 20 pieds et un mois pour les 40 pieds**. Les prix des 20 pieds bougent peu ; ceux des 40 pieds varient selon l'état des unités et le nombre disponible sur le marché à un instant donné.
-
-**Un point que beaucoup ignorent : le dédouanement.** Un conteneur importé qui n'a pas été dédouané vous expose à des frais et à des délais que vous n'aviez pas prévus. Certains lots disponibles à Dakar sont déjà dédouanés ; demandez-le systématiquement et faites-le écrire sur la facture.
-
-### Le coût de livraison, chiffré
-
-C'est l'information qui manque partout, et elle change un budget. Voici les tarifs de livraison sur chantier, **mise à terre du conteneur comprise** :
-
-| Zone | 20 pieds | 40 pieds |
-|------|----------|----------|
-| Dakar zone 1 (jusqu'à Pikine, Guédiawaye) | 116 000 FCFA HT | 151 000 FCFA HT |
-| Dakar zone 2 (jusqu'à Rufisque, Sébikhotane) | 161 000 FCFA HT | 231 000 FCFA HT |
-| Hors Dakar | sur demande | sur demande |
-
-Retenez que la livraison représente **9 à 18 % du prix du conteneur** selon la taille et la zone. Ce n'est pas un détail, et c'est une ligne à faire figurer sur tout devis avant de signer.
-
-Les conteneurs sont également disponibles au port de Dakar et chez d'autres revendeurs spécialisés, notamment à Diamniadio et sur la route de Rufisque. Comparez toujours plusieurs offres, en exigeant que le prix annoncé précise s'il est TTC et si la livraison est incluse.
+Les containers sont disponibles au port de Dakar et chez les revendeurs spécialisés à Diamniadio et sur la route de Rufisque.
 
 ## Les avantages réels du container
 
