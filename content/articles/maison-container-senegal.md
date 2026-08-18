@@ -1,14 +1,26 @@
 ---
-title: "Maison Container au Sénégal : Bonne ou Mauvaise Idée ?"
+title: "Container au Sénégal : Prix 2026, Livraison et Coût d'une Maison"
 slug: "maison-container-senegal"
 date: "2026-04-13"
+dateReleve: "2026-08-12"
 priority: 11
 category: "Innovation"
-excerpt: "La maison container fait rêver au Sénégal : rapide, moderne, économique. Mais est-ce vraiment adapté au climat tropical ? Analyse complète des avantages, limites et prix réels."
+excerpt: "Combien coûte un conteneur au Sénégal en 2026 ? Prix d'achat 20 et 40 pieds, tarifs de livraison par zone, coût réel d'une maison container et limites du climat tropical."
 image: "/images/articles/maison-container.jpg"
 imageCredit: "© Fernando Alda — Felipe Assadi Arquitectos"
-readTime: "11 min"
-tags: ["container", "maison", "senegal", "innovation", "construction"]
+readTime: "13 min"
+tags: ["container", "conteneur", "prix", "maison", "senegal", "innovation", "construction"]
+fournisseurs:
+  - nom: "New Life Containers"
+    activite: "Vente de conteneurs neufs et d'occasion, transformation et transport"
+    implantation: "Dakar (Sénégal) et Toulon (France)"
+    logo: "/images/fournisseurs/new-life-containers.png"
+    logoFondSombre: true
+    site: "new-life-containers.com"
+    email: "contact.senegal@new-life-containers.com"
+    telephone: "+221 78 798 11 87"
+    dateVerification: "août 2026"
+    after: "Les avantages réels du container"
 sectionImages:
   - url: "/images/articles/container-moderne.jpg"
     alt: "Module container moderne noir avec baie vitrée sur terrain"
@@ -37,7 +49,25 @@ Un container maritime est une boîte en acier Corten conçue pour transporter de
 
 L'idée est de recycler ces containers en les transformant en espaces habitables : logements, bureaux, commerces, restaurants.
 
-### Prix d'achat du container au Sénégal
+### Comprendre le vocabulaire des vendeurs
+
+Avant de demander un devis, sachez lire les abréviations. Les vendeurs les emploient sans les expliquer, et beaucoup d'acheteurs signent sans avoir compris ce qu'ils prenaient.
+
+| Terme | Ce que ça veut dire |
+|-------|--------------------|
+| **20ST** | Conteneur 20 pieds standard, environ 14 m² |
+| **40ST** | Conteneur 40 pieds standard, environ 28 m² |
+| **40HC** | 40 pieds High Cube, 30 cm plus haut que le standard |
+| **Dry** | Conteneur sec, le modèle courant |
+| **Reefer** | Conteneur frigorifique, équipé d'un groupe froid |
+| **Mise à terre** | Dépose du conteneur au sol sur votre chantier |
+| **Dédouané** | Les droits de douane sont déjà payés à l'importation |
+
+Retenez le **High Cube** : c'est le seul format réellement viable pour habiter, et nous verrons plus loin pourquoi.
+
+### Les fourchettes du marché
+
+Voici ce que vous trouverez en cherchant chez les revendeurs de Dakar, de Diamniadio et de la route de Rufisque, ainsi qu'au port :
 
 | Type | État | Prix à Dakar |
 |------|------|-------------|
@@ -47,7 +77,35 @@ L'idée est de recycler ces containers en les transformant en espaces habitables
 | Container 40 pieds | Dernier voyage | 800 000 à 1 200 000 FCFA |
 | Container 40 pieds High Cube (2,89m) | Occasion | 1 500 000 à 2 200 000 FCFA |
 
-Les containers sont disponibles au port de Dakar et chez les revendeurs spécialisés à Diamniadio et sur la route de Rufisque.
+### Un exemple de tarifs fermes
+
+Une fourchette aide à cadrer un budget, mais elle ne remplace pas un devis. Voici des prix réels, communiqués par un fournisseur de la place en août 2026, pour des conteneurs d'occasion :
+
+| Type | Prix TTC |
+|------|---------|
+| 20 pieds standard (20ST) | **900 000 FCFA** |
+| 40 pieds standard ou High Cube | **1 700 000 FCFA** |
+| 40 pieds frigorifique (reefer) | **4 500 000 FCFA** |
+
+**Combien de temps ces prix tiennent-ils ?** Le fournisseur annonce **deux mois pour les 20 pieds et un mois pour les 40 pieds**. Les tarifs des 20 pieds bougent peu. Ceux des 40 pieds varient selon l'état des unités et le nombre disponible sur le marché à un instant donné. Demandez toujours la durée de validité écrite sur votre devis.
+
+**Vérifiez le dédouanement.** Un conteneur importé mais non dédouané vous expose à des frais et à des délais que vous n'aviez pas prévus. Certains lots de 20 et 40 pieds dry sont disponibles à Dakar **déjà dédouanés** : c'est un avantage réel, et il doit figurer sur la facture.
+
+> **Ces prix sont ceux d'un fournisseur, pas une moyenne du marché.** Faites établir au moins trois devis avant de vous décider.
+
+### Le coût de livraison sur votre chantier
+
+C'est le poste que presque personne ne chiffre, et il change un budget. Voici les tarifs de livraison, **mise à terre du conteneur comprise** :
+
+| Zone | 20 pieds | 40 pieds |
+|------|----------|----------|
+| Dakar zone 1 : jusqu'à Pikine, Guédiawaye | 116 000 FCFA HT | 151 000 FCFA HT |
+| Dakar zone 2 : jusqu'à Rufisque, Sébikhotane | 161 000 FCFA HT | 231 000 FCFA HT |
+| Hors Dakar | sur demande | sur demande |
+
+**Attention à un détail qui trompe beaucoup de monde** : les prix d'achat ci-dessus sont annoncés **TTC**, tandis que ces tarifs de livraison sont **HT**. Si vous additionnez les deux sans y prendre garde, votre budget sera faux. Demandez systématiquement à votre fournisseur de tout ramener à la même base avant de comparer deux offres.
+
+Retenez l'ordre de grandeur : la livraison représente environ **9 à 18 % du prix du conteneur** selon la taille et la zone.
 
 ## Les avantages réels du container
 
@@ -101,7 +159,9 @@ Un container standard fait 2,39m à l'intérieur. Avec l'isolation au sol (5 cm)
 
 ### Le transport sur site
 
-Livrer un container de 40 pieds (12 mètres, 3,8 tonnes à vide) sur votre terrain nécessite un camion plateau avec grue. Si votre terrain est dans un quartier avec des ruelles étroites, c'est parfois impossible. Coût du transport dans Dakar : 200 000 à 500 000 FCFA.
+Livrer un container de 40 pieds (12 mètres, 3,8 tonnes à vide) sur votre terrain nécessite un camion plateau avec grue. Si votre terrain est dans un quartier aux ruelles étroites, **c'est parfois physiquement impossible**, quel que soit le budget.
+
+Vérifiez l'accès avant d'acheter, pas après. Mesurez la largeur de la rue, repérez les angles, les câbles électriques et les arbres. Les tarifs de livraison figurent plus haut, dans la section consacrée aux coûts.
 
 ### La perception sociale
 
@@ -114,7 +174,7 @@ Prenons l'exemple d'un studio de 50 m² (2 containers 40 pieds High Cube) :
 | Poste | Coût |
 |-------|------|
 | 2 containers 40 pieds HC occasion | 3 000 000 à 4 000 000 FCFA |
-| Transport et pose sur site | 400 000 à 800 000 FCFA |
+| Livraison et mise à terre (2 × 40 pieds, zone 1) | 302 000 FCFA HT |
 | Fondations (plots béton) | 300 000 à 500 000 FCFA |
 | Découpes (portes, fenêtres, ouvertures) | 400 000 à 700 000 FCFA |
 | Soudure et renforcement structure | 300 000 à 500 000 FCFA |
@@ -140,15 +200,28 @@ Le container est une bonne solution pour :
 - **Restaurants et bars** : le look container est un atout marketing assumé
 - **Logements temporaires** : chantiers, bases de vie, hébergement de transition
 - **Terrains non titrés** : possibilité de déplacer la structure si nécessaire
+- **Studio pour une personne seule ou un couple** : voir la nuance ci-dessous
 
-Le container est **déconseillé** pour :
+### La taille du foyer change tout
 
-- **Résidence principale familiale** : coût final proche du classique, confort thermique inférieur
+C'est la distinction que la plupart des articles oublient, et elle est décisive.
+
+Un 40 pieds High Cube offre environ **28 m²** bruts, ramenés à 22 ou 24 m² une fois l'isolation posée. Pour **une personne seule ou un couple**, c'est un studio parfaitement viable, et l'un des moyens les plus rapides d'être chez soi. Un seul conteneur suffit, le budget reste contenu, et le confort thermique se règle avec une bonne isolation.
+
+Pour **une famille**, le calcul s'inverse. Loger cinq ou six personnes demande quatre à cinq conteneurs, des découpes, des soudures d'assemblage et un renforcement structurel à chaque jonction. Le coût rejoint alors celui d'une construction classique, avec un confort thermique inférieur et une hauteur sous plafond plus basse.
+
+**Le conteneur n'est pas déconseillé pour habiter. Il est déconseillé pour loger une famille nombreuse.**
+
+Le container reste **déconseillé** pour :
+
+- **Grande famille en résidence principale** : coût final proche du classique, confort thermique inférieur
 - **Zones sans électricité** : impossible de climatiser de manière acceptable, donc invivable en saison chaude
 - **Terrains difficiles d'accès** : livraison physiquement impossible
 
 ## Conclusion
 
-La maison container au Sénégal est une idée séduisante sur papier ; la réalité du climat tropical impose des contraintes d'isolation coûteuses qui annulent souvent l'avantage financier qu'on lui prête. Pour une résidence principale, la construction classique en béton armé, ou mieux encore en BTC avec matériaux locaux, reste plus performante thermiquement et souvent moins chère au mètre carré fini.
+La maison container au Sénégal est une idée séduisante sur papier ; la réalité du climat tropical impose des contraintes d'isolation coûteuses qui annulent souvent l'avantage financier qu'on lui prête. Pour loger une famille, la construction classique en béton armé, ou mieux encore en BTC avec matériaux locaux, reste plus performante thermiquement et souvent moins chère au mètre carré fini.
+
+Pour une personne seule ou un couple en revanche, un seul conteneur bien isolé constitue une solution rapide et cohérente, à condition de ne pas économiser sur l'isolation.
 
 En revanche, pour des usages commerciaux, temporaires ou des projets architecturaux à forte identité visuelle, le container reste une option rapide et distinctive. Comme toujours dans la construction, ce n'est pas le matériau qui est bon ou mauvais ; c'est l'adéquation entre ce matériau, votre usage et votre contexte qui fait la différence.

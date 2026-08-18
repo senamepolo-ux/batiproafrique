@@ -149,6 +149,18 @@ body {
   border-collapse: collapse;
   margin: 1.5rem 0;
   font-size: 0.95rem;
+  /* Les tableaux à quatre colonnes dépassent la largeur d'un téléphone.
+     Sans ceci ils sont coupés et le lecteur perd la dernière colonne. */
+  display: block;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+@media (min-width: 768px) {
+  .article-content table {
+    display: table;
+    white-space: normal;
+  }
 }
 
 .article-content th {
