@@ -23,11 +23,19 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "BatiPro Afrique" }],
   creator: "BatiPro Afrique",
+  // Google traite le PNG et l'ICO plus fiablement que le SVG pour l'icône
+  // affichée dans ses résultats. On déclare les trois, du plus universel
+  // au plus moderne, et on garde favicon.ico à la racine car c'est le
+  // fichier que Google cherche par défaut.
   icons: {
     icon: [
+      { url: "/favicon.ico", sizes: "48x48" },
+      { url: "/favicon-48x48.png", type: "image/png", sizes: "48x48" },
+      { url: "/favicon-192x192.png", type: "image/png", sizes: "192x192" },
       { url: "/favicon.svg", type: "image/svg+xml" },
     ],
-    shortcut: "/favicon.svg",
+    shortcut: "/favicon.ico",
+    apple: "/apple-touch-icon.png",
   },
   openGraph: {
     type: "website",
