@@ -76,7 +76,7 @@ Le bureau de contrôle est une **structure indépendante** qui vérifie que tout
 - **Rédiger des rapports** et signaler les problèmes avant qu'il ne soit trop tard
 
 **Pourquoi c'est important :**
-- Au Sénégal, beaucoup de bâtiments présentent des fissures, des affaissements ou même des effondrements. Dans la majorité des cas, c'est parce qu'il n'y a pas eu de contrôle technique
+- Au Sénégal, beaucoup de bâtiments présentent des fissures, des affaissements ou même des effondrements. Quand on remonte le fil de ces chantiers, on trouve très souvent la même absence : personne n'a vérifié la structure avant de la construire
 - Le bureau de contrôle est votre garantie que l'entreprise ou le tâcheron fait bien son travail
 - Il protège votre investissement et la sécurité de votre famille
 

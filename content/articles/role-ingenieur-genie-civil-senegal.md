@@ -22,7 +22,9 @@ sectionImages:
 
 ## Pourquoi cet article peut vous sauver des millions
 
-Au Sénégal, chaque année, des bâtiments fissurent, s'affaissent ou s'effondrent. Des familles perdent leur maison. Des économies de toute une vie disparaissent sous les décombres. Dans la grande majorité des cas, la cause est identique : l'absence d'un ingénieur génie civil dans le processus de construction.
+Au Sénégal, des bâtiments fissurent, s'affaissent ou s'effondrent. Des familles perdent leur maison. Des économies de toute une vie disparaissent sous les décombres.
+
+Quand on remonte le fil de ces chantiers, on retrouve très souvent la même chose, ou plutôt la même absence : ni note de calcul, ni plan d'exécution, ni contrôle technique. Personne n'a jamais vérifié que la structure tenait avant qu'on la construise. C'est le métier de l'ingénieur génie civil, et c'est de lui que parle cet article.
 
 Ce n'est pas une fatalité. C'est le résultat d'une erreur évitable, celle de confondre celui qui construit et celui qui conçoit. Cet article vous explique le rôle de chaque acteur technique, de l'étude du sol jusqu'à la réception du bâtiment, pour que vous puissiez construire en toute sécurité, et en toute connaissance de cause.
 

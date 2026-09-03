@@ -7,7 +7,7 @@ category: "Conseils"
 excerpt: "Vol de matériaux, faux devis, malfaçons cachées : découvrez les arnaques les plus fréquentes sur les chantiers sénégalais et comment vous en protéger efficacement."
 image: "/images/articles/ouvrier-echafaudage.jpg"
 imageCredit: "© Jean-Pierre Attal"
-readTime: "9 min"
+readTime: "10 min"
 tags: ["arnaques", "chantier", "senegal", "conseils", "securite", "construction"]
 sectionImages:
   - url: "/images/articles/ferraillage-aerien.jpg"
@@ -114,7 +114,7 @@ Le tâcheron reçoit une avance importante, commence les travaux, puis disparaî
 - **Ne versez jamais plus de 20 à 25 % d'avance**
 - **Payez par étapes** : avance, puis paiement à chaque étape terminée et vérifiée
 - **Incluez un calendrier** dans le contrat avec des pénalités de retard
-- **Gardez une retenue de garantie** de 10 % payable 3 mois après la fin des travaux
+- **Gardez une retenue de garantie**, une part du prix que vous ne versez qu'après un délai convenu. Prévoyez d'aller **au-delà du premier hivernage** : c'est la pluie qui révèle les fuites de toiture et les infiltrations, pas la réception des travaux
 
 ## Arnaque 6 : les fondations insuffisantes
 
@@ -201,7 +201,7 @@ Le bon ordre pour construire un bâtiment solide et sûr :
 
 1. **Ne confiez JAMAIS la conception au maçon** : faites appel à un architecte et un bureau d'étude technique. Le maçon exécute, il ne conçoit pas
 2. **Contrat écrit obligatoire** : même avec un ami ou un parent. Le contrat doit préciser : les travaux, le prix, le calendrier, les modalités de paiement, les pénalités
-3. **Paiement par étapes** : avance 20 %, fondations terminées 20 %, élévation 20 %, toiture 20 %, finitions 10 %, retenue de garantie 10 %
+3. **Paiement par étapes** : avance 20 %, fondations terminées 20 %, élévation 20 %, toiture 20 %, finitions 10 %, retenue de garantie 10 %. Cette dernière n'est imposée par aucune loi pour un chantier de particulier : c'est une clause que vous négociez et que vous écrivez, ou qui n'existe pas. À titre de repère, les marchés publics plafonnent la retenue à 5 % et gardent une garantie d'un an ; en tant que particulier vous pouvez demander mieux, personne ne vous en empêche
 4. **Achetez vous-même les matériaux** : ne confiez jamais l'argent des matériaux au tâcheron
 5. **Engagez un bureau de contrôle** : il validera les plans et vérifiera que les travaux sont bien réalisés
 6. **Visitez le chantier tous les jours** ou envoyez quelqu'un de confiance

@@ -29,7 +29,7 @@ sectionImages:
 
 ## Le foncier au Sénégal : un terrain miné
 
-Au Sénégal, le terrain est l'investissement d'une vie. C'est aussi, bien souvent, la source des litiges les plus douloureux ; des familles entières qui se retrouvent à la rue, des économies de vingt ans évaporées sur un document falsifié, des terrains vendus cinq fois au même acheteur fictif. Chaque année, des milliers de Sénégalais perdent leurs économies dans des arnaques foncières.
+Au Sénégal, le terrain est l'investissement d'une vie. C'est aussi, bien souvent, la source des litiges les plus douloureux ; des familles entières qui se retrouvent à la rue, des économies de vingt ans évaporées sur un document falsifié, des terrains vendus cinq fois au même acheteur fictif. Ces histoires reviennent dans presque toutes les familles.
 
 Ce guide vous explique exactement quels documents exiger, dans quel ordre, et quelles procédures suivre pour que votre achat de terrain soit solide, légal et définitif.
 
@@ -76,7 +76,7 @@ Le titre foncier est le **seul document qui prouve une propriété définitive e
 
 ### 5. Aucun document : Le plus risqué
 
-Beaucoup de terrains au Sénégal sont vendus sur la base d'un simple "papier du chef de village" ou d'un accord verbal. **Ces transactions n'ont aucune valeur juridique** ; elles sont la source de la majorité des litiges fonciers. Fuir ce type d'offre, même si le prix est attractif, est la règle absolue.
+Beaucoup de terrains au Sénégal sont vendus sur la base d'un simple "papier du chef de village" ou d'un accord verbal. **Ces transactions n'ont aucune valeur juridique** : le jour où le terrain est revendiqué par un tiers, vous n'avez rien à opposer. C'est de là que naissent les litiges les plus difficiles à démêler, parce qu'aucun document ne permet de trancher. Fuir ce type d'offre, même si le prix est attractif, est la règle absolue.
 
 ## Les arnaques foncières les plus courantes
 
