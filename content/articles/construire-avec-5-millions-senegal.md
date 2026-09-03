@@ -7,7 +7,7 @@ category: "Budget"
 excerpt: "5 millions FCFA pour construire : est-ce possible au Sénégal ? Oui, à condition de faire les bons choix. Guide pratique avec plans, matériaux et astuces pour optimiser chaque franc."
 image: "/images/articles/maison-modeste-tuiles.jpg"
 imageCredit: "© Rozana Montiel | Estudio de Arquitectura"
-readTime: "12 min"
+readTime: "5 min"
 tags: ["budget", "construction", "senegal", "economie", "maison"]
 sectionImages:
   - url: "/images/articles/maison-laterite.jpg"

@@ -8,7 +8,7 @@ category: "Innovation"
 excerpt: "Combien coûte un conteneur au Sénégal en 2026 ? Prix d'achat 20 et 40 pieds, tarifs de livraison par zone, coût réel d'une maison container et limites du climat tropical."
 image: "/images/articles/maison-container.jpg"
 imageCredit: "© Fernando Alda — Felipe Assadi Arquitectos"
-readTime: "13 min"
+readTime: "10 min"
 tags: ["container", "conteneur", "prix", "maison", "senegal", "innovation", "construction"]
 fournisseurs:
   - nom: "New Life Containers"

@@ -7,7 +7,7 @@ category: "Reglementation"
 excerpt: "Au Sénégal, beaucoup construisent sans architecte pour économiser. Mais les risques sont réels : malfaçons, problèmes juridiques, surcoûts. Découvrez quand un architecte est obligatoire et quand vous pouvez vous en passer."
 image: "/images/articles/plans-architecte.jpg"
 imageCredit: "© Denilson Machado — Studio Guilherme Torres"
-readTime: "18 min"
+readTime: "8 min"
 tags: ["architecte", "senegal", "reglementation", "construction", "conseils"]
 sectionImages:
   - url: "/images/articles/plans-architecte.jpg"

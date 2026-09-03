@@ -7,7 +7,7 @@ priority: 7
 category: "Coûts & Budget"
 excerpt: "Guide complet des prix de construction au Sénégal en 2026 : prix au m², budgets types, coût des matériaux et conseils pour optimiser votre investissement. Chiffres sourcés et datés."
 image: "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=800&q=80"
-readTime: "14 min"
+readTime: "13 min"
 tags: ["construction", "sénégal", "budget", "prix", "2026", "maison"]
 ---
 

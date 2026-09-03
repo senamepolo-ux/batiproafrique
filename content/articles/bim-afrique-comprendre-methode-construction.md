@@ -7,7 +7,7 @@ category: "Innovation"
 excerpt: "Le BIM transforme la construction mondiale depuis vingt ans. L'Afrique a aujourd'hui tous les atouts pour s'en saisir. Voici la méthode expliquée simplement, ses sept dimensions et comment commencer."
 image: "/images/articles/bim-axonometrie-batiment.jpg"
 imageCredit: "© Arquitectura | Diseño"
-readTime: "13 min"
+readTime: "12 min"
 tags: ["bim", "innovation", "afrique", "construction-numerique", "ingenierie", "senegal"]
 sectionImages:
   - url: "/images/articles/bim-axonometrie-detail.jpg"

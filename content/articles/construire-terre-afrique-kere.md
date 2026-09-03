@@ -7,7 +7,7 @@ category: "Matériaux"
 excerpt: "Brique en terre cuite, terre crue, BTC : ces matériaux africains sont plus solides, plus frais et moins polluants que le béton. Francis Kéré l'a prouvé au monde entier. Voici pourquoi l'avenir de la construction africaine est dans la terre."
 image: "/images/articles/kere-goethe-institut-dakar.jpg"
 imageCredit: "© Sylvain Cherkaoui / Kéré Architecture"
-readTime: "18 min"
+readTime: "14 min"
 tags: ["terre cuite", "BTC", "materiaux locaux", "Francis Kere", "construction durable", "Afrique", "Senegal", "indice carbone"]
 sectionImages:
   - url: "/images/articles/kere-centre-leo-burkina.jfif"
@@ -23,7 +23,7 @@ sectionImages:
   - url: "/images/articles/kere-gando-school-exterieur.jfif"
     alt: "École de Gando au Burkina Faso par Francis Kéré - briques de latérite et toiture ventilée"
     caption: "L'École de Gando : des briques locales, une toiture qui respire, et une salle de classe fraîche sans climatisation"
-    after: "La brique de terre compressée (BTC) : la modernité locale"
+    after: "Les trois matériaux en terre que l'Afrique doit connaître"
     credit: "© Siméon Duchoud / Kéré Architecture"
   - url: "/images/articles/kere-interieur-lumiere-briques.jfif"
     alt: "Intérieur d'un bâtiment en briques de terre avec jeux de lumière naturelle"

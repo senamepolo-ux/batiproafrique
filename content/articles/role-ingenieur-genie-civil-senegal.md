@@ -6,7 +6,7 @@ priority: 4
 category: "Guide Pratique"
 excerpt: "De l'étude de sol au suivi de chantier, découvrez pourquoi l'ingénieur génie civil est la clé d'une construction solide, stable et durable au Sénégal. Géotechnique, bureau d'étude, bureau de contrôle : tout comprendre."
 image: "/images/articles/ingenieur-plans-chantier.jpg"
-readTime: "20 min"
+readTime: "14 min"
 tags: ["ingenieur", "genie civil", "structure", "geotechnique", "bureau etude", "senegal", "construction"]
 sectionImages:
   - url: "/images/articles/ferraillage-aerien.jpg"

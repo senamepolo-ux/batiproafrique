@@ -7,7 +7,7 @@ category: "Reglementation"
 excerpt: "Titre foncier, bail, délibération : quels documents exiger avant d'acheter un terrain au Sénégal ? Guide complet des procédures et des pièges à éviter pour sécuriser votre investissement."
 image: "/images/articles/terrain-brousse.jpg"
 imageCredit: "Paysage de Garrigue"
-readTime: "14 min"
+readTime: "8 min"
 tags: ["terrain", "foncier", "documents", "senegal", "arnaque", "titre-foncier"]
 sectionImages:
   - url: "/images/articles/terrain-brousse.jpg"

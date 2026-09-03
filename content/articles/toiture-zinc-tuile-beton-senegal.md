@@ -7,7 +7,7 @@ category: "Materiaux"
 excerpt: "Tôle zinc, tuiles en béton, dalle béton : quelle toiture choisir au Sénégal ? Comparatif détaillé des prix, performances thermiques et durabilité pour faire le bon choix."
 image: "/images/articles/toiture-tole.jpg"
 imageCredit: "© Pablo Blanco — Puranun Arquitectos"
-readTime: "10 min"
+readTime: "7 min"
 tags: ["toiture", "zinc", "tuile", "beton", "senegal", "materiaux"]
 sectionImages:
   - url: "/images/articles/toiture-tuiles.jpg"

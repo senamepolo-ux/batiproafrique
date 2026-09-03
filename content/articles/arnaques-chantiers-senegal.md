@@ -7,25 +7,24 @@ category: "Conseils"
 excerpt: "Vol de matériaux, faux devis, malfaçons cachées : découvrez les arnaques les plus fréquentes sur les chantiers sénégalais et comment vous en protéger efficacement."
 image: "/images/articles/ouvrier-echafaudage.jpg"
 imageCredit: "© Jean-Pierre Attal"
-readTime: "18 min"
+readTime: "9 min"
 tags: ["arnaques", "chantier", "senegal", "conseils", "securite", "construction"]
 sectionImages:
-  - url: "/images/articles/ouvrier-echafaudage.jpg"
-    alt: "Ouvrier derrière un échafaudage sur un chantier"
-    caption: "Contrôler son chantier : la meilleure protection contre les arnaques"
-    after: "Arnaque 1 : le vol de matériaux"
-    credit: "© Jean-Pierre Attal"
   - url: "/images/articles/ferraillage-aerien.jpg"
-    alt: "Ferraillage et armatures en béton vus du ciel"
-    caption: "Un contrat écrit et un suivi rigoureux : vos meilleurs alliés"
-    after: "Comment se protéger : les 7 règles d'or"
+    alt: "Ferraillage et armatures en béton armé vus du ciel"
+    caption: "Un fer de diamètre insuffisant ou de récupération ne se voit plus une fois le béton coulé"
+    after: "Arnaque 3 : les fer à béton de mauvaise qualité"
+  - url: "/images/articles/ingenieur-plans-chantier.jpg"
+    alt: "Ingénieur consultant des plans techniques sur un chantier"
+    caption: "Le maçon exécute, l'ingénieur conçoit : confondre les deux est à l'origine des malfaçons les plus graves"
+    after: "Le plus grand problème au Sénégal : confier la conception au maçon"
 ---
 
 ## Les arnaques sur les chantiers : un fléau silencieux
 
 Des années d'économies. Des sacrifices, des privations, parfois des décennies à travailler depuis l'étranger. Et puis le chantier commence, et quelque chose cloche. Les matériaux disparaissent. Les délais s'allongent. Les factures gonflent. Ce n'est pas de la malchance ; c'est organisé.
 
-Au Sénégal, des milliers de propriétaires se font arnaquer chaque année sur leurs chantiers. Pas toujours par de grands escrocs ; souvent par des pratiques malhonnêtes devenues si banales qu'on les accepte comme une fatalité. Ce guide expose les huit arnaques les plus courantes et vous donne les moyens concrets de vous en protéger.
+Au Sénégal, ces mésaventures reviennent dans presque toutes les conversations sur la construction. Pas toujours du fait de grands escrocs ; souvent à cause de pratiques malhonnêtes devenues si banales qu'on les accepte comme une fatalité. Ce guide expose les huit arnaques les plus courantes et vous donne les moyens concrets de vous en protéger.
 
 ## Arnaque 1 : le vol de matériaux
 
@@ -196,7 +195,7 @@ Le bon ordre pour construire un bâtiment solide et sûr :
 
 **Total : environ 1 à 2 millions FCFA** pour un projet moyen. C'est cher ? Non. C'est le prix de la sécurité de votre famille. Un bâtiment qui s'effondre ou qui présente des fissures graves vous coûtera dix fois plus.
 
-> **La réalité** : au Sénégal, les effondrements de bâtiments, les fissures structurelles et les malfaçons graves sont presque toujours liés au même problème : l'absence d'ingénieur et de contrôle technique. Ne faites pas cette économie.
+> **Ce qu'un ingénieur constate sur le terrain** : quand un bâtiment fissure, s'affaisse ou s'effondre, on retrouve très souvent la même chose en remontant le fil : ni note de calcul, ni plan d'exécution, ni contrôle technique. Personne n'a vérifié que la structure tenait avant de la construire. C'est l'économie à ne pas faire.
 
 ## Comment se protéger : les 8 règles d'or
 
@@ -211,4 +210,4 @@ Le bon ordre pour construire un bâtiment solide et sûr :
 
 ## Conclusion
 
-Construire au Sénégal ne devrait pas être un parcours du combattant. Les arnaques décrites dans cet article ne prospèrent que dans un environnement d'improvisation et d'absence de contrôle. En appliquant ces règles de bon sens : contrat écrit, paiement par étapes, achat direct des matériaux, suivi régulier, vous éliminez 90 % des risques. Le dernier investissement à ne jamais négliger, c'est l'encadrement professionnel : architecte, ingénieur, bureau de contrôle. Ces 1 à 2 millions dépensés en début de projet peuvent vous en faire économiser dix en cours de route. Et surtout, ils protègent ceux qui vivront dans cette maison.
+Construire au Sénégal ne devrait pas être un parcours du combattant. Les arnaques décrites dans cet article ne prospèrent que dans un environnement d'improvisation et d'absence de contrôle. En appliquant ces règles de bon sens : contrat écrit, paiement par étapes, achat direct des matériaux, suivi régulier, vous retirez au tâcheron malhonnête l'essentiel de ses marges de manoeuvre. Le dernier investissement à ne jamais négliger, c'est l'encadrement professionnel : architecte, ingénieur, bureau de contrôle. Ces 1 à 2 millions dépensés en début de projet peuvent vous en faire économiser dix en cours de route. Et surtout, ils protègent ceux qui vivront dans cette maison.
