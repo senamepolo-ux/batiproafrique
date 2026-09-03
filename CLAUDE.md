@@ -237,7 +237,6 @@ Tout le reste, calculateur compris, produit peu d'effet tant que ce point n'avan
 - Terminer le calculateur : compléter les postes manquants (toiture, enduits, coffrage, terrassement), puis l'interface animée
 - Faire valider les hypothèses d'ingénierie du calculateur par Polo, désormais ingénieur diplômé
 - Étoffer l'annuaire naissant : chaque entreprise citée est une fiche du futur annuaire
-- Envisager un service payant de **relecture de devis**, qui alimenterait le contenu en prix de terrain réels
 
 ### Long terme
 - Phase 2 : développer la plateforme d'annuaire
@@ -435,10 +434,11 @@ Chaque couche a besoin de celle du dessous.
 
 | Produit | Prix | Quand |
 |---|---|---|
-| Relecture de devis | 25 000 à 50 000 F par devis | immédiat |
 | Référencement annuaire | 20 000 à 50 000 F par mois et par entreprise | 6 à 18 mois |
 | Contact qualifié transmis | 2 000 à 5 000 F par contact | 12 mois |
 | Suivi de chantier diaspora | 50 000 à 150 000 F par chantier | 18 à 24 mois |
+
+**Conséquence assumée : il n'y a aucun revenu avant le premier abonnement d'annuaire.** L'option d'un service payant de relecture de devis a été écartée par Polo en août 2026. Ne pas la reproposer.
 
 **Abonnement fixe, jamais de commission sur contrat signé** : la transaction est invisible, donc invérifiable et impayable.
 
