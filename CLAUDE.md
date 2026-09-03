@@ -86,16 +86,17 @@ C'est ainsi qu'on construit un contrepoids au monopole occidental sur la product
 ### Les 12 articles (par priority)
 1. `10-etapes-construction-maison` — Guide Pratique
 2. `arnaques-chantiers-senegal` — Conseils
-3. `role-ingenieur-genie-civil-senegal` — Guide Pratique
-4. `bim-afrique-comprendre-methode-construction` — Innovation (tiré du PFE)
+3. `bim-afrique-comprendre-methode-construction` — Innovation (tiré du PFE)
+4. `role-ingenieur-genie-civil-senegal` — Guide Pratique
 5. `construire-sans-architecte-senegal` — Réglementation
 6. `construire-terre-afrique-kere` — Matériaux (article phare, Kéré)
 7. `cout-construction-maison-senegal-2026` — Budget
 8. `documents-achat-terrain-senegal` — Réglementation
 9. `guide-permis-construire-senegal` — Réglementation
-10. `construire-avec-5-millions-senegal` — Budget
-11. `toiture-zinc-tuile-beton-senegal` — Matériaux
-12. `maison-container-senegal` — Innovation
+10. `toiture-zinc-tuile-beton-senegal` — Matériaux
+11. `maison-container-senegal` — Innovation
+
+**Article supprimé le 2026-09-03** : `construire-avec-5-millions-senegal`. Il promettait une maison de 60 m² finie pour 5 M FCFA, soit 83 000 FCFA/m², quand l'article sur les coûts fixe le plancher du marché à 180 000 FCFA/m². Les deux se contredisaient et le mauvais était le plus dangereux : il poussait à démarrer un chantier infinançable. Une redirection 301 vers l'article sur les coûts est en place dans `vercel.json`. **Ne pas le recréer sans refaire les chiffres depuis le marché réel.**
 
 ### Email et newsletter (opérationnels)
 - `contact@batiproafrique.com` : redirection Namecheap vers Gmail, plus « Envoyer en tant que » configuré dans Gmail

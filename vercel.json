@@ -1,0 +1,15 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "redirects": [
+    {
+      "source": "/articles/construire-avec-5-millions-senegal",
+      "destination": "/articles/cout-construction-maison-senegal-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/articles/construire-avec-5-millions-senegal/",
+      "destination": "/articles/cout-construction-maison-senegal-2026/",
+      "permanent": true
+    }
+  ]
+}
