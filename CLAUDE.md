@@ -77,23 +77,44 @@ C'est ainsi qu'on construit un contrepoids au monopole occidental sur la product
 - **SEO** : Google Search Console vérifié, sitemap.xml, schema.org, canonical URLs avec trailing slash
 
 ### Contenu
-- **11 articles publiés**, sélectionnés pour leur qualité (4 articles faibles ont été supprimés)
+- **12 articles publiés**, sélectionnés pour leur qualité (4 articles faibles ont été supprimés)
 - Ordre par `priority` dans le frontmatter (1 = plus important)
 - Image héros + photos immersives dans le texte (`sectionImages`)
 - Système de crédits photos complet (`imageCredit` + `credit` sur chaque image)
+- Bloc fournisseur vérifié (`fournisseurs` dans le frontmatter)
 
-### Les 11 articles (par priority)
+### Les 12 articles (par priority)
 1. `10-etapes-construction-maison` — Guide Pratique
 2. `arnaques-chantiers-senegal` — Conseils
 3. `role-ingenieur-genie-civil-senegal` — Guide Pratique
-4. `construire-sans-architecte-senegal` — Réglementation
-5. `construire-terre-afrique-kere` — Matériaux (article phare, Kéré)
-6. `cout-construction-maison-senegal-2026` — Budget
-7. `documents-achat-terrain-senegal` — Réglementation
-8. `guide-permis-construire-senegal` — Réglementation
-9. `construire-avec-5-millions-senegal` — Budget
-10. `toiture-zinc-tuile-beton-senegal` — Matériaux
-11. `maison-container-senegal` — Innovation
+4. `bim-afrique-comprendre-methode-construction` — Innovation (tiré du PFE)
+5. `construire-sans-architecte-senegal` — Réglementation
+6. `construire-terre-afrique-kere` — Matériaux (article phare, Kéré)
+7. `cout-construction-maison-senegal-2026` — Budget
+8. `documents-achat-terrain-senegal` — Réglementation
+9. `guide-permis-construire-senegal` — Réglementation
+10. `construire-avec-5-millions-senegal` — Budget
+11. `toiture-zinc-tuile-beton-senegal` — Matériaux
+12. `maison-container-senegal` — Innovation
+
+### Email et newsletter (opérationnels)
+- `contact@batiproafrique.com` : redirection Namecheap vers Gmail, plus « Envoyer en tant que » configuré dans Gmail
+- Newsletter **Brevo**, formulaire branché, double opt-in, liste « Newsletter BatiPro »
+- Parcours : formulaire → `/newsletter-confirmee/` → email de confirmation → `/bienvenue/`
+- Domaine authentifié DKIM et DMARC
+- Détail complet dans la mémoire Claude, fichier `batiproafrique_email_config.md`
+
+### Première collaboration entreprise (août 2026)
+**New Life Containers** (Dakar et Toulon) a trouvé l'article sur le conteneur et nous a transmis ses tarifs spontanément. Publié dans `maison-container-senegal` avec le bloc fournisseur.
+
+C'est le **modèle reproductible** de la Phase 2 : l'entreprise donne ses données, BatiPro les publie avec rigueur et la cite comme source. Aucun argent n'est échangé. Prochaine cible : Elementerre.
+
+### Indexation Google (état au 18 août 2026)
+- **11 pages indexées, 6 articles jamais explorés** (statut « Détectée, actuellement non indexée », dernière exploration « Sans objet »)
+- Ce n'est pas un défaut du site : Google rationne l'exploration d'un domaine jeune sans liens entrants
+- Ce qui le débloque durablement : des liens depuis d'autres sites et du trafic réel, pas des réglages techniques
+- Les motifs « Page avec redirection » et « Introuvable (404) » sont **normaux** : trailing slash voulu, et article supprimé. **Ne jamais cliquer « Valider la correction » dessus**, la vérification échouerait.
+- 175 clics depuis Google sur la période, requête « batipro » en hausse de 164 %
 
 ---
 
@@ -119,6 +140,28 @@ Ces directives viennent du mémoire PFE de Polo et sont adaptées au blog. Elles
 1. **Zéro phrase en l'air.** Chaque chiffre, chaque affirmation technique doit être juste. Pas de fausses statistiques inventées.
 2. **Contexte africain assumé.** On parle de latérite, de BTC, de baobabs, de Casamance, de Kéré, de saison sèche et d'hivernage. Pas de "mois chauds" quand on peut dire "saison sèche".
 3. **Identité africaine dans l'esthétique.** Matériaux locaux, couleurs chaudes, architecture qui respire.
+
+### Sur le sourçage : la règle qui vaut toutes les autres
+
+Cette discipline est née d'un audit d'août 2026 qui a révélé **quatre erreurs de prix dans un seul article**, dont une d'un facteur dix. Elle n'est pas théorique, elle vient d'erreurs réelles.
+
+**Tout chiffre porte sa source et sa date.** Un prix sans date est une rumeur bien présentée. Les articles se terminent par une section Sources, et le frontmatter porte un champ `dateReleve`.
+
+**Ne jamais se citer soi-même sans le savoir.** En cherchant à vérifier un chiffre de BatiPro, le premier résultat Google est souvent... l'article de BatiPro. Ou un site qui l'a recopié. **Toujours exclure `batiproafrique.com` des recherches de vérification.** C'est ainsi qu'une information inventée devient une vérité apparente.
+
+**Croiser au moins deux sources indépendantes**, et vérifier par le calcul quand c'est possible. Exemple réel : les prix du fer à la barre, convertis en prix à la tonne via les masses linéiques normalisées, ont validé la cohérence de la source.
+
+**Distinguer le prix officiel du prix payé.** Au Sénégal, les prix homologués du ciment et du fer ne sont pas appliqués sur le marché. Toujours afficher les deux. La règle donnée au lecteur : *budgétez au prix du marché, négociez au prix homologué*.
+
+**Attention aux unités.** Le sable et le gravier se vendent au camion (benne standard de 20 m³), pas au mètre cube. Confondre les deux fausse un budget d'un facteur dix.
+
+**Ne citer que des sources qui élèvent.** Institutions (ANSD, Primature), presse spécialisée (ArchDaily, Dezeen, Architectural Record), études, sources primaires, fournisseurs identifiés. **Jamais de blog commercial concurrent** : les citer place BatiPro à leur niveau et leur envoie de l'autorité. Si l'info n'existe que là, l'attribuer en texte sans lien.
+
+**Dire ce qu'on ne sait pas.** Il n'existe aucune source officielle du coût au m² au Sénégal. L'article le dit. Assumer une incertitude vaut mieux qu'une fausse précision, et c'est ce qui distingue BatiPro de ses concurrents.
+
+**Corriger sans se justifier.** Une correction se voit dans le contenu, pas dans un paragraphe d'explication. Une ligne suffit : *prix vérifiés et actualisés le [date]*.
+
+**Ne jamais employer un superlatif invérifiable.** « Acteur incontournable », « le meilleur », « le leader » : bannis. On écrit ce qu'on peut prouver.
 
 ### Formule d'article (structure type)
 
@@ -160,26 +203,41 @@ sectionImages:
 
 ## 4. Règles du Projet
 
-1. **Qualité > Quantité.** Mieux vaut 11 articles excellents que 30 articles moyens. Google préfère, les lecteurs préfèrent, la marque se construit mieux.
+1. **Qualité > Quantité.** Mieux vaut 12 articles excellents que 30 articles moyens. Google préfère, les lecteurs préfèrent, la marque se construit mieux.
 2. **Matériaux locaux mis en avant.** BTC, latérite, terre cuite, bois local. On ne copie pas les modèles européens ou américains sans réfléchir.
 3. **Crédits photos rigoureux.** Toutes les photos créditent leur photographe et leur projet. Aucune photo sans crédit si la source est connue.
 4. **Pas de tiret long (em dash).** Jamais, sous aucun prétexte. Virgule, parenthèse, point-virgule à la place.
 5. **Pas de création d'accounts ou de transactions financières à la place de Polo.** Claude exécute, Polo décide.
+6. **Montrer avant de publier.** Construire en local, faire valider par Polo, et ne pousser qu'à son feu vert explicite. Cette règle vient d'un manquement d'août 2026.
+7. **Créditer les acteurs africains.** Quand un ouvrage africain est salué, on retient l'architecte star et on oublie ceux qui ont fabriqué la matière et tenu le chantier. BatiPro les nomme. C'est le sujet même du projet.
+8. **Une entreprise citée est une source, pas un partenaire.** Aucun article sponsorisé, aucune promesse de référencement, aucun superlatif. La citation dit d'où vient le chiffre, rien de plus. C'est plus crédible et ça sert mieux l'entreprise.
 
 ---
 
 ## 5. Prochaines Étapes
 
-### Court terme (semaines qui viennent)
-- Surveiller l'indexation Google Search Console après correction du sitemap (trailing slashes)
-- Attendre que les 6 pages "Explorées non indexées" soient indexées (délai Google : 2-6 semaines pour un nouveau site)
+### La priorité qui domine tout : la diffusion
+
+Le site est techniquement solide, les articles sont rigoureux, la newsletter fonctionne. **Le goulot n'est plus la qualité, c'est que personne ne sait que ça existe.**
+
+Six articles sur douze n'ont jamais été explorés par Google, faute d'autorité de domaine. Aucun réglage technique ne corrige ça : seuls des liens entrants et du trafic réel augmentent le budget d'exploration.
+
+Tout le reste, calculateur compris, produit peu d'effet tant que ce point n'avance pas.
+
+### Court terme
+- **Diffuser** : message WhatsApp au réseau, réseaux sociaux, groupes de construction et de diaspora
+- Demander l'indexation manuelle des 6 articles jamais explorés, dans Search Console
+- Envoyer le lien de l'article container à New Life Containers, sans survendre
+- Contacter **Elementerre** sur le même modèle, en s'appuyant sur l'article Kéré qui les crédite déjà
+- Envoyer la première newsletter (brouillon prêt dans `content/newsletters/`) une fois qu'il y a de vrais abonnés
 - Activer AdSense quand le site aura plus d'ancienneté et de trafic
-- Partager les articles sur WhatsApp, Facebook, LinkedIn pour générer les premiers clics
 
 ### Moyen terme (3-6 mois)
-- Écrire 5 à 10 nouveaux articles stratégiques (en respectant la qualité)
-- Commencer à collecter des emails (newsletter) pour préparer la Phase 2
-- Identifier les premiers architectes/ingénieurs sénégalais intéressés par un annuaire
+- Écrire 5 à 10 nouveaux articles stratégiques, dont le sujet **maison à étage contre plain-pied**, supprimé mais que Google cherche encore
+- Terminer le calculateur : compléter les postes manquants (toiture, enduits, coffrage, terrassement), puis l'interface animée
+- Faire valider les hypothèses d'ingénierie du calculateur par Polo, désormais ingénieur diplômé
+- Étoffer l'annuaire naissant : chaque entreprise citée est une fiche du futur annuaire
+- Envisager un service payant de **relecture de devis**, qui alimenterait le contenu en prix de terrain réels
 
 ### Long terme
 - Phase 2 : développer la plateforme d'annuaire
@@ -288,6 +346,26 @@ Quand on lance une génération visuelle, partir de ce brief :
 - `src/app/layout.tsx` — Metadata globale, GA4, schema.org, favicon
 - `next.config.js` — `trailingSlash: true` (important pour le sitemap)
 
+### Composants et modules ajoutés en août 2026
+
+- `src/components/FournisseurCard.tsx` — **Bloc « source vérifiée »**. Se déclare dans le frontmatter d'un article via `fournisseurs:`, avec un champ `after` qui fonctionne comme celui des images. C'est le format des futures fiches de l'annuaire, donc **ne jamais bricoler un encadré à la main** : enrichir ce composant.
+- `src/components/NewsletterSection.tsx` — Formulaire en POST natif vers Brevo. Le site étant en export statique, aucune API route n'est possible. **Trois champs obligatoires** : `EMAIL`, `email_address_check` (piège anti-robot, doit rester vide) et `locale`. Sans les deux derniers, Brevo rejette silencieusement.
+- `src/lib/newsletter.ts` — URL du formulaire Brevo, point unique de configuration
+- `src/lib/calculateur/` — **Moteur du calculateur, non terminé et non branché à une page.**
+  - `hypotheses.ts` : toutes les hypothèses d'ingénierie, isolées et commentées, **à valider par Polo**
+  - `donnees.ts` : prix, chacun avec source et date
+  - `moteur.ts` : calcul des quantités
+  - Principe retenu : le calculateur répond à **deux questions distinctes**. Les quantités sont calculées et vérifiables ; le budget vient de fourchettes de marché observées. Les deux ne se mélangent jamais, sous peine de fausse précision. Un premier essai qui déduisait le budget des quantités se trompait d'un facteur cinq.
+  - Manquent encore : toiture, enduits, coffrage, terrassement, main d'œuvre complète
+- `src/app/bienvenue/` et `src/app/newsletter-confirmee/` — pages du parcours newsletter, en `noindex`
+- `public/logo-batipro.png` — logo pour signature email, identique à l'en-tête du site
+- `public/images/fournisseurs/` — logos des entreprises citées
+- `content/newsletters/` — brouillons de newsletters, non envoyés
+
+### Détail technique à connaître
+
+Node n'est pas dans le PATH sur la machine de Polo. Chemin réel : `C:\Users\Etudiant\node-v20.18.1-win-x64\node.exe`. Pour construire : `node ./node_modules/next/dist/bin/next build`.
+
 ---
 
 ## 8. Ce que je (Claude) dois toujours faire
@@ -299,3 +377,8 @@ Quand on lance une génération visuelle, partir de ce brief :
 5. **Exécuter, pas décider** pour les questions business critiques
 6. **Créer des commits propres** avec des messages en français explicites
 7. **Considérer la vision long terme** (les 4 phases) quand on me demande une nouvelle fonctionnalité
+8. **Vérifier avant d'affirmer.** Croiser deux sources indépendantes, exclure `batiproafrique.com` des recherches de vérification, et dire clairement ce qu'on ne sait pas.
+9. **Montrer en local avant de pousser**, et attendre le feu vert explicite.
+10. **Tester avant de livrer.** Le moteur du calculateur se trompait d'un facteur cinq ; seul un test sur des cas réels l'a révélé. Ne jamais présenter un résultat sans l'avoir confronté à la réalité du marché.
+11. **Dire quand je me suis trompé**, sans détour et sans m'étendre. Corriger, expliquer en une phrase, continuer.
+12. **Écrire des réponses courtes.** Polo l'a demandé plusieurs fois. Tableaux et listes plutôt que paragraphes, et une recommandation tranchée plutôt qu'un catalogue d'options.
