@@ -2,7 +2,7 @@
 title: "Le Rôle de l'Ingénieur Génie Civil dans la Construction au Sénégal : Pourquoi il est Indispensable"
 slug: "role-ingenieur-genie-civil-senegal"
 date: "2026-04-15"
-priority: 3
+priority: 4
 category: "Guide Pratique"
 excerpt: "De l'étude de sol au suivi de chantier, découvrez pourquoi l'ingénieur génie civil est la clé d'une construction solide, stable et durable au Sénégal. Géotechnique, bureau d'étude, bureau de contrôle : tout comprendre."
 image: "/images/articles/ingenieur-plans-chantier.jpg"

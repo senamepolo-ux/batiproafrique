@@ -2,7 +2,7 @@
 title: "Le BIM, cette révolution silencieuse que l'Afrique peut s'approprier"
 slug: "bim-afrique-comprendre-methode-construction"
 date: "2026-04-26"
-priority: 4
+priority: 3
 category: "Innovation"
 excerpt: "Le BIM transforme la construction mondiale depuis vingt ans. L'Afrique a aujourd'hui tous les atouts pour s'en saisir. Voici la méthode expliquée simplement, ses sept dimensions et comment commencer."
 image: "/images/articles/bim-axonometrie-batiment.jpg"

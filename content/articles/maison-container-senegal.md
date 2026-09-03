@@ -3,7 +3,7 @@ title: "Container au Sénégal : Prix 2026, Livraison et Coût d'une Maison"
 slug: "maison-container-senegal"
 date: "2026-04-13"
 dateReleve: "2026-08-12"
-priority: 11
+priority: 12
 category: "Innovation"
 excerpt: "Combien coûte un conteneur au Sénégal en 2026 ? Prix d'achat 20 et 40 pieds, tarifs de livraison par zone, coût réel d'une maison container et limites du climat tropical."
 image: "/images/articles/maison-container.jpg"

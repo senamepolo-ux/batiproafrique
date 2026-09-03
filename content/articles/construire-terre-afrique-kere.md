@@ -2,7 +2,7 @@
 title: "Construire en Afrique avec la Terre : Le Matériau d'Avenir que Kéré a Montré au Monde"
 slug: "construire-terre-afrique-kere"
 date: "2026-04-17"
-priority: 5
+priority: 6
 category: "Matériaux"
 excerpt: "Brique en terre cuite, terre crue, BTC : ces matériaux africains sont plus solides, plus frais et moins polluants que le béton. Francis Kéré l'a prouvé au monde entier. Voici pourquoi l'avenir de la construction africaine est dans la terre."
 image: "/images/articles/kere-goethe-institut-dakar.jpg"
