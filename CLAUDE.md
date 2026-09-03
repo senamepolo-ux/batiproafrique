@@ -164,6 +164,18 @@ Cette discipline est née d'un audit d'août 2026 qui a révélé **quatre erreu
 
 **Ne jamais employer un superlatif invérifiable.** « Acteur incontournable », « le meilleur », « le leader » : bannis. On écrit ce qu'on peut prouver.
 
+**Se méfier des sources qui ont l'air officielles.** Le « générateur de prix Sénégal » de CYPE (`senegal.prix-construction.info`) sort en tête sur Google et annonce 62 736 FCFA/m² pour une toiture en tuiles, soit dix fois le marché local. Il applique des spécifications européennes à des taux de main d'oeuvre sénégalais. **Ne jamais l'utiliser pour un budget.** La règle générale : un chiffre qui s'écarte d'un ordre de grandeur du marché connu est faux jusqu'à preuve du contraire, même sur un site d'apparence professionnelle.
+
+**Vérifier la cohérence interne d'un article, pas seulement ses sources.** L'article toiture annonçait une dalle de 15 cm pesant 250 kg/m², alors que 0,15 × 2 500 = 375. L'article des 5 millions promettait 83 000 FCFA/m² quand l'article des coûts fixait le plancher à 180 000. **Deux chiffres d'un même site qui se contredisent font plus de dégâts qu'une source manquante.**
+
+**Attention aux surfaces autant qu'aux unités.** Une toiture inclinée est plus grande que l'emprise au sol : à 30° de pente, 100 m² au sol demandent environ 115 m² de couverture. Chiffrer une toiture sur la surface habitable sous-estime les matériaux de 15 %.
+
+### Sources de référence déjà validées
+
+- **ANSD, RGPH-5 (recensement 2023, rapport provisoire juillet 2024)** — chapitre 8 « Habitat ». Contient la répartition des matériaux de toit, de mur et de sol, par région et par milieu. C'est la source officielle pour toute affirmation sur ce que les Sénégalais construisent réellement. Extrait avec `pdftotext -layout` : les tableaux du PDF sortent désalignés, mais **le texte narratif de chaque section donne les mêmes chiffres proprement**. Toujours citer le texte, jamais le tableau extrait.
+- Répartition nationale des toits (RGPH-5) : béton 44,6 %, zinc/tôle 36,1 %, tuile/ardoise 8,0 %, chaume/paille 6,6 %. En ville : béton 63,3 %. À Dakar : 83,2 %.
+- **Piège rencontré** : deux extractions automatiques du même rapport donnaient 44,6 % et 12,9 % pour le béton. Les deux étaient exactes — l'une nationale, l'autre rurale. **Toujours vérifier à quel périmètre se rapporte un pourcentage avant de le publier.**
+
 ### Formule d'article (structure type)
 
 Chaque article suit cette structure :
