@@ -382,3 +382,151 @@ Node n'est pas dans le PATH sur la machine de Polo. Chemin réel : `C:\Users\Etu
 10. **Tester avant de livrer.** Le moteur du calculateur se trompait d'un facteur cinq ; seul un test sur des cas réels l'a révélé. Ne jamais présenter un résultat sans l'avoir confronté à la réalité du marché.
 11. **Dire quand je me suis trompé**, sans détour et sans m'étendre. Corriger, expliquer en une phrase, continuer.
 12. **Écrire des réponses courtes.** Polo l'a demandé plusieurs fois. Tableaux et listes plutôt que paragraphes, et une recommandation tranchée plutôt qu'un catalogue d'options.
+
+---
+
+## 9. Le Modèle Économique
+
+Décidé en août 2026. Complète les 4 phases de la section 1 en décrivant **comment** l'argent entre.
+
+### Le moteur en une phrase
+
+Le contenu attire des gens qui vont construire. Les entreprises paient pour les atteindre. **La vérification est ce qui rend le tout crédible.**
+
+### La boucle qui s'auto-alimente
+
+```
+BatiPro filme une entreprise sur son chantier
+        ↓
+L'article et la vidéo montrent son travail au public
+        ↓
+Des clients la contactent, via BatiPro
+        ↓
+L'entreprise constate que BatiPro lui amène du monde
+        ↓
+Elle paie pour rester référencée, et en parle aux autres
+        ↓
+D'autres entreprises demandent à être filmées
+```
+
+**La stratégie de contenu est la stratégie commerciale.** Une interview est un article et une relation nouée. Chaque reportage est une future fiche d'annuaire. Ce n'est pas deux métiers, c'est le même geste.
+
+### L'actif défendable
+
+Ni le site, ni le code, ni même les articles. **La base de prix sourcés et datés, et le fait qu'une citation de BatiPro veuille dire quelque chose.**
+
+N'importe qui peut publier un annuaire. Seul BatiPro peut écrire « nous avons vérifié cette entreprise ». **Le jour où un mauvais payeur est accepté, toute la valeur s'effondre.** Savoir dire non est le produit.
+
+### L'architecture en cinq couches
+
+Chaque couche a besoin de celle du dessous.
+
+| | Couche | Contenu | Revenu |
+|---|---|---|---|
+| **1** | **Le média** | articles sourcés, interviews, immersions chantier | marginal : AdSense, contenus techniques sponsorisés identifiés |
+| **2** | **Le savoir** | chercheurs, docteurs, ingénieurs, architectes publient | **aucun, et c'est voulu** |
+| **3** | **L'annuaire** | qui fait quoi, où, vérifié | **abonnement, la machine à cash** |
+| **4** | **La mise en relation** | client vers pro, pro vers fournisseur, carte | paiement au contact transmis |
+| **5** | **L'accompagnement** | suivi de chantier diaspora, consultance | le plus cher vendu |
+
+**La couche 2 doit rester gratuite.** C'est le fossé défensif : un concurrent copie un annuaire en un mois, il ne copie pas deux ans de contributions d'universitaires.
+
+### Les tarifs retenus
+
+| Produit | Prix | Quand |
+|---|---|---|
+| Relecture de devis | 25 000 à 50 000 F par devis | immédiat |
+| Référencement annuaire | 20 000 à 50 000 F par mois et par entreprise | 6 à 18 mois |
+| Contact qualifié transmis | 2 000 à 5 000 F par contact | 12 mois |
+| Suivi de chantier diaspora | 50 000 à 150 000 F par chantier | 18 à 24 mois |
+
+**Abonnement fixe, jamais de commission sur contrat signé** : la transaction est invisible, donc invérifiable et impayable.
+
+### Projection du référencement
+
+| Entreprises | Par mois | Par an |
+|---|---|---|
+| 10 | 200 000 à 500 000 F | 2,4 à 6 M |
+| 30 | 600 000 à 1,5 M | 7 à 18 M |
+| 100 | 2 à 5 M | 24 à 60 M |
+
+Signer 100 entreprises prend des années. **Dix à vingt la première année est déjà un bon résultat.**
+
+### Le produit le plus fort, et le plus sous-estimé
+
+**Le suivi de chantier pour la diaspora.** Quelqu'un à Paris ou à New York envoie des millions et ne voit rien. Photos datées, avancement, vérification des livraisons face au devis, contrôle par un ingénieur.
+
+C'est le seul segment où le particulier paie volontiers, et il en a les moyens. C'est aussi la réponse la plus directe à la mission : ne plus se faire leurrer, même à cinq mille kilomètres.
+
+### La vérité sur l'objectif
+
+Le référencement ne rend pas milliardaire. **60 millions par an permet de vivre, d'embaucher et de financer la suite.** Le milliard, s'il vient, viendra de la Phase 3 et 4, quand BatiPro prendra une part sur des transactions au lieu de facturer des abonnements.
+
+**Le référencement finance le chemin, il n'est pas la destination.**
+
+### Ce qui est difficile, à ne pas sous-estimer
+
+- **La carte des fournisseurs** n'est pas un problème de code mais de terrain. Recenser des centaines de quincailleries avec adresses vérifiées demande des mois. Commencer par une ville.
+- **Le pro vers pro** est le côté le plus dur à monétiser : les professionnels se connaissent déjà.
+- **L'application** ne se construit pas avant que le site n'ait prouvé le besoin.
+
+### L'ordre
+
+1. **Maintenant** : diffuser. Interviews et immersions, qui servent le contenu et le commerce à la fois
+2. **3 mois** : l'annuaire, avec les entreprises rencontrées en reportage
+3. **6 mois** : ouvrir la couche savoir aux universitaires et praticiens
+4. **12 mois** : la mise en relation, d'abord manuelle pour apprendre, puis automatisée
+5. **18 à 24 mois** : le suivi diaspora
+
+**Les places de marché meurent de vouloir lancer tous leurs côtés en même temps.** BatiPro a une chance rare : son média a de la valeur pour les particuliers même avec zéro entreprise inscrite. Un côté à la fois.
+
+---
+
+## 10. Stratégie de Diffusion
+
+Le contenu doit être **propre, atypique et soigné**, conforme à l'identité visuelle de la section 6. Pas de visuels bâclés, pas de stickers, pas de format générique.
+
+### Chaque réseau sert une couche différente
+
+| Réseau | Public atteint | Ce que ça nourrit |
+|---|---|---|
+| **YouTube** | recherche, format long | **capitalise comme les articles** |
+| **LinkedIn** | architectes, BET, ingénieurs, entreprises | **l'annuaire, la Phase 2** |
+| **TikTok** | grand public sénégalais et diaspora | trafic, notoriété |
+| **Instagram** | même public, plus visuel | marque, mémorisation |
+| Snapchat | jeunes, usage privé | faible retour, à ignorer pour l'instant |
+
+**LinkedIn est le réseau le plus stratégique**, et celui auquel personne ne pense dans le secteur : c'est là que se trouvent ceux qui paieront pour être référencés.
+
+**YouTube est le seul réseau où le contenu capitalise.** Deuxième moteur de recherche au monde, ses vidéos remontent aussi dans Google, et une vidéo bien faite ramène des spectateurs pendant des années là où un TikTok meurt en deux jours. Une même enquête donne un article et une vidéo.
+
+### Ce qui fonctionne, par plateforme
+
+**YouTube** : format long pour les interviews et immersions, Shorts pour la découverte. Titres pensés comme des recherches. Descriptions travaillées, les liens y fonctionnent réellement.
+
+**LinkedIn** : texte long, ton professionnel. Le statut d'ingénieur compte. L'article BIM, le PFE sur le R+8, l'analyse des prix homologués non appliqués sont faits pour ce réseau.
+
+**TikTok** : découverte pure, aucun abonné requis pour percer. Temps de visionnage et réécoute sont les signaux. Accroche dans la première seconde, vertical natif sans watermark. Formats efficaces : révélation de prix, avant-après, « ce que ce maçon fait mal ».
+
+**Instagram** : partages et enregistrements pèsent plus que les likes. Un carrousel de prix sourcés s'enregistre.
+
+### Le piège que presque tous ignorent
+
+**Toutes ces plateformes pénalisent les liens sortants.** L'objectif sur les réseaux n'est donc pas le clic, mais que le nom **BatiPro** soit retenu.
+
+La requête « batipro » a bondi de 164 % d'impressions en août 2026. **La recherche de marque contourne tous les algorithmes.** Donner toute la valeur dans la publication, sans réclamer le clic : le nom fait le travail.
+
+### Deux erreurs à éviter
+
+- **Publier la même chose partout.** Même sujet, format refait pour chaque plateforme.
+- **Le rythme intenable.** Deux publications par semaine tenues un an valent mieux que sept par semaine pendant un mois. Produire en lot, programmer, oublier.
+
+### Sur un éventuel associé technique
+
+Polo n'est pas développeur et envisage d'associer un ami développeur.
+
+Le besoin réel n'est pas le code aujourd'hui, mais quelqu'un qui porte le projet dans la durée, puis l'application de la Phase 3 et la carte des fournisseurs, tous deux à douze ou dix-huit mois.
+
+**Règle à respecter : vesting sur quatre ans**, mis par écrit maintenant, quand le projet ne vaut encore rien. Le scénario qui tue les projets entre amis est un partage 50-50 dans l'enthousiasme, suivi d'un départ au bout de trois mois avec la moitié des parts.
+
+Et ne pas recruter sur la promesse du milliard : celui qui vient pour l'argent part quand les six premiers mois ne rapportent rien. Montrer des preuves, pas des promesses.
